@@ -1,0 +1,1455 @@
+
+===== Github_hard---o13029.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1381979
+engine:init_done us=817872
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o13029.json
+[1/1] Github_hard maskbench/data/Github_hard---o13029.json
+  compile_grammar:start schema=Github_hard---o13029.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o13029.json compile_grammar_us=11546668
+  test:start schema=Github_hard---o13029.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=242 tokenize_us=7857 tokens=3526
+  test:end schema=Github_hard---o13029.json test_index=0 actual_result=failed validation_loop_us=131 compute_mask_us=62 commit_token_us=57 tokens_checked=2/3526
+  test:start schema=Github_hard---o13029.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=40 tokenize_us=775 tokens=284
+  test:end schema=Github_hard---o13029.json test_index=1 actual_result=failed validation_loop_us=2425 compute_mask_us=1990 commit_token_us=279 tokens_checked=82/284
+  test:start schema=Github_hard---o13029.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=42 tokenize_us=763 tokens=292
+  test:end schema=Github_hard---o13029.json test_index=2 actual_result=passed validation_loop_us=37 compute_mask_us=26 commit_token_us=5 tokens_checked=2/292
+  test:start schema=Github_hard---o13029.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=36 tokenize_us=695 tokens=287
+  test:end schema=Github_hard---o13029.json test_index=3 actual_result=passed validation_loop_us=36 compute_mask_us=25 commit_token_us=4 tokens_checked=2/287
+schema:end path=maskbench/data/Github_hard---o13029.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o90972.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1414429
+engine:init_done us=845241
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 8 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o90972.json
+[1/1] Github_hard maskbench/data/Github_hard---o90972.json
+  compile_grammar:start schema=Github_hard---o90972.json selected_tests=6
+[00:09:54] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+  compile_grammar:end schema=Github_hard---o90972.json compile_grammar_us=692818
+  test:start schema=Github_hard---o90972.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=39 tokenize_us=1475 tokens=203
+  test:end schema=Github_hard---o90972.json test_index=0 actual_result=passed validation_loop_us=7948 compute_mask_us=7321 commit_token_us=215 tokens_checked=203/203
+  test:start schema=Github_hard---o90972.json test_index=1
+    prepared test=1 reset_matcher_us=30 test_json_dumps_us=37 tokenize_us=825 tokens=193
+  test:end schema=Github_hard---o90972.json test_index=1 actual_result=failed validation_loop_us=7226 compute_mask_us=6648 commit_token_us=188 tokens_checked=193/193
+  test:start schema=Github_hard---o90972.json test_index=2
+    prepared test=2 reset_matcher_us=20 test_json_dumps_us=46 tokenize_us=926 tokens=225
+  test:end schema=Github_hard---o90972.json test_index=2 actual_result=failed validation_loop_us=9653 compute_mask_us=8856 commit_token_us=305 tokens_checked=225/225
+  test:start schema=Github_hard---o90972.json test_index=3
+    prepared test=3 reset_matcher_us=24 test_json_dumps_us=39 tokenize_us=618 tokens=197
+  test:end schema=Github_hard---o90972.json test_index=3 actual_result=failed validation_loop_us=7355 compute_mask_us=6753 commit_token_us=197 tokens_checked=197/197
+  test:start schema=Github_hard---o90972.json test_index=4
+    prepared test=4 reset_matcher_us=23 test_json_dumps_us=37 tokenize_us=699 tokens=194
+  test:end schema=Github_hard---o90972.json test_index=4 actual_result=failed validation_loop_us=9061 compute_mask_us=8301 commit_token_us=275 tokens_checked=194/194
+  test:start schema=Github_hard---o90972.json test_index=5
+    prepared test=5 reset_matcher_us=25 test_json_dumps_us=48 tokenize_us=895 tokens=209
+  test:end schema=Github_hard---o90972.json test_index=5 actual_result=failed validation_loop_us=7071 compute_mask_us=6498 commit_token_us=166 tokens_checked=209/209
+schema:end path=maskbench/data/Github_hard---o90972.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o69207.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1397832
+engine:init_done us=843329
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 20 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o69207.json
+[1/1] Github_hard maskbench/data/Github_hard---o69207.json
+  compile_grammar:start schema=Github_hard---o69207.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o69207.json compile_grammar_us=20041963
+  test:start schema=Github_hard---o69207.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=38 tokenize_us=1634 tokens=185
+  test:end schema=Github_hard---o69207.json test_index=0 actual_result=failed validation_loop_us=36853 compute_mask_us=35919 commit_token_us=572 tokens_checked=170/185
+  test:start schema=Github_hard---o69207.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=38 tokenize_us=682 tokens=180
+  test:end schema=Github_hard---o69207.json test_index=1 actual_result=failed validation_loop_us=35541 compute_mask_us=34664 commit_token_us=517 tokens_checked=165/180
+  test:start schema=Github_hard---o69207.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=39 tokenize_us=836 tokens=219
+  test:end schema=Github_hard---o69207.json test_index=2 actual_result=passed validation_loop_us=38 compute_mask_us=28 commit_token_us=4 tokens_checked=2/219
+schema:end path=maskbench/data/Github_hard---o69207.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o69212.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1394393
+engine:init_done us=835658
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 26 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o69212.json
+[1/1] Github_hard maskbench/data/Github_hard---o69212.json
+  compile_grammar:start schema=Github_hard---o69212.json selected_tests=2
+  compile_grammar:end schema=Github_hard---o69212.json compile_grammar_us=20654646
+  test:start schema=Github_hard---o69212.json test_index=0
+    prepared test=0 reset_matcher_us=58 test_json_dumps_us=119 tokenize_us=4293 tokens=270
+  test:end schema=Github_hard---o69212.json test_index=0 actual_result=passed validation_loop_us=9170 compute_mask_us=8313 commit_token_us=295 tokens_checked=270/270
+  test:start schema=Github_hard---o69212.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=30 tokenize_us=478 tokens=147
+  test:end schema=Github_hard---o69212.json test_index=1 actual_result=passed validation_loop_us=5558 compute_mask_us=4977 commit_token_us=225 tokens_checked=147/147
+schema:end path=maskbench/data/Github_hard---o69212.json written=2
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o69215.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1195308
+engine:init_done us=846781
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 30 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o69215.json
+[1/1] Github_hard maskbench/data/Github_hard---o69215.json
+  compile_grammar:start schema=Github_hard---o69215.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o69215.json compile_grammar_us=16396978
+  test:start schema=Github_hard---o69215.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=40 tokenize_us=1585 tokens=267
+  test:end schema=Github_hard---o69215.json test_index=0 actual_result=failed validation_loop_us=36964 compute_mask_us=35967 commit_token_us=573 tokens_checked=215/267
+  test:start schema=Github_hard---o69215.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=28 tokenize_us=493 tokens=174
+  test:end schema=Github_hard---o69215.json test_index=1 actual_result=failed validation_loop_us=9315 compute_mask_us=8885 commit_token_us=135 tokens_checked=158/174
+  test:start schema=Github_hard---o69215.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=29 tokenize_us=516 tokens=173
+  test:end schema=Github_hard---o69215.json test_index=2 actual_result=passed validation_loop_us=35 compute_mask_us=24 commit_token_us=4 tokens_checked=2/173
+schema:end path=maskbench/data/Github_hard---o69215.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o21384.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1495859
+engine:init_done us=816249
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 36 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o21384.json
+[1/1] Github_hard maskbench/data/Github_hard---o21384.json
+  compile_grammar:start schema=Github_hard---o21384.json selected_tests=9
+  compile_grammar:end schema=Github_hard---o21384.json compile_grammar_us=36519439
+  test:start schema=Github_hard---o21384.json test_index=0
+    prepared test=0 reset_matcher_us=24 test_json_dumps_us=236 tokenize_us=11057 tokens=4408
+  test:end schema=Github_hard---o21384.json test_index=0 actual_result=passed validation_loop_us=11118915 compute_mask_us=11105237 commit_token_us=4284 tokens_checked=4408/4408
+  test:start schema=Github_hard---o21384.json test_index=1
+    prepared test=1 reset_matcher_us=77 test_json_dumps_us=736 tokenize_us=14122 tokens=4648
+  test:end schema=Github_hard---o21384.json test_index=1 actual_result=passed validation_loop_us=182933 compute_mask_us=182770 commit_token_us=107 tokens_checked=17/4648
+  test:start schema=Github_hard---o21384.json test_index=2
+    prepared test=2 reset_matcher_us=22 test_json_dumps_us=171 tokenize_us=12727 tokens=4804
+  test:end schema=Github_hard---o21384.json test_index=2 actual_result=passed validation_loop_us=10542506 compute_mask_us=10529410 commit_token_us=3842 tokens_checked=4410/4804
+  test:start schema=Github_hard---o21384.json test_index=3
+    prepared test=3 reset_matcher_us=43 test_json_dumps_us=54 tokenize_us=622 tokens=22
+  test:end schema=Github_hard---o21384.json test_index=3 actual_result=passed validation_loop_us=108 compute_mask_us=75 commit_token_us=12 tokens_checked=2/22
+  test:start schema=Github_hard---o21384.json test_index=4
+    prepared test=4 reset_matcher_us=19 test_json_dumps_us=199 tokenize_us=11136 tokens=4441
+  test:end schema=Github_hard---o21384.json test_index=4 actual_result=passed validation_loop_us=203879 compute_mask_us=203283 commit_token_us=246 tokens_checked=177/4441
+  test:start schema=Github_hard---o21384.json test_index=5
+    prepared test=5 reset_matcher_us=16 test_json_dumps_us=176 tokenize_us=8986 tokens=4408
+  test:end schema=Github_hard---o21384.json test_index=5 actual_result=passed validation_loop_us=11271488 compute_mask_us=11258556 commit_token_us=4478 tokens_checked=3827/4408
+  test:start schema=Github_hard---o21384.json test_index=6
+    prepared test=6 reset_matcher_us=52 test_json_dumps_us=603 tokenize_us=13624 tokens=4245
+  test:end schema=Github_hard---o21384.json test_index=6 actual_result=failed validation_loop_us=10499220 compute_mask_us=10485940 commit_token_us=4159 tokens_checked=4245/4245
+  test:start schema=Github_hard---o21384.json test_index=7
+    prepared test=7 reset_matcher_us=58 test_json_dumps_us=595 tokenize_us=12347 tokens=4408
+  test:end schema=Github_hard---o21384.json test_index=7 actual_result=passed validation_loop_us=174 compute_mask_us=77 commit_token_us=80 tokens_checked=6/4408
+  test:start schema=Github_hard---o21384.json test_index=8
+    prepared test=8 reset_matcher_us=22 test_json_dumps_us=186 tokenize_us=11481 tokens=4398
+  test:end schema=Github_hard---o21384.json test_index=8 actual_result=passed validation_loop_us=196479 compute_mask_us=196288 commit_token_us=119 tokens_checked=23/4398
+schema:end path=maskbench/data/Github_hard---o21384.json written=9
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o21412.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1532238
+engine:init_done us=800079
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 54 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o21412.json
+[1/1] Github_hard maskbench/data/Github_hard---o21412.json
+  compile_grammar:start schema=Github_hard---o21412.json selected_tests=8
+  compile_grammar:end schema=Github_hard---o21412.json compile_grammar_us=34583358
+  test:start schema=Github_hard---o21412.json test_index=0
+    prepared test=0 reset_matcher_us=78 test_json_dumps_us=234 tokenize_us=6453 tokens=1071
+  test:end schema=Github_hard---o21412.json test_index=0 actual_result=passed validation_loop_us=518501 compute_mask_us=515789 commit_token_us=676 tokens_checked=1071/1071
+  test:start schema=Github_hard---o21412.json test_index=1
+    prepared test=1 reset_matcher_us=25 test_json_dumps_us=96 tokenize_us=2346 tokens=1058
+  test:end schema=Github_hard---o21412.json test_index=1 actual_result=passed validation_loop_us=467290 compute_mask_us=465774 commit_token_us=370 tokens_checked=595/1058
+  test:start schema=Github_hard---o21412.json test_index=2
+    prepared test=2 reset_matcher_us=20 test_json_dumps_us=74 tokenize_us=2434 tokens=1091
+  test:end schema=Github_hard---o21412.json test_index=2 actual_result=passed validation_loop_us=466314 compute_mask_us=464326 commit_token_us=519 tokens_checked=777/1091
+  test:start schema=Github_hard---o21412.json test_index=3
+    prepared test=3 reset_matcher_us=18 test_json_dumps_us=79 tokenize_us=2468 tokens=1093
+  test:end schema=Github_hard---o21412.json test_index=3 actual_result=passed validation_loop_us=453324 compute_mask_us=451866 commit_token_us=353 tokens_checked=595/1093
+  test:start schema=Github_hard---o21412.json test_index=4
+    prepared test=4 reset_matcher_us=21 test_json_dumps_us=52 tokenize_us=1311 tokens=594
+  test:end schema=Github_hard---o21412.json test_index=4 actual_result=passed validation_loop_us=54 compute_mask_us=35 commit_token_us=6 tokens_checked=5/594
+  test:start schema=Github_hard---o21412.json test_index=5
+    prepared test=5 reset_matcher_us=15 test_json_dumps_us=71 tokenize_us=2299 tokens=1065
+  test:end schema=Github_hard---o21412.json test_index=5 actual_result=passed validation_loop_us=464915 compute_mask_us=462340 commit_token_us=646 tokens_checked=1029/1065
+  test:start schema=Github_hard---o21412.json test_index=6
+    prepared test=6 reset_matcher_us=19 test_json_dumps_us=74 tokenize_us=2303 tokens=1072
+  test:end schema=Github_hard---o21412.json test_index=6 actual_result=passed validation_loop_us=74 compute_mask_us=52 commit_token_us=8 tokens_checked=6/1072
+  test:start schema=Github_hard---o21412.json test_index=7
+    prepared test=7 reset_matcher_us=15 test_json_dumps_us=75 tokenize_us=2883 tokens=1058
+  test:end schema=Github_hard---o21412.json test_index=7 actual_result=passed validation_loop_us=432594 compute_mask_us=432253 commit_token_us=92 tokens_checked=124/1058
+schema:end path=maskbench/data/Github_hard---o21412.json written=8
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o79008.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1382852
+engine:init_done us=842554
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 70 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o79008.json
+[1/1] Github_hard maskbench/data/Github_hard---o79008.json
+  compile_grammar:start schema=Github_hard---o79008.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o79008.json compile_grammar_us=15371344
+  test:start schema=Github_hard---o79008.json test_index=0
+    prepared test=0 reset_matcher_us=60 test_json_dumps_us=196 tokenize_us=5628 tokens=524
+  test:end schema=Github_hard---o79008.json test_index=0 actual_result=passed validation_loop_us=56109 compute_mask_us=54370 commit_token_us=640 tokens_checked=524/524
+  test:start schema=Github_hard---o79008.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=63 tokenize_us=1404 tokens=565
+  test:end schema=Github_hard---o79008.json test_index=1 actual_result=passed validation_loop_us=39440 compute_mask_us=38890 commit_token_us=247 tokens_checked=137/565
+  test:start schema=Github_hard---o79008.json test_index=2
+    prepared test=2 reset_matcher_us=24 test_json_dumps_us=69 tokenize_us=1342 tokens=530
+  test:end schema=Github_hard---o79008.json test_index=2 actual_result=passed validation_loop_us=49021 compute_mask_us=48105 commit_token_us=376 tokens_checked=255/530
+  test:start schema=Github_hard---o79008.json test_index=3
+    prepared test=3 reset_matcher_us=24 test_json_dumps_us=79 tokenize_us=1366 tokens=535
+  test:end schema=Github_hard---o79008.json test_index=3 actual_result=passed validation_loop_us=48302 compute_mask_us=47519 commit_token_us=331 tokens_checked=216/535
+schema:end path=maskbench/data/Github_hard---o79008.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o90971.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1377847
+engine:init_done us=836440
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 78 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o90971.json
+[1/1] Github_hard maskbench/data/Github_hard---o90971.json
+  compile_grammar:start schema=Github_hard---o90971.json selected_tests=10
+[00:16:57] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+  compile_grammar:end schema=Github_hard---o90971.json compile_grammar_us=5382845
+  test:start schema=Github_hard---o90971.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=85 tokenize_us=2368 tokens=560
+  test:end schema=Github_hard---o90971.json test_index=0 actual_result=failed validation_loop_us=927 compute_mask_us=809 commit_token_us=44 tokens_checked=34/560
+  test:start schema=Github_hard---o90971.json test_index=1
+    prepared test=1 reset_matcher_us=20 test_json_dumps_us=59 tokenize_us=1424 tokens=575
+  test:end schema=Github_hard---o90971.json test_index=1 actual_result=passed validation_loop_us=819 compute_mask_us=719 commit_token_us=29 tokens_checked=34/575
+  test:start schema=Github_hard---o90971.json test_index=2
+    prepared test=2 reset_matcher_us=20 test_json_dumps_us=94 tokenize_us=3078 tokens=596
+  test:end schema=Github_hard---o90971.json test_index=2 actual_result=passed validation_loop_us=1510 compute_mask_us=1294 commit_token_us=94 tokens_checked=34/596
+  test:start schema=Github_hard---o90971.json test_index=3
+    prepared test=3 reset_matcher_us=16 test_json_dumps_us=18 tokenize_us=230 tokens=41
+  test:end schema=Github_hard---o90971.json test_index=3 actual_result=passed validation_loop_us=780 compute_mask_us=680 commit_token_us=32 tokens_checked=34/41
+  test:start schema=Github_hard---o90971.json test_index=4
+    prepared test=4 reset_matcher_us=13 test_json_dumps_us=61 tokenize_us=1694 tokens=767
+  test:end schema=Github_hard---o90971.json test_index=4 actual_result=passed validation_loop_us=751 compute_mask_us=657 commit_token_us=24 tokens_checked=34/767
+  test:start schema=Github_hard---o90971.json test_index=5
+    prepared test=5 reset_matcher_us=14 test_json_dumps_us=58 tokenize_us=1370 tokens=614
+  test:end schema=Github_hard---o90971.json test_index=5 actual_result=passed validation_loop_us=740 compute_mask_us=648 commit_token_us=23 tokens_checked=34/614
+  test:start schema=Github_hard---o90971.json test_index=6
+    prepared test=6 reset_matcher_us=15 test_json_dumps_us=56 tokenize_us=1337 tokens=577
+  test:end schema=Github_hard---o90971.json test_index=6 actual_result=passed validation_loop_us=837 compute_mask_us=727 commit_token_us=35 tokens_checked=34/577
+  test:start schema=Github_hard---o90971.json test_index=7
+    prepared test=7 reset_matcher_us=15 test_json_dumps_us=60 tokenize_us=1526 tokens=660
+  test:end schema=Github_hard---o90971.json test_index=7 actual_result=passed validation_loop_us=756 compute_mask_us=664 commit_token_us=25 tokens_checked=34/660
+  test:start schema=Github_hard---o90971.json test_index=8
+    prepared test=8 reset_matcher_us=12 test_json_dumps_us=48 tokenize_us=1347 tokens=555
+  test:end schema=Github_hard---o90971.json test_index=8 actual_result=passed validation_loop_us=686 compute_mask_us=595 commit_token_us=26 tokens_checked=34/555
+  test:start schema=Github_hard---o90971.json test_index=9
+    prepared test=9 reset_matcher_us=13 test_json_dumps_us=42 tokenize_us=478 tokens=175
+  test:end schema=Github_hard---o90971.json test_index=9 actual_result=passed validation_loop_us=650 compute_mask_us=563 commit_token_us=21 tokens_checked=34/175
+schema:end path=maskbench/data/Github_hard---o90971.json written=10
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o69211.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1364567
+engine:init_done us=847584
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 98 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o69211.json
+[1/1] Github_hard maskbench/data/Github_hard---o69211.json
+  compile_grammar:start schema=Github_hard---o69211.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o69211.json compile_grammar_us=15626497
+  test:start schema=Github_hard---o69211.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=45 tokenize_us=1438 tokens=206
+  test:end schema=Github_hard---o69211.json test_index=0 actual_result=passed validation_loop_us=69996 compute_mask_us=68155 commit_token_us=1421 tokens_checked=206/206
+  test:start schema=Github_hard---o69211.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=21 tokenize_us=371 tokens=111
+  test:end schema=Github_hard---o69211.json test_index=1 actual_result=failed validation_loop_us=3861 compute_mask_us=3579 commit_token_us=112 tokens_checked=95/111
+  test:start schema=Github_hard---o69211.json test_index=2
+    prepared test=2 reset_matcher_us=26 test_json_dumps_us=34 tokenize_us=603 tokens=131
+  test:end schema=Github_hard---o69211.json test_index=2 actual_result=passed validation_loop_us=40 compute_mask_us=29 commit_token_us=4 tokens_checked=2/131
+schema:end path=maskbench/data/Github_hard---o69211.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o21292.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1396229
+engine:init_done us=828519
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 104 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o21292.json
+[1/1] Github_hard maskbench/data/Github_hard---o21292.json
+  compile_grammar:start schema=Github_hard---o21292.json selected_tests=7
+  compile_grammar:end schema=Github_hard---o21292.json compile_grammar_us=32852001
+  test:start schema=Github_hard---o21292.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=81 tokenize_us=3072 tokens=960
+  test:end schema=Github_hard---o21292.json test_index=0 actual_result=passed validation_loop_us=1263177 compute_mask_us=1260599 commit_token_us=655 tokens_checked=960/960
+  test:start schema=Github_hard---o21292.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=68 tokenize_us=1951 tokens=964
+  test:end schema=Github_hard---o21292.json test_index=1 actual_result=passed validation_loop_us=148769 compute_mask_us=148693 commit_token_us=26 tokens_checked=14/964
+  test:start schema=Github_hard---o21292.json test_index=2
+    prepared test=2 reset_matcher_us=19 test_json_dumps_us=72 tokenize_us=1899 tokens=961
+  test:end schema=Github_hard---o21292.json test_index=2 actual_result=passed validation_loop_us=60 compute_mask_us=40 commit_token_us=9 tokens_checked=5/961
+  test:start schema=Github_hard---o21292.json test_index=3
+    prepared test=3 reset_matcher_us=14 test_json_dumps_us=67 tokenize_us=1883 tokens=961
+  test:end schema=Github_hard---o21292.json test_index=3 actual_result=passed validation_loop_us=71 compute_mask_us=50 commit_token_us=8 tokens_checked=6/961
+  test:start schema=Github_hard---o21292.json test_index=4
+    prepared test=4 reset_matcher_us=16 test_json_dumps_us=68 tokenize_us=1928 tokens=947
+  test:end schema=Github_hard---o21292.json test_index=4 actual_result=failed validation_loop_us=1235863 compute_mask_us=1233394 commit_token_us=616 tokens_checked=947/947
+  test:start schema=Github_hard---o21292.json test_index=5
+    prepared test=5 reset_matcher_us=22 test_json_dumps_us=71 tokenize_us=1876 tokens=960
+  test:end schema=Github_hard---o21292.json test_index=5 actual_result=passed validation_loop_us=80 compute_mask_us=47 commit_token_us=18 tokens_checked=5/960
+  test:start schema=Github_hard---o21292.json test_index=6
+    prepared test=6 reset_matcher_us=15 test_json_dumps_us=67 tokenize_us=1892 tokens=961
+  test:end schema=Github_hard---o21292.json test_index=6 actual_result=passed validation_loop_us=1243309 compute_mask_us=1241100 commit_token_us=561 tokens_checked=846/961
+schema:end path=maskbench/data/Github_hard---o21292.json written=7
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o36016.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1382930
+engine:init_done us=810689
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 118 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o36016.json
+[1/1] Github_hard maskbench/data/Github_hard---o36016.json
+  compile_grammar:start schema=Github_hard---o36016.json selected_tests=8
+  compile_grammar:end schema=Github_hard---o36016.json compile_grammar_us=920441
+  test:start schema=Github_hard---o36016.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=87 tokenize_us=3148 tokens=880
+  test:end schema=Github_hard---o36016.json test_index=0 actual_result=failed validation_loop_us=84 compute_mask_us=58 commit_token_us=9 tokens_checked=4/880
+  test:start schema=Github_hard---o36016.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=69 tokenize_us=2278 tokens=884
+  test:end schema=Github_hard---o36016.json test_index=1 actual_result=failed validation_loop_us=55 compute_mask_us=37 commit_token_us=6 tokens_checked=4/884
+  test:start schema=Github_hard---o36016.json test_index=2
+    prepared test=2 reset_matcher_us=26 test_json_dumps_us=37 tokenize_us=557 tokens=76
+  test:end schema=Github_hard---o36016.json test_index=2 actual_result=passed validation_loop_us=93 compute_mask_us=60 commit_token_us=17 tokens_checked=4/76
+  test:start schema=Github_hard---o36016.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=71 tokenize_us=2191 tokens=953
+  test:end schema=Github_hard---o36016.json test_index=3 actual_result=passed validation_loop_us=43 compute_mask_us=27 commit_token_us=5 tokens_checked=4/953
+  test:start schema=Github_hard---o36016.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=27 tokenize_us=415 tokens=147
+  test:end schema=Github_hard---o36016.json test_index=4 actual_result=passed validation_loop_us=40 compute_mask_us=25 commit_token_us=5 tokens_checked=4/147
+  test:start schema=Github_hard---o36016.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=73 tokenize_us=2464 tokens=1126
+  test:end schema=Github_hard---o36016.json test_index=5 actual_result=passed validation_loop_us=49 compute_mask_us=34 commit_token_us=6 tokens_checked=4/1126
+  test:start schema=Github_hard---o36016.json test_index=6
+    prepared test=6 reset_matcher_us=14 test_json_dumps_us=24 tokenize_us=384 tokens=134
+  test:end schema=Github_hard---o36016.json test_index=6 actual_result=passed validation_loop_us=42 compute_mask_us=24 commit_token_us=6 tokens_checked=4/134
+  test:start schema=Github_hard---o36016.json test_index=7
+    prepared test=7 reset_matcher_us=12 test_json_dumps_us=62 tokenize_us=1903 tokens=884
+  test:end schema=Github_hard---o36016.json test_index=7 actual_result=passed validation_loop_us=71 compute_mask_us=56 commit_token_us=6 tokens_checked=4/884
+schema:end path=maskbench/data/Github_hard---o36016.json written=8
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o7514.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1375095
+engine:init_done us=846002
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 134 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o7514.json
+[1/1] Github_hard maskbench/data/Github_hard---o7514.json
+  compile_grammar:start schema=Github_hard---o7514.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o7514.json compile_grammar_us=6032153
+  test:start schema=Github_hard---o7514.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=45 tokenize_us=1929 tokens=409
+  test:end schema=Github_hard---o7514.json test_index=0 actual_result=passed validation_loop_us=12151 compute_mask_us=11043 commit_token_us=271 tokens_checked=409/409
+  test:start schema=Github_hard---o7514.json test_index=1
+    prepared test=1 reset_matcher_us=25 test_json_dumps_us=61 tokenize_us=1725 tokens=415
+  test:end schema=Github_hard---o7514.json test_index=1 actual_result=passed validation_loop_us=1353 compute_mask_us=1183 commit_token_us=69 tokens_checked=32/415
+  test:start schema=Github_hard---o7514.json test_index=2
+    prepared test=2 reset_matcher_us=22 test_json_dumps_us=49 tokenize_us=1478 tokens=399
+  test:end schema=Github_hard---o7514.json test_index=2 actual_result=passed validation_loop_us=7054 compute_mask_us=6362 commit_token_us=211 tokens_checked=204/399
+  test:start schema=Github_hard---o7514.json test_index=3
+    prepared test=3 reset_matcher_us=21 test_json_dumps_us=51 tokenize_us=1523 tokens=430
+  test:end schema=Github_hard---o7514.json test_index=3 actual_result=passed validation_loop_us=2445 compute_mask_us=2183 commit_token_us=100 tokens_checked=55/430
+schema:end path=maskbench/data/Github_hard---o7514.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o10515.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1360830
+engine:init_done us=805490
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 142 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o10515.json
+[1/1] Github_hard maskbench/data/Github_hard---o10515.json
+  compile_grammar:start schema=Github_hard---o10515.json selected_tests=2
+  compile_grammar:end schema=Github_hard---o10515.json compile_grammar_us=8649051
+  test:start schema=Github_hard---o10515.json test_index=0
+    prepared test=0 reset_matcher_us=28 test_json_dumps_us=84 tokenize_us=3413 tokens=506
+  test:end schema=Github_hard---o10515.json test_index=0 actual_result=passed validation_loop_us=14599347 compute_mask_us=14103346 commit_token_us=493956 tokens_checked=506/506
+  test:start schema=Github_hard---o10515.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=63 tokenize_us=1473 tokens=551
+  test:end schema=Github_hard---o10515.json test_index=1 actual_result=passed validation_loop_us=41276 compute_mask_us=39213 commit_token_us=993 tokens_checked=551/551
+schema:end path=maskbench/data/Github_hard---o10515.json written=2
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o10421.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1368859
+engine:init_done us=823048
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 146 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o10421.json
+[1/1] Github_hard maskbench/data/Github_hard---o10421.json
+  compile_grammar:start schema=Github_hard---o10421.json selected_tests=2
+  compile_grammar:end schema=Github_hard---o10421.json compile_grammar_us=8686033
+  test:start schema=Github_hard---o10421.json test_index=0
+    prepared test=0 reset_matcher_us=24 test_json_dumps_us=75 tokenize_us=2829 tokens=516
+  test:end schema=Github_hard---o10421.json test_index=0 actual_result=passed validation_loop_us=40794 compute_mask_us=38769 commit_token_us=1008 tokens_checked=516/516
+  test:start schema=Github_hard---o10421.json test_index=1
+    prepared test=1 reset_matcher_us=20 test_json_dumps_us=69 tokenize_us=2057 tokens=979
+  test:end schema=Github_hard---o10421.json test_index=1 actual_result=passed validation_loop_us=64584 compute_mask_us=61378 commit_token_us=1429 tokens_checked=979/979
+schema:end path=maskbench/data/Github_hard---o10421.json written=2
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o77403.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1420005
+engine:init_done us=829895
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 150 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o77403.json
+[1/1] Github_hard maskbench/data/Github_hard---o77403.json
+  compile_grammar:start schema=Github_hard---o77403.json selected_tests=5
+[00:19:53] /project/cpp/json_schema_converter.cc:1247: Warning: Specifying pattern and minLength/maxLength/format is not supported yet, ignoring minLength/maxLength/format
+  compile_grammar:end schema=Github_hard---o77403.json compile_grammar_us=127067054
+  test:start schema=Github_hard---o77403.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=52 tokenize_us=1788 tokens=348
+  test:end schema=Github_hard---o77403.json test_index=0 actual_result=failed validation_loop_us=122 compute_mask_us=83 commit_token_us=17 tokens_checked=5/348
+  test:start schema=Github_hard---o77403.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=43 tokenize_us=935 tokens=346
+  test:end schema=Github_hard---o77403.json test_index=1 actual_result=passed validation_loop_us=56 compute_mask_us=35 commit_token_us=7 tokens_checked=5/346
+  test:start schema=Github_hard---o77403.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=38 tokenize_us=776 tokens=347
+  test:end schema=Github_hard---o77403.json test_index=2 actual_result=passed validation_loop_us=83 compute_mask_us=51 commit_token_us=13 tokens_checked=5/347
+  test:start schema=Github_hard---o77403.json test_index=3
+    prepared test=3 reset_matcher_us=14 test_json_dumps_us=42 tokenize_us=801 tokens=348
+  test:end schema=Github_hard---o77403.json test_index=3 actual_result=passed validation_loop_us=55 compute_mask_us=36 commit_token_us=7 tokens_checked=5/348
+  test:start schema=Github_hard---o77403.json test_index=4
+    prepared test=4 reset_matcher_us=14 test_json_dumps_us=38 tokenize_us=835 tokens=349
+  test:end schema=Github_hard---o77403.json test_index=4 actual_result=passed validation_loop_us=54 compute_mask_us=35 commit_token_us=7 tokens_checked=5/349
+schema:end path=maskbench/data/Github_hard---o77403.json written=5
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o77317.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1425829
+engine:init_done us=813057
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 160 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o77317.json
+[1/1] Github_hard maskbench/data/Github_hard---o77317.json
+  compile_grammar:start schema=Github_hard---o77317.json selected_tests=10
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:22:16] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+  compile_grammar:end schema=Github_hard---o77317.json compile_grammar_us=740847
+  test:start schema=Github_hard---o77317.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=46 tokenize_us=1823 tokens=408
+  test:end schema=Github_hard---o77317.json test_index=0 actual_result=passed validation_loop_us=5554179 compute_mask_us=5381122 commit_token_us=171431 tokens_checked=408/408
+  test:start schema=Github_hard---o77317.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=27 tokenize_us=484 tokens=156
+  test:end schema=Github_hard---o77317.json test_index=1 actual_result=passed validation_loop_us=38 compute_mask_us=29 commit_token_us=3 tokens_checked=1/156
+  test:start schema=Github_hard---o77317.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=27 tokenize_us=443 tokens=154
+  test:end schema=Github_hard---o77317.json test_index=2 actual_result=passed validation_loop_us=28 compute_mask_us=22 commit_token_us=2 tokens_checked=1/154
+  test:start schema=Github_hard---o77317.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=26 tokenize_us=419 tokens=181
+  test:end schema=Github_hard---o77317.json test_index=3 actual_result=passed validation_loop_us=19 compute_mask_us=13 commit_token_us=1 tokens_checked=1/181
+  test:start schema=Github_hard---o77317.json test_index=4
+    prepared test=4 reset_matcher_us=9 test_json_dumps_us=22 tokenize_us=323 tokens=153
+  test:end schema=Github_hard---o77317.json test_index=4 actual_result=passed validation_loop_us=18 compute_mask_us=12 commit_token_us=1 tokens_checked=1/153
+  test:start schema=Github_hard---o77317.json test_index=5
+    prepared test=5 reset_matcher_us=8 test_json_dumps_us=23 tokenize_us=345 tokens=181
+  test:end schema=Github_hard---o77317.json test_index=5 actual_result=passed validation_loop_us=17 compute_mask_us=12 commit_token_us=1 tokens_checked=1/181
+  test:start schema=Github_hard---o77317.json test_index=6
+    prepared test=6 reset_matcher_us=8 test_json_dumps_us=20 tokenize_us=282 tokens=146
+  test:end schema=Github_hard---o77317.json test_index=6 actual_result=passed validation_loop_us=17 compute_mask_us=12 commit_token_us=1 tokens_checked=1/146
+  test:start schema=Github_hard---o77317.json test_index=7
+    prepared test=7 reset_matcher_us=9 test_json_dumps_us=22 tokenize_us=324 tokens=157
+  test:end schema=Github_hard---o77317.json test_index=7 actual_result=passed validation_loop_us=16 compute_mask_us=12 commit_token_us=1 tokens_checked=1/157
+  test:start schema=Github_hard---o77317.json test_index=8
+    prepared test=8 reset_matcher_us=10 test_json_dumps_us=21 tokenize_us=331 tokens=161
+  test:end schema=Github_hard---o77317.json test_index=8 actual_result=passed validation_loop_us=18 compute_mask_us=12 commit_token_us=1 tokens_checked=1/161
+  test:start schema=Github_hard---o77317.json test_index=9
+    prepared test=9 reset_matcher_us=10 test_json_dumps_us=22 tokenize_us=333 tokens=155
+  test:end schema=Github_hard---o77317.json test_index=9 actual_result=passed validation_loop_us=21 compute_mask_us=15 commit_token_us=1 tokens_checked=1/155
+schema:end path=maskbench/data/Github_hard---o77317.json written=10
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o83841.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1388145
+engine:init_done us=895047
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 180 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o83841.json
+[1/1] Github_hard maskbench/data/Github_hard---o83841.json
+  compile_grammar:start schema=Github_hard---o83841.json selected_tests=5
+  compile_grammar:end schema=Github_hard---o83841.json compile_grammar_us=1287045
+  test:start schema=Github_hard---o83841.json test_index=0
+    prepared test=0 reset_matcher_us=28 test_json_dumps_us=41 tokenize_us=1317 tokens=111
+  test:end schema=Github_hard---o83841.json test_index=0 actual_result=failed validation_loop_us=600 compute_mask_us=503 commit_token_us=57 tokens_checked=10/111
+  test:start schema=Github_hard---o83841.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=53 tokenize_us=1044 tokens=162
+  test:end schema=Github_hard---o83841.json test_index=1 actual_result=failed validation_loop_us=728 compute_mask_us=649 commit_token_us=37 tokens_checked=10/162
+  test:start schema=Github_hard---o83841.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=52 tokenize_us=609 tokens=167
+  test:end schema=Github_hard---o83841.json test_index=2 actual_result=passed validation_loop_us=439 compute_mask_us=391 commit_token_us=15 tokens_checked=10/167
+  test:start schema=Github_hard---o83841.json test_index=3
+    prepared test=3 reset_matcher_us=16 test_json_dumps_us=39 tokenize_us=843 tokens=150
+  test:end schema=Github_hard---o83841.json test_index=3 actual_result=passed validation_loop_us=463 compute_mask_us=416 commit_token_us=17 tokens_checked=10/150
+  test:start schema=Github_hard---o83841.json test_index=4
+    prepared test=4 reset_matcher_us=15 test_json_dumps_us=41 tokenize_us=660 tokens=171
+  test:end schema=Github_hard---o83841.json test_index=4 actual_result=passed validation_loop_us=441 compute_mask_us=395 commit_token_us=16 tokens_checked=10/171
+schema:end path=maskbench/data/Github_hard---o83841.json written=5
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o80251.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1389934
+engine:init_done us=823157
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 190 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o80251.json
+[1/1] Github_hard maskbench/data/Github_hard---o80251.json
+  compile_grammar:start schema=Github_hard---o80251.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o80251.json compile_grammar_us=1256435
+  test:start schema=Github_hard---o80251.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=30 tokenize_us=1177 tokens=108
+  test:end schema=Github_hard---o80251.json test_index=0 actual_result=failed validation_loop_us=327 compute_mask_us=283 commit_token_us=12 tokens_checked=10/108
+  test:start schema=Github_hard---o80251.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=28 tokenize_us=412 tokens=117
+  test:end schema=Github_hard---o80251.json test_index=1 actual_result=failed validation_loop_us=284 compute_mask_us=249 commit_token_us=9 tokens_checked=10/117
+  test:start schema=Github_hard---o80251.json test_index=2
+    prepared test=2 reset_matcher_us=27 test_json_dumps_us=59 tokenize_us=767 tokens=123
+  test:end schema=Github_hard---o80251.json test_index=2 actual_result=passed validation_loop_us=597 compute_mask_us=528 commit_token_us=27 tokens_checked=10/123
+  test:start schema=Github_hard---o80251.json test_index=3
+    prepared test=3 reset_matcher_us=21 test_json_dumps_us=45 tokenize_us=598 tokens=126
+  test:end schema=Github_hard---o80251.json test_index=3 actual_result=passed validation_loop_us=453 compute_mask_us=404 commit_token_us=20 tokens_checked=10/126
+  test:start schema=Github_hard---o80251.json test_index=4
+    prepared test=4 reset_matcher_us=16 test_json_dumps_us=35 tokenize_us=470 tokens=124
+  test:end schema=Github_hard---o80251.json test_index=4 actual_result=passed validation_loop_us=357 compute_mask_us=316 commit_token_us=14 tokens_checked=10/124
+  test:start schema=Github_hard---o80251.json test_index=5
+    prepared test=5 reset_matcher_us=15 test_json_dumps_us=31 tokenize_us=421 tokens=123
+  test:end schema=Github_hard---o80251.json test_index=5 actual_result=passed validation_loop_us=312 compute_mask_us=275 commit_token_us=12 tokens_checked=10/123
+schema:end path=maskbench/data/Github_hard---o80251.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o83850.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1405889
+engine:init_done us=818527
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 202 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o83850.json
+[1/1] Github_hard maskbench/data/Github_hard---o83850.json
+  compile_grammar:start schema=Github_hard---o83850.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o83850.json compile_grammar_us=1258480
+  test:start schema=Github_hard---o83850.json test_index=0
+    prepared test=0 reset_matcher_us=25 test_json_dumps_us=37 tokenize_us=1177 tokens=103
+  test:end schema=Github_hard---o83850.json test_index=0 actual_result=failed validation_loop_us=323 compute_mask_us=279 commit_token_us=15 tokens_checked=10/103
+  test:start schema=Github_hard---o83850.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=27 tokenize_us=437 tokens=108
+  test:end schema=Github_hard---o83850.json test_index=1 actual_result=failed validation_loop_us=428 compute_mask_us=377 commit_token_us=19 tokens_checked=10/108
+  test:start schema=Github_hard---o83850.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=33 tokenize_us=540 tokens=161
+  test:end schema=Github_hard---o83850.json test_index=2 actual_result=passed validation_loop_us=570 compute_mask_us=507 commit_token_us=26 tokens_checked=10/161
+  test:start schema=Github_hard---o83850.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=28 tokenize_us=418 tokens=142
+  test:end schema=Github_hard---o83850.json test_index=3 actual_result=passed validation_loop_us=245 compute_mask_us=215 commit_token_us=8 tokens_checked=10/142
+  test:start schema=Github_hard---o83850.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=24 tokenize_us=327 tokens=113
+  test:end schema=Github_hard---o83850.json test_index=4 actual_result=passed validation_loop_us=244 compute_mask_us=214 commit_token_us=8 tokens_checked=10/113
+  test:start schema=Github_hard---o83850.json test_index=5
+    prepared test=5 reset_matcher_us=9 test_json_dumps_us=24 tokenize_us=281 tokens=108
+  test:end schema=Github_hard---o83850.json test_index=5 actual_result=passed validation_loop_us=49 compute_mask_us=32 commit_token_us=5 tokens_checked=5/108
+schema:end path=maskbench/data/Github_hard---o83850.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o80249.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1381141
+engine:init_done us=824067
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 214 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o80249.json
+[1/1] Github_hard maskbench/data/Github_hard---o80249.json
+  compile_grammar:start schema=Github_hard---o80249.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o80249.json compile_grammar_us=1259749
+  test:start schema=Github_hard---o80249.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=29 tokenize_us=1228 tokens=107
+  test:end schema=Github_hard---o80249.json test_index=0 actual_result=failed validation_loop_us=306 compute_mask_us=263 commit_token_us=13 tokens_checked=10/107
+  test:start schema=Github_hard---o80249.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=26 tokenize_us=430 tokens=108
+  test:end schema=Github_hard---o80249.json test_index=1 actual_result=failed validation_loop_us=303 compute_mask_us=267 commit_token_us=10 tokens_checked=10/108
+  test:start schema=Github_hard---o80249.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=28 tokenize_us=461 tokens=122
+  test:end schema=Github_hard---o80249.json test_index=2 actual_result=passed validation_loop_us=484 compute_mask_us=430 commit_token_us=20 tokens_checked=10/122
+  test:start schema=Github_hard---o80249.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=24 tokenize_us=377 tokens=113
+  test:end schema=Github_hard---o80249.json test_index=3 actual_result=passed validation_loop_us=473 compute_mask_us=417 commit_token_us=21 tokens_checked=10/113
+  test:start schema=Github_hard---o80249.json test_index=4
+    prepared test=4 reset_matcher_us=12 test_json_dumps_us=36 tokenize_us=783 tokens=192
+  test:end schema=Github_hard---o80249.json test_index=4 actual_result=passed validation_loop_us=252 compute_mask_us=220 commit_token_us=8 tokens_checked=10/192
+  test:start schema=Github_hard---o80249.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=24 tokenize_us=335 tokens=84
+  test:end schema=Github_hard---o80249.json test_index=5 actual_result=passed validation_loop_us=331 compute_mask_us=287 commit_token_us=16 tokens_checked=10/84
+schema:end path=maskbench/data/Github_hard---o80249.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o83840.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1361886
+engine:init_done us=844229
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 226 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o83840.json
+[1/1] Github_hard maskbench/data/Github_hard---o83840.json
+  compile_grammar:start schema=Github_hard---o83840.json selected_tests=5
+  compile_grammar:end schema=Github_hard---o83840.json compile_grammar_us=1284755
+  test:start schema=Github_hard---o83840.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=37 tokenize_us=1306 tokens=108
+  test:end schema=Github_hard---o83840.json test_index=0 actual_result=failed validation_loop_us=361 compute_mask_us=310 commit_token_us=17 tokens_checked=10/108
+  test:start schema=Github_hard---o83840.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=41 tokenize_us=588 tokens=149
+  test:end schema=Github_hard---o83840.json test_index=1 actual_result=failed validation_loop_us=295 compute_mask_us=261 commit_token_us=9 tokens_checked=10/149
+  test:start schema=Github_hard---o83840.json test_index=2
+    prepared test=2 reset_matcher_us=14 test_json_dumps_us=32 tokenize_us=505 tokens=157
+  test:end schema=Github_hard---o83840.json test_index=2 actual_result=passed validation_loop_us=281 compute_mask_us=248 commit_token_us=9 tokens_checked=10/157
+  test:start schema=Github_hard---o83840.json test_index=3
+    prepared test=3 reset_matcher_us=19 test_json_dumps_us=45 tokenize_us=550 tokens=171
+  test:end schema=Github_hard---o83840.json test_index=3 actual_result=passed validation_loop_us=321 compute_mask_us=283 commit_token_us=10 tokens_checked=10/171
+  test:start schema=Github_hard---o83840.json test_index=4
+    prepared test=4 reset_matcher_us=14 test_json_dumps_us=44 tokenize_us=462 tokens=155
+  test:end schema=Github_hard---o83840.json test_index=4 actual_result=passed validation_loop_us=338 compute_mask_us=294 commit_token_us=13 tokens_checked=10/155
+schema:end path=maskbench/data/Github_hard---o83840.json written=5
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o84331.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1412687
+engine:init_done us=824526
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 236 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o84331.json
+[1/1] Github_hard maskbench/data/Github_hard---o84331.json
+  compile_grammar:start schema=Github_hard---o84331.json selected_tests=8
+  compile_grammar:end schema=Github_hard---o84331.json compile_grammar_us=2179211
+  test:start schema=Github_hard---o84331.json test_index=0
+    prepared test=0 reset_matcher_us=26 test_json_dumps_us=40 tokenize_us=1356 tokens=147
+  test:end schema=Github_hard---o84331.json test_index=0 actual_result=failed validation_loop_us=140 compute_mask_us=103 commit_token_us=13 tokens_checked=10/147
+  test:start schema=Github_hard---o84331.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=26 tokenize_us=455 tokens=103
+  test:end schema=Github_hard---o84331.json test_index=1 actual_result=failed validation_loop_us=155 compute_mask_us=103 commit_token_us=17 tokens_checked=10/103
+  test:start schema=Github_hard---o84331.json test_index=2
+    prepared test=2 reset_matcher_us=13 test_json_dumps_us=27 tokenize_us=387 tokens=119
+  test:end schema=Github_hard---o84331.json test_index=2 actual_result=passed validation_loop_us=102 compute_mask_us=72 commit_token_us=7 tokens_checked=10/119
+  test:start schema=Github_hard---o84331.json test_index=3
+    prepared test=3 reset_matcher_us=17 test_json_dumps_us=27 tokenize_us=385 tokens=111
+  test:end schema=Github_hard---o84331.json test_index=3 actual_result=passed validation_loop_us=103 compute_mask_us=73 commit_token_us=7 tokens_checked=10/111
+  test:start schema=Github_hard---o84331.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=25 tokenize_us=336 tokens=111
+  test:end schema=Github_hard---o84331.json test_index=4 actual_result=passed validation_loop_us=90 compute_mask_us=62 commit_token_us=6 tokens_checked=10/111
+  test:start schema=Github_hard---o84331.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=25 tokenize_us=325 tokens=115
+  test:end schema=Github_hard---o84331.json test_index=5 actual_result=passed validation_loop_us=80 compute_mask_us=49 commit_token_us=5 tokens_checked=10/115
+  test:start schema=Github_hard---o84331.json test_index=6
+    prepared test=6 reset_matcher_us=10 test_json_dumps_us=23 tokenize_us=303 tokens=117
+  test:end schema=Github_hard---o84331.json test_index=6 actual_result=passed validation_loop_us=75 compute_mask_us=48 commit_token_us=4 tokens_checked=10/117
+  test:start schema=Github_hard---o84331.json test_index=7
+    prepared test=7 reset_matcher_us=9 test_json_dumps_us=24 tokenize_us=385 tokens=146
+  test:end schema=Github_hard---o84331.json test_index=7 actual_result=passed validation_loop_us=75 compute_mask_us=47 commit_token_us=5 tokens_checked=10/146
+schema:end path=maskbench/data/Github_hard---o84331.json written=8
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o84330.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1386088
+engine:init_done us=822724
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 252 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o84330.json
+[1/1] Github_hard maskbench/data/Github_hard---o84330.json
+  compile_grammar:start schema=Github_hard---o84330.json selected_tests=7
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+[00:23:37] /project/cpp/json_schema_converter.cc:759: Warning: Support for allOf with multiple options is still ongoing
+  compile_grammar:end schema=Github_hard---o84330.json compile_grammar_us=1770808
+  test:start schema=Github_hard---o84330.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=53 tokenize_us=1859 tokens=388
+  test:end schema=Github_hard---o84330.json test_index=0 actual_result=failed validation_loop_us=69 compute_mask_us=50 commit_token_us=7 tokens_checked=2/388
+  test:start schema=Github_hard---o84330.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=42 tokenize_us=1123 tokens=388
+  test:end schema=Github_hard---o84330.json test_index=1 actual_result=failed validation_loop_us=50 compute_mask_us=34 commit_token_us=6 tokens_checked=2/388
+  test:start schema=Github_hard---o84330.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=39 tokenize_us=983 tokens=377
+  test:end schema=Github_hard---o84330.json test_index=2 actual_result=passed validation_loop_us=43 compute_mask_us=29 commit_token_us=5 tokens_checked=2/377
+  test:start schema=Github_hard---o84330.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=29 tokenize_us=552 tokens=247
+  test:end schema=Github_hard---o84330.json test_index=3 actual_result=passed validation_loop_us=31 compute_mask_us=20 commit_token_us=4 tokens_checked=2/247
+  test:start schema=Github_hard---o84330.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=33 tokenize_us=809 tokens=388
+  test:end schema=Github_hard---o84330.json test_index=4 actual_result=passed validation_loop_us=43 compute_mask_us=31 commit_token_us=5 tokens_checked=2/388
+  test:start schema=Github_hard---o84330.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=22 tokenize_us=404 tokens=86
+  test:end schema=Github_hard---o84330.json test_index=5 actual_result=passed validation_loop_us=34 compute_mask_us=22 commit_token_us=4 tokens_checked=2/86
+  test:start schema=Github_hard---o84330.json test_index=6
+    prepared test=6 reset_matcher_us=10 test_json_dumps_us=34 tokenize_us=772 tokens=375
+  test:end schema=Github_hard---o84330.json test_index=6 actual_result=passed validation_loop_us=32 compute_mask_us=20 commit_token_us=5 tokens_checked=2/375
+schema:end path=maskbench/data/Github_hard---o84330.json written=7
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o83847.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1389215
+engine:init_done us=832244
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 266 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o83847.json
+[1/1] Github_hard maskbench/data/Github_hard---o83847.json
+  compile_grammar:start schema=Github_hard---o83847.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o83847.json compile_grammar_us=1288644
+  test:start schema=Github_hard---o83847.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=32 tokenize_us=1213 tokens=116
+  test:end schema=Github_hard---o83847.json test_index=0 actual_result=failed validation_loop_us=330 compute_mask_us=285 commit_token_us=13 tokens_checked=10/116
+  test:start schema=Github_hard---o83847.json test_index=1
+    prepared test=1 reset_matcher_us=25 test_json_dumps_us=33 tokenize_us=559 tokens=163
+  test:end schema=Github_hard---o83847.json test_index=1 actual_result=passed validation_loop_us=331 compute_mask_us=291 commit_token_us=12 tokens_checked=10/163
+  test:start schema=Github_hard---o83847.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=28 tokenize_us=438 tokens=120
+  test:end schema=Github_hard---o83847.json test_index=2 actual_result=passed validation_loop_us=314 compute_mask_us=276 commit_token_us=10 tokens_checked=10/120
+  test:start schema=Github_hard---o83847.json test_index=3
+    prepared test=3 reset_matcher_us=18 test_json_dumps_us=29 tokenize_us=454 tokens=128
+  test:end schema=Github_hard---o83847.json test_index=3 actual_result=passed validation_loop_us=334 compute_mask_us=294 commit_token_us=13 tokens_checked=10/128
+schema:end path=maskbench/data/Github_hard---o83847.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o6360.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1380838
+engine:init_done us=812971
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 274 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o6360.json
+[1/1] Github_hard maskbench/data/Github_hard---o6360.json
+  compile_grammar:start schema=Github_hard---o6360.json selected_tests=9
+  compile_grammar:end schema=Github_hard---o6360.json compile_grammar_us=18345331
+  test:start schema=Github_hard---o6360.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=27 tokenize_us=1152 tokens=91
+  test:end schema=Github_hard---o6360.json test_index=0 actual_result=passed validation_loop_us=4419 compute_mask_us=4061 commit_token_us=142 tokens_checked=91/91
+  test:start schema=Github_hard---o6360.json test_index=1
+    prepared test=1 reset_matcher_us=26 test_json_dumps_us=36 tokenize_us=649 tokens=124
+  test:end schema=Github_hard---o6360.json test_index=1 actual_result=passed validation_loop_us=4613 compute_mask_us=4299 commit_token_us=140 tokens_checked=65/124
+  test:start schema=Github_hard---o6360.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=23 tokenize_us=335 tokens=85
+  test:end schema=Github_hard---o6360.json test_index=2 actual_result=passed validation_loop_us=2411 compute_mask_us=2218 commit_token_us=57 tokens_checked=72/85
+  test:start schema=Github_hard---o6360.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=35 tokenize_us=565 tokens=206
+  test:end schema=Github_hard---o6360.json test_index=3 actual_result=passed validation_loop_us=2411 compute_mask_us=2222 commit_token_us=60 tokens_checked=65/206
+  test:start schema=Github_hard---o6360.json test_index=4
+    prepared test=4 reset_matcher_us=20 test_json_dumps_us=24 tokenize_us=386 tokens=100
+  test:end schema=Github_hard---o6360.json test_index=4 actual_result=passed validation_loop_us=2365 compute_mask_us=2187 commit_token_us=55 tokens_checked=65/100
+  test:start schema=Github_hard---o6360.json test_index=5
+    prepared test=5 reset_matcher_us=18 test_json_dumps_us=22 tokenize_us=310 tokens=79
+  test:end schema=Github_hard---o6360.json test_index=5 actual_result=passed validation_loop_us=2457 compute_mask_us=2251 commit_token_us=63 tokens_checked=77/79
+  test:start schema=Github_hard---o6360.json test_index=6
+    prepared test=6 reset_matcher_us=17 test_json_dumps_us=33 tokenize_us=536 tokens=180
+  test:end schema=Github_hard---o6360.json test_index=6 actual_result=passed validation_loop_us=869 compute_mask_us=802 commit_token_us=20 tokens_checked=21/180
+  test:start schema=Github_hard---o6360.json test_index=7
+    prepared test=7 reset_matcher_us=17 test_json_dumps_us=23 tokenize_us=393 tokens=98
+  test:end schema=Github_hard---o6360.json test_index=7 actual_result=passed validation_loop_us=1105 compute_mask_us=1009 commit_token_us=30 tokens_checked=30/98
+  test:start schema=Github_hard---o6360.json test_index=8
+    prepared test=8 reset_matcher_us=15 test_json_dumps_us=20 tokenize_us=267 tokens=78
+  test:end schema=Github_hard---o6360.json test_index=8 actual_result=passed validation_loop_us=2188 compute_mask_us=2006 commit_token_us=46 tokens_checked=65/78
+schema:end path=maskbench/data/Github_hard---o6360.json written=9
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o83846.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1417857
+engine:init_done us=804626
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 292 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o83846.json
+[1/1] Github_hard maskbench/data/Github_hard---o83846.json
+  compile_grammar:start schema=Github_hard---o83846.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o83846.json compile_grammar_us=1241955
+  test:start schema=Github_hard---o83846.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=32 tokenize_us=1151 tokens=116
+  test:end schema=Github_hard---o83846.json test_index=0 actual_result=failed validation_loop_us=312 compute_mask_us=271 commit_token_us=12 tokens_checked=10/116
+  test:start schema=Github_hard---o83846.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=30 tokenize_us=444 tokens=130
+  test:end schema=Github_hard---o83846.json test_index=1 actual_result=failed validation_loop_us=282 compute_mask_us=247 commit_token_us=8 tokens_checked=10/130
+  test:start schema=Github_hard---o83846.json test_index=2
+    prepared test=2 reset_matcher_us=14 test_json_dumps_us=29 tokenize_us=453 tokens=144
+  test:end schema=Github_hard---o83846.json test_index=2 actual_result=passed validation_loop_us=278 compute_mask_us=246 commit_token_us=8 tokens_checked=10/144
+  test:start schema=Github_hard---o83846.json test_index=3
+    prepared test=3 reset_matcher_us=16 test_json_dumps_us=37 tokenize_us=686 tokens=218
+  test:end schema=Github_hard---o83846.json test_index=3 actual_result=passed validation_loop_us=296 compute_mask_us=261 commit_token_us=10 tokens_checked=10/218
+schema:end path=maskbench/data/Github_hard---o83846.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o69214.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1371319
+engine:init_done us=816851
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 300 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o69214.json
+[1/1] Github_hard maskbench/data/Github_hard---o69214.json
+  compile_grammar:start schema=Github_hard---o69214.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o69214.json compile_grammar_us=12366958
+  test:start schema=Github_hard---o69214.json test_index=0
+    prepared test=0 reset_matcher_us=25 test_json_dumps_us=32 tokenize_us=1265 tokens=146
+  test:end schema=Github_hard---o69214.json test_index=0 actual_result=failed validation_loop_us=11256 compute_mask_us=10760 commit_token_us=237 tokens_checked=130/146
+  test:start schema=Github_hard---o69214.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=27 tokenize_us=446 tokens=126
+  test:end schema=Github_hard---o69214.json test_index=1 actual_result=failed validation_loop_us=3771 compute_mask_us=3630 commit_token_us=56 tokens_checked=39/126
+  test:start schema=Github_hard---o69214.json test_index=2
+    prepared test=2 reset_matcher_us=19 test_json_dumps_us=27 tokenize_us=450 tokens=135
+  test:end schema=Github_hard---o69214.json test_index=2 actual_result=passed validation_loop_us=232 compute_mask_us=186 commit_token_us=22 tokens_checked=11/135
+  test:start schema=Github_hard---o69214.json test_index=3
+    prepared test=3 reset_matcher_us=15 test_json_dumps_us=25 tokenize_us=374 tokens=116
+  test:end schema=Github_hard---o69214.json test_index=3 actual_result=passed validation_loop_us=282 compute_mask_us=224 commit_token_us=26 tokens_checked=11/116
+schema:end path=maskbench/data/Github_hard---o69214.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o6348.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1374267
+engine:init_done us=837234
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 308 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o6348.json
+[1/1] Github_hard maskbench/data/Github_hard---o6348.json
+  compile_grammar:start schema=Github_hard---o6348.json selected_tests=9
+  compile_grammar:end schema=Github_hard---o6348.json compile_grammar_us=17282284
+  test:start schema=Github_hard---o6348.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=28 tokenize_us=1037 tokens=75
+  test:end schema=Github_hard---o6348.json test_index=0 actual_result=passed validation_loop_us=2156 compute_mask_us=1945 commit_token_us=60 tokens_checked=75/75
+  test:start schema=Github_hard---o6348.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=23 tokenize_us=345 tokens=83
+  test:end schema=Github_hard---o6348.json test_index=1 actual_result=passed validation_loop_us=1677 compute_mask_us=1526 commit_token_us=49 tokens_checked=50/83
+  test:start schema=Github_hard---o6348.json test_index=2
+    prepared test=2 reset_matcher_us=19 test_json_dumps_us=48 tokenize_us=495 tokens=138
+  test:end schema=Github_hard---o6348.json test_index=2 actual_result=passed validation_loop_us=2125 compute_mask_us=1924 commit_token_us=53 tokens_checked=75/138
+  test:start schema=Github_hard---o6348.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=22 tokenize_us=259 tokens=74
+  test:end schema=Github_hard---o6348.json test_index=3 actual_result=passed validation_loop_us=1659 compute_mask_us=1488 commit_token_us=46 tokens_checked=60/74
+  test:start schema=Github_hard---o6348.json test_index=4
+    prepared test=4 reset_matcher_us=14 test_json_dumps_us=23 tokenize_us=322 tokens=111
+  test:end schema=Github_hard---o6348.json test_index=4 actual_result=passed validation_loop_us=927 compute_mask_us=847 commit_token_us=21 tokens_checked=30/111
+  test:start schema=Github_hard---o6348.json test_index=5
+    prepared test=5 reset_matcher_us=16 test_json_dumps_us=21 tokenize_us=309 tokens=83
+  test:end schema=Github_hard---o6348.json test_index=5 actual_result=passed validation_loop_us=1494 compute_mask_us=1364 commit_token_us=35 tokens_checked=50/83
+  test:start schema=Github_hard---o6348.json test_index=6
+    prepared test=6 reset_matcher_us=12 test_json_dumps_us=20 tokenize_us=251 tokens=74
+  test:end schema=Github_hard---o6348.json test_index=6 actual_result=passed validation_loop_us=940 compute_mask_us=848 commit_token_us=18 tokens_checked=36/74
+  test:start schema=Github_hard---o6348.json test_index=7
+    prepared test=7 reset_matcher_us=11 test_json_dumps_us=20 tokenize_us=265 tokens=90
+  test:end schema=Github_hard---o6348.json test_index=7 actual_result=passed validation_loop_us=876 compute_mask_us=802 commit_token_us=14 tokens_checked=30/90
+  test:start schema=Github_hard---o6348.json test_index=8
+    prepared test=8 reset_matcher_us=13 test_json_dumps_us=20 tokenize_us=266 tokens=83
+  test:end schema=Github_hard---o6348.json test_index=8 actual_result=passed validation_loop_us=1305 compute_mask_us=1179 commit_token_us=28 tokens_checked=50/83
+schema:end path=maskbench/data/Github_hard---o6348.json written=9
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o80248.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1415099
+engine:init_done us=820237
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 326 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o80248.json
+[1/1] Github_hard maskbench/data/Github_hard---o80248.json
+  compile_grammar:start schema=Github_hard---o80248.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o80248.json compile_grammar_us=1250393
+  test:start schema=Github_hard---o80248.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=31 tokenize_us=1383 tokens=108
+  test:end schema=Github_hard---o80248.json test_index=0 actual_result=failed validation_loop_us=536 compute_mask_us=473 commit_token_us=22 tokens_checked=10/108
+  test:start schema=Github_hard---o80248.json test_index=1
+    prepared test=1 reset_matcher_us=20 test_json_dumps_us=28 tokenize_us=419 tokens=111
+  test:end schema=Github_hard---o80248.json test_index=1 actual_result=failed validation_loop_us=284 compute_mask_us=247 commit_token_us=10 tokens_checked=10/111
+  test:start schema=Github_hard---o80248.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=30 tokenize_us=442 tokens=131
+  test:end schema=Github_hard---o80248.json test_index=2 actual_result=passed validation_loop_us=329 compute_mask_us=287 commit_token_us=14 tokens_checked=10/131
+  test:start schema=Github_hard---o80248.json test_index=3
+    prepared test=3 reset_matcher_us=14 test_json_dumps_us=31 tokenize_us=536 tokens=117
+  test:end schema=Github_hard---o80248.json test_index=3 actual_result=passed validation_loop_us=442 compute_mask_us=396 commit_token_us=16 tokens_checked=10/117
+  test:start schema=Github_hard---o80248.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=27 tokenize_us=628 tokens=119
+  test:end schema=Github_hard---o80248.json test_index=4 actual_result=passed validation_loop_us=459 compute_mask_us=407 commit_token_us=20 tokens_checked=10/119
+  test:start schema=Github_hard---o80248.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=24 tokenize_us=379 tokens=119
+  test:end schema=Github_hard---o80248.json test_index=5 actual_result=passed validation_loop_us=257 compute_mask_us=215 commit_token_us=21 tokens_checked=10/119
+schema:end path=maskbench/data/Github_hard---o80248.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o38404.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1361952
+engine:init_done us=824483
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 338 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o38404.json
+[1/1] Github_hard maskbench/data/Github_hard---o38404.json
+  compile_grammar:start schema=Github_hard---o38404.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o38404.json compile_grammar_us=5631088
+  test:start schema=Github_hard---o38404.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=47 tokenize_us=1896 tokens=358
+  test:end schema=Github_hard---o38404.json test_index=0 actual_result=failed validation_loop_us=98 compute_mask_us=65 commit_token_us=10 tokens_checked=7/358
+  test:start schema=Github_hard---o38404.json test_index=1
+    prepared test=1 reset_matcher_us=25 test_json_dumps_us=43 tokenize_us=948 tokens=366
+  test:end schema=Github_hard---o38404.json test_index=1 actual_result=passed validation_loop_us=74 compute_mask_us=47 commit_token_us=8 tokens_checked=7/366
+  test:start schema=Github_hard---o38404.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=43 tokenize_us=947 tokens=366
+  test:end schema=Github_hard---o38404.json test_index=2 actual_result=passed validation_loop_us=73 compute_mask_us=47 commit_token_us=8 tokens_checked=7/366
+  test:start schema=Github_hard---o38404.json test_index=3
+    prepared test=3 reset_matcher_us=18 test_json_dumps_us=42 tokenize_us=997 tokens=355
+  test:end schema=Github_hard---o38404.json test_index=3 actual_result=failed validation_loop_us=105 compute_mask_us=65 commit_token_us=15 tokens_checked=7/355
+schema:end path=maskbench/data/Github_hard---o38404.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o27790.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1399597
+engine:init_done us=852156
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 346 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o27790.json
+[1/1] Github_hard maskbench/data/Github_hard---o27790.json
+  compile_grammar:start schema=Github_hard---o27790.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o27790.json compile_grammar_us=4844886
+  test:start schema=Github_hard---o27790.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=59 tokenize_us=2195 tokens=578
+  test:end schema=Github_hard---o27790.json test_index=0 actual_result=failed validation_loop_us=2193 compute_mask_us=1900 commit_token_us=81 tokens_checked=108/578
+  test:start schema=Github_hard---o27790.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=62 tokenize_us=1268 tokens=567
+  test:end schema=Github_hard---o27790.json test_index=1 actual_result=failed validation_loop_us=2144 compute_mask_us=1858 commit_token_us=74 tokens_checked=108/567
+  test:start schema=Github_hard---o27790.json test_index=2
+    prepared test=2 reset_matcher_us=14 test_json_dumps_us=59 tokenize_us=1524 tokens=677
+  test:end schema=Github_hard---o27790.json test_index=2 actual_result=passed validation_loop_us=2093 compute_mask_us=1815 commit_token_us=74 tokens_checked=108/677
+  test:start schema=Github_hard---o27790.json test_index=3
+    prepared test=3 reset_matcher_us=17 test_json_dumps_us=59 tokenize_us=1437 tokens=618
+  test:end schema=Github_hard---o27790.json test_index=3 actual_result=passed validation_loop_us=2274 compute_mask_us=1976 commit_token_us=85 tokens_checked=108/618
+  test:start schema=Github_hard---o27790.json test_index=4
+    prepared test=4 reset_matcher_us=13 test_json_dumps_us=44 tokenize_us=1093 tokens=561
+  test:end schema=Github_hard---o27790.json test_index=4 actual_result=passed validation_loop_us=358 compute_mask_us=239 commit_token_us=27 tokens_checked=49/561
+  test:start schema=Github_hard---o27790.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=48 tokenize_us=1116 tokens=603
+  test:end schema=Github_hard---o27790.json test_index=5 actual_result=passed validation_loop_us=1430 compute_mask_us=1226 commit_token_us=39 tokens_checked=92/603
+schema:end path=maskbench/data/Github_hard---o27790.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o48423.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1384846
+engine:init_done us=819335
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 358 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o48423.json
+[1/1] Github_hard maskbench/data/Github_hard---o48423.json
+  compile_grammar:start schema=Github_hard---o48423.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o48423.json compile_grammar_us=9593916
+  test:start schema=Github_hard---o48423.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=43 tokenize_us=2257 tokens=308
+  test:end schema=Github_hard---o48423.json test_index=0 actual_result=failed validation_loop_us=10004 compute_mask_us=9677 commit_token_us=102 tokens_checked=83/308
+  test:start schema=Github_hard---o48423.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=44 tokenize_us=759 tokens=246
+  test:end schema=Github_hard---o48423.json test_index=1 actual_result=failed validation_loop_us=567 compute_mask_us=484 commit_token_us=35 tokens_checked=23/246
+  test:start schema=Github_hard---o48423.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=46 tokenize_us=996 tokens=404
+  test:end schema=Github_hard---o48423.json test_index=2 actual_result=passed validation_loop_us=531 compute_mask_us=464 commit_token_us=21 tokens_checked=23/404
+  test:start schema=Github_hard---o48423.json test_index=3
+    prepared test=3 reset_matcher_us=14 test_json_dumps_us=34 tokenize_us=687 tokens=247
+  test:end schema=Github_hard---o48423.json test_index=3 actual_result=passed validation_loop_us=525 compute_mask_us=450 commit_token_us=32 tokens_checked=23/247
+  test:start schema=Github_hard---o48423.json test_index=4
+    prepared test=4 reset_matcher_us=15 test_json_dumps_us=34 tokenize_us=700 tokens=246
+  test:end schema=Github_hard---o48423.json test_index=4 actual_result=passed validation_loop_us=559 compute_mask_us=478 commit_token_us=27 tokens_checked=23/246
+  test:start schema=Github_hard---o48423.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=30 tokenize_us=621 tokens=239
+  test:end schema=Github_hard---o48423.json test_index=5 actual_result=passed validation_loop_us=50 compute_mask_us=33 commit_token_us=5 tokens_checked=5/239
+schema:end path=maskbench/data/Github_hard---o48423.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o5362.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1389468
+engine:init_done us=828059
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 370 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o5362.json
+[1/1] Github_hard maskbench/data/Github_hard---o5362.json
+  compile_grammar:start schema=Github_hard---o5362.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o5362.json compile_grammar_us=6001167
+  test:start schema=Github_hard---o5362.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=43 tokenize_us=1507 tokens=232
+  test:end schema=Github_hard---o5362.json test_index=0 actual_result=passed validation_loop_us=3821 compute_mask_us=3225 commit_token_us=143 tokens_checked=232/232
+  test:start schema=Github_hard---o5362.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=36 tokenize_us=710 tokens=232
+  test:end schema=Github_hard---o5362.json test_index=1 actual_result=passed validation_loop_us=187 compute_mask_us=126 commit_token_us=10 tokens_checked=25/232
+  test:start schema=Github_hard---o5362.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=34 tokenize_us=668 tokens=232
+  test:end schema=Github_hard---o5362.json test_index=2 actual_result=passed validation_loop_us=654 compute_mask_us=425 commit_token_us=74 tokens_checked=50/232
+  test:start schema=Github_hard---o5362.json test_index=3
+    prepared test=3 reset_matcher_us=17 test_json_dumps_us=48 tokenize_us=912 tokens=230
+  test:end schema=Github_hard---o5362.json test_index=3 actual_result=passed validation_loop_us=184 compute_mask_us=126 commit_token_us=9 tokens_checked=25/230
+  test:start schema=Github_hard---o5362.json test_index=4
+    prepared test=4 reset_matcher_us=15 test_json_dumps_us=38 tokenize_us=959 tokens=234
+  test:end schema=Github_hard---o5362.json test_index=4 actual_result=passed validation_loop_us=129 compute_mask_us=82 commit_token_us=17 tokens_checked=10/234
+  test:start schema=Github_hard---o5362.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=32 tokenize_us=832 tokens=254
+  test:end schema=Github_hard---o5362.json test_index=5 actual_result=passed validation_loop_us=303 compute_mask_us=197 commit_token_us=34 tokens_checked=25/254
+schema:end path=maskbench/data/Github_hard---o5362.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o89723.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1361143
+engine:init_done us=812515
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 382 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o89723.json
+[1/1] Github_hard maskbench/data/Github_hard---o89723.json
+  compile_grammar:start schema=Github_hard---o89723.json selected_tests=13
+  compile_grammar:end schema=Github_hard---o89723.json compile_grammar_us=5608818
+  test:start schema=Github_hard---o89723.json test_index=0
+    prepared test=0 reset_matcher_us=33 test_json_dumps_us=52 tokenize_us=1721 tokens=320
+  test:end schema=Github_hard---o89723.json test_index=0 actual_result=passed validation_loop_us=5544 compute_mask_us=4791 commit_token_us=132 tokens_checked=320/320
+  test:start schema=Github_hard---o89723.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=42 tokenize_us=1124 tokens=318
+  test:end schema=Github_hard---o89723.json test_index=1 actual_result=passed validation_loop_us=6747 compute_mask_us=5851 commit_token_us=335 tokens_checked=202/318
+  test:start schema=Github_hard---o89723.json test_index=2
+    prepared test=2 reset_matcher_us=30 test_json_dumps_us=41 tokenize_us=893 tokens=320
+  test:end schema=Github_hard---o89723.json test_index=2 actual_result=passed validation_loop_us=556 compute_mask_us=390 commit_token_us=43 tokens_checked=51/320
+  test:start schema=Github_hard---o89723.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=42 tokenize_us=790 tokens=320
+  test:end schema=Github_hard---o89723.json test_index=3 actual_result=passed validation_loop_us=211 compute_mask_us=151 commit_token_us=9 tokens_checked=26/320
+  test:start schema=Github_hard---o89723.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=39 tokenize_us=682 tokens=319
+  test:end schema=Github_hard---o89723.json test_index=4 actual_result=passed validation_loop_us=3121 compute_mask_us=2663 commit_token_us=78 tokens_checked=185/319
+  test:start schema=Github_hard---o89723.json test_index=5
+    prepared test=5 reset_matcher_us=14 test_json_dumps_us=38 tokenize_us=781 tokens=320
+  test:end schema=Github_hard---o89723.json test_index=5 actual_result=passed validation_loop_us=4706 compute_mask_us=4035 commit_token_us=111 tokens_checked=289/320
+  test:start schema=Github_hard---o89723.json test_index=6
+    prepared test=6 reset_matcher_us=26 test_json_dumps_us=32 tokenize_us=742 tokens=267
+  test:end schema=Github_hard---o89723.json test_index=6 actual_result=passed validation_loop_us=3245 compute_mask_us=2748 commit_token_us=94 tokens_checked=202/267
+  test:start schema=Github_hard---o89723.json test_index=7
+    prepared test=7 reset_matcher_us=22 test_json_dumps_us=35 tokenize_us=1019 tokens=348
+  test:end schema=Github_hard---o89723.json test_index=7 actual_result=passed validation_loop_us=2879 compute_mask_us=2461 commit_token_us=60 tokens_checked=185/348
+  test:start schema=Github_hard---o89723.json test_index=8
+    prepared test=8 reset_matcher_us=15 test_json_dumps_us=40 tokenize_us=896 tokens=337
+  test:end schema=Github_hard---o89723.json test_index=8 actual_result=passed validation_loop_us=5639 compute_mask_us=4820 commit_token_us=170 tokens_checked=337/337
+  test:start schema=Github_hard---o89723.json test_index=9
+    prepared test=9 reset_matcher_us=17 test_json_dumps_us=40 tokenize_us=745 tokens=278
+  test:end schema=Github_hard---o89723.json test_index=9 actual_result=passed validation_loop_us=3770 compute_mask_us=3261 commit_token_us=92 tokens_checked=213/278
+  test:start schema=Github_hard---o89723.json test_index=10
+    prepared test=10 reset_matcher_us=29 test_json_dumps_us=37 tokenize_us=949 tokens=308
+  test:end schema=Github_hard---o89723.json test_index=10 actual_result=passed validation_loop_us=5324 compute_mask_us=4616 commit_token_us=129 tokens_checked=301/308
+  test:start schema=Github_hard---o89723.json test_index=11
+    prepared test=11 reset_matcher_us=21 test_json_dumps_us=32 tokenize_us=861 tokens=322
+  test:end schema=Github_hard---o89723.json test_index=11 actual_result=passed validation_loop_us=368 compute_mask_us=237 commit_token_us=27 tokens_checked=51/322
+  test:start schema=Github_hard---o89723.json test_index=12
+    prepared test=12 reset_matcher_us=12 test_json_dumps_us=47 tokenize_us=798 tokens=334
+  test:end schema=Github_hard---o89723.json test_index=12 actual_result=passed validation_loop_us=3077 compute_mask_us=2635 commit_token_us=73 tokens_checked=191/334
+schema:end path=maskbench/data/Github_hard---o89723.json written=13
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o38405.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1394286
+engine:init_done us=808288
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 408 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o38405.json
+[1/1] Github_hard maskbench/data/Github_hard---o38405.json
+  compile_grammar:start schema=Github_hard---o38405.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o38405.json compile_grammar_us=5965540
+  test:start schema=Github_hard---o38405.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=55 tokenize_us=2592 tokens=395
+  test:end schema=Github_hard---o38405.json test_index=0 actual_result=failed validation_loop_us=139 compute_mask_us=91 commit_token_us=17 tokens_checked=7/395
+  test:start schema=Github_hard---o38405.json test_index=1
+    prepared test=1 reset_matcher_us=25 test_json_dumps_us=48 tokenize_us=1351 tokens=402
+  test:end schema=Github_hard---o38405.json test_index=1 actual_result=passed validation_loop_us=102 compute_mask_us=64 commit_token_us=13 tokens_checked=7/402
+  test:start schema=Github_hard---o38405.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=64 tokenize_us=1931 tokens=536
+  test:end schema=Github_hard---o38405.json test_index=2 actual_result=passed validation_loop_us=69 compute_mask_us=46 commit_token_us=9 tokens_checked=7/536
+  test:start schema=Github_hard---o38405.json test_index=3
+    prepared test=3 reset_matcher_us=16 test_json_dumps_us=57 tokenize_us=1323 tokens=395
+  test:end schema=Github_hard---o38405.json test_index=3 actual_result=failed validation_loop_us=106 compute_mask_us=65 commit_token_us=15 tokens_checked=7/395
+schema:end path=maskbench/data/Github_hard---o38405.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o5345.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1357962
+engine:init_done us=801546
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 416 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o5345.json
+[1/1] Github_hard maskbench/data/Github_hard---o5345.json
+  compile_grammar:start schema=Github_hard---o5345.json selected_tests=6
+  compile_grammar:end schema=Github_hard---o5345.json compile_grammar_us=6548825
+  test:start schema=Github_hard---o5345.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=39 tokenize_us=1523 tokens=247
+  test:end schema=Github_hard---o5345.json test_index=0 actual_result=passed validation_loop_us=4169 compute_mask_us=3539 commit_token_us=124 tokens_checked=247/247
+  test:start schema=Github_hard---o5345.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=36 tokenize_us=738 tokens=247
+  test:end schema=Github_hard---o5345.json test_index=1 actual_result=passed validation_loop_us=235 compute_mask_us=163 commit_token_us=15 tokens_checked=25/247
+  test:start schema=Github_hard---o5345.json test_index=2
+    prepared test=2 reset_matcher_us=20 test_json_dumps_us=37 tokenize_us=834 tokens=247
+  test:end schema=Github_hard---o5345.json test_index=2 actual_result=passed validation_loop_us=189 compute_mask_us=128 commit_token_us=11 tokens_checked=25/247
+  test:start schema=Github_hard---o5345.json test_index=3
+    prepared test=3 reset_matcher_us=16 test_json_dumps_us=34 tokenize_us=605 tokens=245
+  test:end schema=Github_hard---o5345.json test_index=3 actual_result=passed validation_loop_us=179 compute_mask_us=120 commit_token_us=7 tokens_checked=25/245
+  test:start schema=Github_hard---o5345.json test_index=4
+    prepared test=4 reset_matcher_us=16 test_json_dumps_us=34 tokenize_us=609 tokens=217
+  test:end schema=Github_hard---o5345.json test_index=4 actual_result=passed validation_loop_us=97 compute_mask_us=61 commit_token_us=12 tokens_checked=8/217
+  test:start schema=Github_hard---o5345.json test_index=5
+    prepared test=5 reset_matcher_us=13 test_json_dumps_us=42 tokenize_us=618 tokens=240
+  test:end schema=Github_hard---o5345.json test_index=5 actual_result=passed validation_loop_us=155 compute_mask_us=97 commit_token_us=5 tokens_checked=25/240
+schema:end path=maskbench/data/Github_hard---o5345.json written=6
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o5374.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1395685
+engine:init_done us=821797
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 428 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o5374.json
+[1/1] Github_hard maskbench/data/Github_hard---o5374.json
+  compile_grammar:start schema=Github_hard---o5374.json selected_tests=7
+  compile_grammar:end schema=Github_hard---o5374.json compile_grammar_us=6542931
+  test:start schema=Github_hard---o5374.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=43 tokenize_us=1592 tokens=311
+  test:end schema=Github_hard---o5374.json test_index=0 actual_result=passed validation_loop_us=5344 compute_mask_us=4618 commit_token_us=139 tokens_checked=311/311
+  test:start schema=Github_hard---o5374.json test_index=1
+    prepared test=1 reset_matcher_us=20 test_json_dumps_us=38 tokenize_us=860 tokens=311
+  test:end schema=Github_hard---o5374.json test_index=1 actual_result=passed validation_loop_us=182 compute_mask_us=123 commit_token_us=10 tokens_checked=25/311
+  test:start schema=Github_hard---o5374.json test_index=2
+    prepared test=2 reset_matcher_us=13 test_json_dumps_us=36 tokenize_us=676 tokens=311
+  test:end schema=Github_hard---o5374.json test_index=2 actual_result=passed validation_loop_us=3218 compute_mask_us=2740 commit_token_us=121 tokens_checked=174/311
+  test:start schema=Github_hard---o5374.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=36 tokenize_us=752 tokens=311
+  test:end schema=Github_hard---o5374.json test_index=3 actual_result=passed validation_loop_us=165 compute_mask_us=111 commit_token_us=7 tokens_checked=25/311
+  test:start schema=Github_hard---o5374.json test_index=4
+    prepared test=4 reset_matcher_us=19 test_json_dumps_us=34 tokenize_us=623 tokens=259
+  test:end schema=Github_hard---o5374.json test_index=4 actual_result=failed validation_loop_us=1657 compute_mask_us=1422 commit_token_us=49 tokens_checked=100/259
+  test:start schema=Github_hard---o5374.json test_index=5
+    prepared test=5 reset_matcher_us=26 test_json_dumps_us=32 tokenize_us=587 tokens=259
+  test:end schema=Github_hard---o5374.json test_index=5 actual_result=passed validation_loop_us=181 compute_mask_us=113 commit_token_us=19 tokens_checked=26/259
+  test:start schema=Github_hard---o5374.json test_index=6
+    prepared test=6 reset_matcher_us=15 test_json_dumps_us=49 tokenize_us=1397 tokens=382
+  test:end schema=Github_hard---o5374.json test_index=6 actual_result=passed validation_loop_us=312 compute_mask_us=206 commit_token_us=35 tokens_checked=26/382
+schema:end path=maskbench/data/Github_hard---o5374.json written=7
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o17529.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1372570
+engine:init_done us=810231
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 442 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o17529.json
+[1/1] Github_hard maskbench/data/Github_hard---o17529.json
+  compile_grammar:start schema=Github_hard---o17529.json selected_tests=7
+  compile_grammar:end schema=Github_hard---o17529.json compile_grammar_us=21908170
+  test:start schema=Github_hard---o17529.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=48 tokenize_us=1798 tokens=392
+  test:end schema=Github_hard---o17529.json test_index=0 actual_result=passed validation_loop_us=20336 compute_mask_us=19051 commit_token_us=550 tokens_checked=392/392
+  test:start schema=Github_hard---o17529.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=51 tokenize_us=1176 tokens=421
+  test:end schema=Github_hard---o17529.json test_index=1 actual_result=passed validation_loop_us=21790 compute_mask_us=20434 commit_token_us=531 tokens_checked=421/421
+  test:start schema=Github_hard---o17529.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=26 tokenize_us=474 tokens=137
+  test:end schema=Github_hard---o17529.json test_index=2 actual_result=passed validation_loop_us=13051 compute_mask_us=12676 commit_token_us=118 tokens_checked=124/137
+  test:start schema=Github_hard---o17529.json test_index=3
+    prepared test=3 reset_matcher_us=18 test_json_dumps_us=46 tokenize_us=1048 tokens=425
+  test:end schema=Github_hard---o17529.json test_index=3 actual_result=passed validation_loop_us=8453 compute_mask_us=8251 commit_token_us=62 tokens_checked=70/425
+  test:start schema=Github_hard---o17529.json test_index=4
+    prepared test=4 reset_matcher_us=20 test_json_dumps_us=48 tokenize_us=1412 tokens=419
+  test:end schema=Github_hard---o17529.json test_index=4 actual_result=passed validation_loop_us=72 compute_mask_us=50 commit_token_us=10 tokens_checked=4/419
+  test:start schema=Github_hard---o17529.json test_index=5
+    prepared test=5 reset_matcher_us=15 test_json_dumps_us=18 tokenize_us=243 tokens=34
+  test:end schema=Github_hard---o17529.json test_index=5 actual_result=failed validation_loop_us=1700 compute_mask_us=1609 commit_token_us=21 tokens_checked=34/34
+  test:start schema=Github_hard---o17529.json test_index=6
+    prepared test=6 reset_matcher_us=16 test_json_dumps_us=60 tokenize_us=1227 tokens=461
+  test:end schema=Github_hard---o17529.json test_index=6 actual_result=passed validation_loop_us=6414 compute_mask_us=6272 commit_token_us=41 tokens_checked=48/461
+schema:end path=maskbench/data/Github_hard---o17529.json written=7
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o36153.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1518549
+engine:init_done us=839285
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 456 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o36153.json
+[1/1] Github_hard maskbench/data/Github_hard---o36153.json
+  compile_grammar:start schema=Github_hard---o36153.json selected_tests=10
+
+===== Github_hard---o12346.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1938562
+engine:init_done us=819427
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 456 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o12346.json
+[1/1] Github_hard maskbench/data/Github_hard---o12346.json
+  compile_grammar:start schema=Github_hard---o12346.json selected_tests=4
+  compile_grammar:end schema=Github_hard---o12346.json compile_grammar_us=4854958
+  test:start schema=Github_hard---o12346.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=36 tokenize_us=4395 tokens=327
+  test:end schema=Github_hard---o12346.json test_index=0 actual_result=passed validation_loop_us=20300 compute_mask_us=18947 commit_token_us=461 tokens_checked=327/327
+  test:start schema=Github_hard---o12346.json test_index=1
+    prepared test=1 reset_matcher_us=23 test_json_dumps_us=32 tokenize_us=899 tokens=327
+  test:end schema=Github_hard---o12346.json test_index=1 actual_result=passed validation_loop_us=3362 compute_mask_us=3282 commit_token_us=39 tokens_checked=10/327
+  test:start schema=Github_hard---o12346.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=40 tokenize_us=1487 tokens=330
+  test:end schema=Github_hard---o12346.json test_index=2 actual_result=passed validation_loop_us=14602 compute_mask_us=13775 commit_token_us=164 tokens_checked=330/330
+  test:start schema=Github_hard---o12346.json test_index=3
+    prepared test=3 reset_matcher_us=20 test_json_dumps_us=31 tokenize_us=729 tokens=308
+  test:end schema=Github_hard---o12346.json test_index=3 actual_result=passed validation_loop_us=61 compute_mask_us=44 commit_token_us=5 tokens_checked=5/308
+schema:end path=maskbench/data/Github_hard---o12346.json written=4
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o41372.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1292038
+engine:init_done us=791427
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 464 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o41372.json
+[1/1] Github_hard maskbench/data/Github_hard---o41372.json
+  compile_grammar:start schema=Github_hard---o41372.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o41372.json compile_grammar_us=1785145
+  test:start schema=Github_hard---o41372.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=34 tokenize_us=1259 tokens=107
+  test:end schema=Github_hard---o41372.json test_index=0 actual_result=failed validation_loop_us=108 compute_mask_us=68 commit_token_us=12 tokens_checked=9/107
+  test:start schema=Github_hard---o41372.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=28 tokenize_us=458 tokens=112
+  test:end schema=Github_hard---o41372.json test_index=1 actual_result=failed validation_loop_us=79 compute_mask_us=49 commit_token_us=9 tokens_checked=9/112
+  test:start schema=Github_hard---o41372.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=24 tokenize_us=327 tokens=112
+  test:end schema=Github_hard---o41372.json test_index=2 actual_result=passed validation_loop_us=30 compute_mask_us=21 commit_token_us=2 tokens_checked=2/112
+schema:end path=maskbench/data/Github_hard---o41372.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o41203.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1279429
+engine:init_done us=787849
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 470 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o41203.json
+[1/1] Github_hard maskbench/data/Github_hard---o41203.json
+  compile_grammar:start schema=Github_hard---o41203.json selected_tests=2
+  compile_grammar:end schema=Github_hard---o41203.json compile_grammar_us=2081072
+  test:start schema=Github_hard---o41203.json test_index=0
+    prepared test=0 reset_matcher_us=29 test_json_dumps_us=35 tokenize_us=1504 tokens=82
+  test:end schema=Github_hard---o41203.json test_index=0 actual_result=passed validation_loop_us=718 compute_mask_us=518 commit_token_us=31 tokens_checked=82/82
+  test:start schema=Github_hard---o41203.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=20 tokenize_us=324 tokens=83
+  test:end schema=Github_hard---o41203.json test_index=1 actual_result=passed validation_loop_us=118 compute_mask_us=72 commit_token_us=16 tokens_checked=9/83
+schema:end path=maskbench/data/Github_hard---o41203.json written=2
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o41379.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1263464
+engine:init_done us=784068
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 474 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o41379.json
+[1/1] Github_hard maskbench/data/Github_hard---o41379.json
+  compile_grammar:start schema=Github_hard---o41379.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o41379.json compile_grammar_us=1711276
+  test:start schema=Github_hard---o41379.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=29 tokenize_us=1515 tokens=136
+  test:end schema=Github_hard---o41379.json test_index=0 actual_result=failed validation_loop_us=771 compute_mask_us=630 commit_token_us=54 tokens_checked=27/136
+  test:start schema=Github_hard---o41379.json test_index=1
+    prepared test=1 reset_matcher_us=30 test_json_dumps_us=19 tokenize_us=264 tokens=63
+  test:end schema=Github_hard---o41379.json test_index=1 actual_result=passed validation_loop_us=3158 compute_mask_us=2988 commit_token_us=38 tokens_checked=63/63
+  test:start schema=Github_hard---o41379.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=19 tokenize_us=260 tokens=57
+  test:end schema=Github_hard---o41379.json test_index=2 actual_result=passed validation_loop_us=78 compute_mask_us=52 commit_token_us=7 tokens_checked=9/57
+schema:end path=maskbench/data/Github_hard---o41379.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o41247.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1289388
+engine:init_done us=784130
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 480 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o41247.json
+[1/1] Github_hard maskbench/data/Github_hard---o41247.json
+  compile_grammar:start schema=Github_hard---o41247.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o41247.json compile_grammar_us=2046822
+  test:start schema=Github_hard---o41247.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=26 tokenize_us=1183 tokens=101
+  test:end schema=Github_hard---o41247.json test_index=0 actual_result=passed validation_loop_us=2025 compute_mask_us=1743 commit_token_us=89 tokens_checked=101/101
+  test:start schema=Github_hard---o41247.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=23 tokenize_us=381 tokens=94
+  test:end schema=Github_hard---o41247.json test_index=1 actual_result=passed validation_loop_us=1644 compute_mask_us=1395 commit_token_us=73 tokens_checked=94/94
+  test:start schema=Github_hard---o41247.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=23 tokenize_us=427 tokens=103
+  test:end schema=Github_hard---o41247.json test_index=2 actual_result=passed validation_loop_us=36 compute_mask_us=25 commit_token_us=2 tokens_checked=2/103
+schema:end path=maskbench/data/Github_hard---o41247.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o41264.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1265737
+engine:init_done us=763328
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 486 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o41264.json
+[1/1] Github_hard maskbench/data/Github_hard---o41264.json
+  compile_grammar:start schema=Github_hard---o41264.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o41264.json compile_grammar_us=2272639
+  test:start schema=Github_hard---o41264.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=29 tokenize_us=1483 tokens=144
+  test:end schema=Github_hard---o41264.json test_index=0 actual_result=failed validation_loop_us=181 compute_mask_us=116 commit_token_us=23 tokens_checked=11/144
+  test:start schema=Github_hard---o41264.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=25 tokenize_us=471 tokens=138
+  test:end schema=Github_hard---o41264.json test_index=1 actual_result=failed validation_loop_us=83 compute_mask_us=49 commit_token_us=9 tokens_checked=11/138
+  test:start schema=Github_hard---o41264.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=30 tokenize_us=535 tokens=161
+  test:end schema=Github_hard---o41264.json test_index=2 actual_result=passed validation_loop_us=37 compute_mask_us=26 commit_token_us=3 tokens_checked=2/161
+schema:end path=maskbench/data/Github_hard---o41264.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o41249.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1308498
+engine:init_done us=762811
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 492 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o41249.json
+[1/1] Github_hard maskbench/data/Github_hard---o41249.json
+  compile_grammar:start schema=Github_hard---o41249.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o41249.json compile_grammar_us=2274688
+  test:start schema=Github_hard---o41249.json test_index=0
+    prepared test=0 reset_matcher_us=27 test_json_dumps_us=43 tokenize_us=1482 tokens=133
+  test:end schema=Github_hard---o41249.json test_index=0 actual_result=failed validation_loop_us=128 compute_mask_us=84 commit_token_us=14 tokens_checked=11/133
+  test:start schema=Github_hard---o41249.json test_index=1
+    prepared test=1 reset_matcher_us=27 test_json_dumps_us=26 tokenize_us=494 tokens=143
+  test:end schema=Github_hard---o41249.json test_index=1 actual_result=failed validation_loop_us=89 compute_mask_us=55 commit_token_us=9 tokens_checked=11/143
+  test:start schema=Github_hard---o41249.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=23 tokenize_us=472 tokens=140
+  test:end schema=Github_hard---o41249.json test_index=2 actual_result=passed validation_loop_us=31 compute_mask_us=21 commit_token_us=2 tokens_checked=2/140
+schema:end path=maskbench/data/Github_hard---o41249.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o32026.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1295627
+engine:init_done us=784539
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 498 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o32026.json
+[1/1] Github_hard maskbench/data/Github_hard---o32026.json
+  compile_grammar:start schema=Github_hard---o32026.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o32026.json compile_grammar_us=8674800
+  test:start schema=Github_hard---o32026.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=36 tokenize_us=1616 tokens=347
+  test:end schema=Github_hard---o32026.json test_index=0 actual_result=passed validation_loop_us=16933 compute_mask_us=15948 commit_token_us=300 tokens_checked=347/347
+  test:start schema=Github_hard---o32026.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=30 tokenize_us=753 tokens=347
+  test:end schema=Github_hard---o32026.json test_index=1 actual_result=passed validation_loop_us=15014 compute_mask_us=14124 commit_token_us=256 tokens_checked=347/347
+  test:start schema=Github_hard---o32026.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=27 tokenize_us=692 tokens=347
+  test:end schema=Github_hard---o32026.json test_index=2 actual_result=passed validation_loop_us=9662 compute_mask_us=9091 commit_token_us=189 tokens_checked=218/347
+schema:end path=maskbench/data/Github_hard---o32026.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o30094.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1306191
+engine:init_done us=776202
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 504 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o30094.json
+[1/1] Github_hard maskbench/data/Github_hard---o30094.json
+  compile_grammar:start schema=Github_hard---o30094.json selected_tests=2
+  compile_grammar:end schema=Github_hard---o30094.json compile_grammar_us=13233831
+  test:start schema=Github_hard---o30094.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=46 tokenize_us=2058 tokens=490
+  test:end schema=Github_hard---o30094.json test_index=0 actual_result=passed validation_loop_us=38948 compute_mask_us=37444 commit_token_us=583 tokens_checked=490/490
+  test:start schema=Github_hard---o30094.json test_index=1
+    prepared test=1 reset_matcher_us=16 test_json_dumps_us=34 tokenize_us=1011 tokens=496
+  test:end schema=Github_hard---o30094.json test_index=1 actual_result=passed validation_loop_us=34926 compute_mask_us=33544 commit_token_us=534 tokens_checked=496/496
+schema:end path=maskbench/data/Github_hard---o30094.json written=2
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o30981.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1297489
+engine:init_done us=773767
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 508 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o30981.json
+[1/1] Github_hard maskbench/data/Github_hard---o30981.json
+  compile_grammar:start schema=Github_hard---o30981.json selected_tests=3
+  compile_grammar:end schema=Github_hard---o30981.json compile_grammar_us=10286608
+  test:start schema=Github_hard---o30981.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=35 tokenize_us=1577 tokens=309
+  test:end schema=Github_hard---o30981.json test_index=0 actual_result=passed validation_loop_us=8969 compute_mask_us=8090 commit_token_us=290 tokens_checked=309/309
+  test:start schema=Github_hard---o30981.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=31 tokenize_us=731 tokens=313
+  test:end schema=Github_hard---o30981.json test_index=1 actual_result=passed validation_loop_us=8992 compute_mask_us=8100 commit_token_us=290 tokens_checked=313/313
+  test:start schema=Github_hard---o30981.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=29 tokenize_us=636 tokens=304
+  test:end schema=Github_hard---o30981.json test_index=2 actual_result=passed validation_loop_us=246 compute_mask_us=181 commit_token_us=34 tokens_checked=14/304
+schema:end path=maskbench/data/Github_hard---o30981.json written=3
+Wrote split outputs under extension_jsonschemabench/results/per_dataset_runs
+
+===== Github_hard---o36153.json =====
+engine:get_engine framework=xgr engine=XGrammar
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1467515
+engine:init_done us=845103
+Resuming from extension_jsonschemabench/results/per_dataset_runs/xgr/Github_hard/per_test_results.jsonl with 514 existing result keys.
+Writing split outputs under extension_jsonschemabench/results/per_dataset_runs.
+schema:start index=1/1 dataset=Github_hard path=maskbench/data/Github_hard---o36153.json
+[1/1] Github_hard maskbench/data/Github_hard---o36153.json
+  compile_grammar:start schema=Github_hard---o36153.json selected_tests=10

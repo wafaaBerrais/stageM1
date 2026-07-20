@@ -1,0 +1,11 @@
+feature,schemas_with_feature,compile_error_schemas_with_feature,compile_error_rate_with_feature,compile_error_rate_without_feature,lift
+has_maximum,111,8,0.0720721,0.00116822,61.6937
+has_maxLength,252,8,0.031746,0.00127307,24.9365
+has_minimum,302,8,0.0264901,0.00131492,20.1457
+has_minLength,313,7,0.0223642,0.00198675,11.2567
+has_pattern,512,6,0.0117188,0.00305111,3.84082
+has_enum,808,7,0.00866337,0.00295567,2.93111
+has_boolean_schema,825,7,0.00848485,0.00300601,2.82263
+many_properties,1268,8,0.00630915,0.0036036,1.75079
+has_additionalProperties,852,6,0.00704225,0.00411946,1.70951
+has_items,990,5,0.00505051,0.0060024,0.841414

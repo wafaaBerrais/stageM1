@@ -1,0 +1,60 @@
+Selected schema files: 1970
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 9194 completed test ids from 7 existing JSONL file(s).
+[1/1970] Github_medium Github_medium---o10310.json: skipped no tests
+[2/1970] Github_medium Github_medium---o10314.json: already complete
+[3/1970] Github_medium Github_medium---o1050.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.42 min
+[4/1970] Github_medium Github_medium---o10505.json: running
+  ok after 0.50 min
+[5/1970] Github_medium Github_medium---o10517.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.01 min
+[6/1970] Github_medium Github_medium---o10518.json: already complete
+[7/1970] Github_medium Github_medium---o10527.json: running
+  ok after 0.33 min
+[8/1970] Github_medium Github_medium---o1053.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  ok after 3.92 min
+[9/1970] Github_medium Github_medium---o10530.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[10/1970] Github_medium Github_medium---o10566.json: running
+  ok after 0.42 min
+[11/1970] Github_medium Github_medium---o10617.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.01 min
+Traceback (most recent call last):
+  File "/home/berrais/stage/jsonschemabench/extension_jsonschemabench/scripts/run_dataset_with_timeouts.py", line 701, in <module>
+    main()
+    ~~~~^^
+  File "/home/berrais/stage/jsonschemabench/extension_jsonschemabench/scripts/run_dataset_with_timeouts.py", line 650, in main
+    mark_timeout_profile_rows(out_path.with_name("timing_profile.csv"), schema_path, args.framework, elapsed)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/berrais/stage/jsonschemabench/extension_jsonschemabench/scripts/run_dataset_with_timeouts.py", line 324, in mark_timeout_profile_rows
+    tmp_path.replace(profile_path)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/pathlib/_local.py", line 782, in replace
+    os.replace(self, target)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/berrais/stage/jsonschemabench/extension_jsonschemabench/results/per_dataset_runs/outlines/Github_medium/.timing_profile.csv.timeout.tmp' -> '/home/berrais/stage/jsonschemabench/extension_jsonschemabench/results/per_dataset_runs/outlines/Github_medium/timing_profile.csv'

@@ -1,0 +1,61 @@
+model,split,label,threshold,precision,recall,f1-score,support
+logistic_regression_c0.3,test,0,0.4,0.868603,0.937313,0.901651,670
+logistic_regression_c0.3,test,1,0.4,0.801887,0.641509,0.712788,265
+logistic_regression_c0.3,test,macro avg,0.4,0.835245,0.789411,0.80722,935
+logistic_regression_c0.3,test,weighted avg,0.4,0.849694,0.853476,0.848123,935
+logistic_regression_c1,test,0,0.38,0.870112,0.929851,0.89899,670
+logistic_regression_c1,test,1,0.38,0.785388,0.649057,0.710744,265
+logistic_regression_c1,test,macro avg,0.38,0.82775,0.789454,0.804867,935
+logistic_regression_c1,test,weighted avg,0.38,0.846099,0.850267,0.845637,935
+logistic_regression_c3,test,0,0.37,0.871469,0.920896,0.895501,670
+logistic_regression_c3,test,1,0.37,0.76652,0.656604,0.707317,265
+logistic_regression_c3,test,macro avg,0.37,0.818994,0.78875,0.801409,935
+logistic_regression_c3,test,weighted avg,0.37,0.841724,0.845989,0.842165,935
+random_forest_leaf1_sqrt,test,0,0.49,0.859838,0.952239,0.903683,670
+random_forest_leaf1_sqrt,test,1,0.49,0.834197,0.607547,0.703057,265
+random_forest_leaf1_sqrt,test,macro avg,0.49,0.847018,0.779893,0.80337,935
+random_forest_leaf1_sqrt,test,weighted avg,0.49,0.852571,0.854545,0.846821,935
+random_forest_leaf2_sqrt,test,0,0.38,0.872671,0.838806,0.855403,670
+random_forest_leaf2_sqrt,test,1,0.38,0.628866,0.690566,0.658273,265
+random_forest_leaf2_sqrt,test,macro avg,0.38,0.750768,0.764686,0.756838,935
+random_forest_leaf2_sqrt,test,weighted avg,0.38,0.803571,0.796791,0.799532,935
+random_forest_leaf5_sqrt,test,0,0.49,0.866575,0.940299,0.901933,670
+random_forest_leaf5_sqrt,test,1,0.49,0.807692,0.633962,0.710359,265
+random_forest_leaf5_sqrt,test,macro avg,0.49,0.837134,0.78713,0.806146,935
+random_forest_leaf5_sqrt,test,weighted avg,0.49,0.849886,0.853476,0.847637,935
+random_forest_leaf2_0.7,test,0,0.33,0.885122,0.701493,0.782681,670
+random_forest_leaf2_0.7,test,1,0.33,0.50495,0.769811,0.609865,265
+random_forest_leaf2_0.7,test,macro avg,0.33,0.695036,0.735652,0.696273,935
+random_forest_leaf2_0.7,test,weighted avg,0.33,0.777373,0.720856,0.733701,935
+hist_gradient_boosting_lr0.03_l2_0,test,0,0.46,0.861373,0.955224,0.905874,670
+hist_gradient_boosting_lr0.03_l2_0,test,1,0.46,0.84375,0.611321,0.708972,265
+hist_gradient_boosting_lr0.03_l2_0,test,macro avg,0.46,0.852561,0.783272,0.807423,935
+hist_gradient_boosting_lr0.03_l2_0,test,weighted avg,0.46,0.856378,0.857754,0.850067,935
+hist_gradient_boosting_lr0.03_l2_0.05,test,0,0.46,0.85906,0.955224,0.904594,670
+hist_gradient_boosting_lr0.03_l2_0.05,test,1,0.46,0.842105,0.603774,0.703297,265
+hist_gradient_boosting_lr0.03_l2_0.05,test,macro avg,0.46,0.850583,0.779499,0.803945,935
+hist_gradient_boosting_lr0.03_l2_0.05,test,weighted avg,0.46,0.854255,0.855615,0.847542,935
+hist_gradient_boosting_lr0.06_l2_0.01,test,0,0.33,0.874327,0.726866,0.793806,670
+hist_gradient_boosting_lr0.06_l2_0.01,test,1,0.33,0.515873,0.735849,0.606532,265
+hist_gradient_boosting_lr0.06_l2_0.01,test,macro avg,0.33,0.6951,0.731357,0.700169,935
+hist_gradient_boosting_lr0.06_l2_0.01,test,weighted avg,0.33,0.772733,0.729412,0.740728,935
+hist_gradient_boosting_lr0.08_leaf15,test,0,0.33,0.875706,0.69403,0.774355,670
+hist_gradient_boosting_lr0.08_leaf15,test,1,0.33,0.492574,0.750943,0.594918,265
+hist_gradient_boosting_lr0.08_leaf15,test,macro avg,0.33,0.68414,0.722487,0.684636,935
+hist_gradient_boosting_lr0.08_leaf15,test,weighted avg,0.33,0.767118,0.71016,0.723498,935
+lightgbm_lr0.03_leaves15,test,0,0.33,0.879079,0.683582,0.769102,670
+lightgbm_lr0.03_leaves15,test,1,0.33,0.487923,0.762264,0.594993,265
+lightgbm_lr0.03_leaves15,test,macro avg,0.33,0.683501,0.722923,0.682047,935
+lightgbm_lr0.03_leaves15,test,weighted avg,0.33,0.768216,0.705882,0.719755,935
+lightgbm_lr0.03_leaves31,test,0,0.33,0.876122,0.728358,0.795436,670
+lightgbm_lr0.03_leaves31,test,1,0.33,0.518519,0.739623,0.609642,265
+lightgbm_lr0.03_leaves31,test,macro avg,0.33,0.69732,0.73399,0.702539,935
+lightgbm_lr0.03_leaves31,test,weighted avg,0.33,0.774769,0.731551,0.742778,935
+lightgbm_lr0.05_leaves31,test,0,0.73,0.856209,0.977612,0.912892,670
+lightgbm_lr0.05_leaves31,test,1,0.73,0.911765,0.584906,0.712644,265
+lightgbm_lr0.05_leaves31,test,macro avg,0.73,0.883987,0.781259,0.812768,935
+lightgbm_lr0.05_leaves31,test,weighted avg,0.73,0.871955,0.86631,0.856137,935
+lightgbm_lr0.05_leaves63,test,0,0.49,0.858653,0.970149,0.911002,670
+lightgbm_lr0.05_leaves63,test,1,0.49,0.88764,0.596226,0.713318,265
+lightgbm_lr0.05_leaves63,test,macro avg,0.49,0.873147,0.783188,0.81216,935
+lightgbm_lr0.05_leaves63,test,weighted avg,0.49,0.866868,0.864171,0.854974,935

@@ -1,0 +1,3 @@
+expected_validity,n_tests,share,n_timeout_schemas
+valid,5,0.25,5
+invalid,15,0.75,5

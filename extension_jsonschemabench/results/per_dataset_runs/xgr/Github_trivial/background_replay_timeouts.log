@@ -1,0 +1,179 @@
+starting trivial timeout replay NOW at Fri Jun 26 13:55:03 CEST 2026
+===== Github_trivial---o64546.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o64546.json: running
+  still running after 1.01 min
+  still running after 2.02 min
+  still running after 3.02 min
+  still running after 4.02 min
+  still running after 5.02 min
+  still running after 6.02 min
+  exit_-15 after 6.94 min
+Stopping after Github_trivial---o64546.json returned exit_-15. See extension_jsonschemabench/results/per_dataset_runs/xgr/Github_trivial/supervisor.log for the traceback. Use --continue-on-error to keep going anyway.
+===== Github_trivial---o67212.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o67212.json: running
+  still running after 1.00 min
+  still running after 2.00 min
+  still running after 3.00 min
+  still running after 4.00 min
+  still running after 5.00 min
+  exit_-15 after 5.50 min
+Stopping after Github_trivial---o67212.json returned exit_-15. See extension_jsonschemabench/results/per_dataset_runs/xgr/Github_trivial/supervisor.log for the traceback. Use --continue-on-error to keep going anyway.
+===== Github_trivial---o9790.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o9790.json: running
+  still running after 1.00 min
+  still running after 2.00 min
+  still running after 3.00 min
+  still running after 4.00 min
+  still running after 5.00 min
+  still running after 6.00 min
+  still running after 7.00 min
+  still running after 8.00 min
+  still running after 9.00 min
+  timeout after 10.00 min
+Done. Split results are under extension_jsonschemabench/results/per_dataset_runs/xgr
+===== Github_trivial---o9912.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o9912.json: running
+  still running after 1.00 min
+  still running after 2.00 min
+  still running after 3.00 min
+  still running after 4.00 min
+  still running after 5.00 min
+  still running after 6.00 min
+  still running after 7.00 min
+  still running after 8.00 min
+  still running after 9.00 min
+  timeout after 10.00 min
+Done. Split results are under extension_jsonschemabench/results/per_dataset_runs/xgr
+===== Github_trivial---o9933.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o9933.json: running
+  still running after 1.00 min
+  still running after 2.00 min
+  still running after 3.00 min
+  still running after 4.00 min
+  still running after 5.00 min
+  still running after 6.00 min
+  still running after 7.00 min
+  still running after 8.00 min
+  still running after 9.00 min
+  timeout after 10.00 min
+Done. Split results are under extension_jsonschemabench/results/per_dataset_runs/xgr
+finished trivial timeout replay at Fri Jun 26 14:37:32 CEST 2026
+queued retry for interrupted trivial schemas after Easy PID 3114485 at Fri Jun 26 17:07:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:07:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:08:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:09:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:10:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:11:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:12:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:13:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:14:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:15:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:16:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:17:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:18:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:19:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:20:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:21:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:22:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:23:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:24:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:25:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:26:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:27:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:28:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:29:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:30:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:31:56 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:32:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:33:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:34:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:35:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:36:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:37:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:38:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:39:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:40:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:41:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:42:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:43:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:44:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:45:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:46:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:47:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:48:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:49:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:50:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:51:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:52:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:53:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:54:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:55:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:56:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:57:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:58:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 17:59:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:00:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:01:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:02:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:03:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:04:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:05:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:06:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:07:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:08:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:09:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:10:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:11:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:12:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:13:57 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:14:58 CEST 2026
+waiting for Easy PID 3114485 before retrying interrupted trivial schemas at Fri Jun 26 18:15:58 CEST 2026
+starting interrupted trivial retry at Fri Jun 26 18:16:58 CEST 2026
+===== retry Github_trivial---o64546.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o64546.json: running
+  still running after 1.00 min
+  still running after 2.01 min
+  still running after 3.01 min
+  still running after 4.01 min
+  still running after 5.01 min
+  still running after 6.01 min
+  exit_-15 after 6.09 min
+Stopping after Github_trivial---o64546.json returned exit_-15. See extension_jsonschemabench/results/per_dataset_runs/xgr/Github_trivial/supervisor.log for the traceback. Use --continue-on-error to keep going anyway.
+===== retry Github_trivial---o67212.json =====
+Selected schema files: 1
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 17950 completed test ids from 12 existing JSONL file(s).
+[1/1] Github_trivial Github_trivial---o67212.json: running
+  still running after 1.00 min
+  still running after 2.00 min
+  still running after 3.00 min
+  still running after 4.00 min
+  still running after 5.00 min
+  exit_-15 after 5.17 min
+Stopping after Github_trivial---o67212.json returned exit_-15. See extension_jsonschemabench/results/per_dataset_runs/xgr/Github_trivial/supervisor.log for the traceback. Use --continue-on-error to keep going anyway.
+finished interrupted trivial retry at Fri Jun 26 18:28:14 CEST 2026

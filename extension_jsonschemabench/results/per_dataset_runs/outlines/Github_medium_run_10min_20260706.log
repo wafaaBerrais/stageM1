@@ -1,0 +1,369 @@
+Selected schema files: 1976
+Timeout per schema: 10.0 minutes
+Progress interval: 1.0 minutes
+Loaded 9155 completed test ids from 6 existing JSONL file(s).
+[1/1976] Github_medium Github_medium---o1.json: running
+  ok after 0.83 min
+[2/1976] Github_medium Github_medium---o10078.json: running
+  ok after 0.33 min
+[3/1976] Github_medium Github_medium---o10079.json: running
+  ok after 0.33 min
+[4/1976] Github_medium Github_medium---o102.json: running
+  ok after 0.50 min
+[5/1976] Github_medium Github_medium---o10217.json: running
+  ok after 0.33 min
+[6/1976] Github_medium Github_medium---o10297.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.08 min
+[7/1976] Github_medium Github_medium---o10310.json: skipped no tests
+[8/1976] Github_medium Github_medium---o10314.json: running
+  ok after 0.25 min
+[9/1976] Github_medium Github_medium---o1050.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.33 min
+[10/1976] Github_medium Github_medium---o10505.json: running
+  ok after 0.42 min
+[11/1976] Github_medium Github_medium---o10517.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.01 min
+[12/1976] Github_medium Github_medium---o10518.json: already complete
+[13/1976] Github_medium Github_medium---o10527.json: running
+  ok after 0.50 min
+[14/1976] Github_medium Github_medium---o1053.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  ok after 3.92 min
+[15/1976] Github_medium Github_medium---o10530.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[16/1976] Github_medium Github_medium---o10566.json: running
+  ok after 0.42 min
+[17/1976] Github_medium Github_medium---o10617.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.01 min
+[18/1976] Github_medium Github_medium---o10618.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.00 min
+[19/1976] Github_medium Github_medium---o10927.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  ok after 4.42 min
+[20/1976] Github_medium Github_medium---o11481.json: running
+  ok after 0.92 min
+[21/1976] Github_medium Github_medium---o11514.json: running
+  ok after 0.50 min
+[22/1976] Github_medium Github_medium---o11515.json: running
+  ok after 0.58 min
+[23/1976] Github_medium Github_medium---o11666.json: running
+  ok after 0.33 min
+[24/1976] Github_medium Github_medium---o11667.json: running
+  ok after 0.33 min
+[25/1976] Github_medium Github_medium---o11670.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.00 min
+[26/1976] Github_medium Github_medium---o11684.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  ok after 5.17 min
+[27/1976] Github_medium Github_medium---o11689.json: already complete
+[28/1976] Github_medium Github_medium---o11795.json: already complete
+[29/1976] Github_medium Github_medium---o11800.json: already complete
+[30/1976] Github_medium Github_medium---o11803.json: already complete
+[31/1976] Github_medium Github_medium---o1191.json: already complete
+[32/1976] Github_medium Github_medium---o11975.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 2.00 min
+[33/1976] Github_medium Github_medium---o12077.json: skipped no tests
+[34/1976] Github_medium Github_medium---o12092.json: already complete
+[35/1976] Github_medium Github_medium---o12174.json: skipped no tests
+[36/1976] Github_medium Github_medium---o12175.json: already complete
+[37/1976] Github_medium Github_medium---o12178.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.00 min
+[38/1976] Github_medium Github_medium---o1218.json: already complete
+[39/1976] Github_medium Github_medium---o12210.json: already complete
+[40/1976] Github_medium Github_medium---o12241.json: already complete
+[41/1976] Github_medium Github_medium---o12244.json: already complete
+[42/1976] Github_medium Github_medium---o12279.json: running
+  ok after 0.33 min
+[43/1976] Github_medium Github_medium---o12283.json: running
+  ok after 0.33 min
+[44/1976] Github_medium Github_medium---o12286.json: running
+  ok after 0.42 min
+[45/1976] Github_medium Github_medium---o12288.json: running
+  ok after 0.75 min
+[46/1976] Github_medium Github_medium---o12289.json: running
+  ok after 0.83 min
+[47/1976] Github_medium Github_medium---o12296.json: skipped no tests
+[48/1976] Github_medium Github_medium---o12378.json: running
+  ok after 0.33 min
+[49/1976] Github_medium Github_medium---o12455.json: running
+  ok after 1.00 min
+[50/1976] Github_medium Github_medium---o12456.json: running
+  ok after 0.83 min
+[51/1976] Github_medium Github_medium---o12458.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[52/1976] Github_medium Github_medium---o12487.json: running
+  ok after 0.42 min
+[53/1976] Github_medium Github_medium---o12496.json: running
+  ok after 0.42 min
+[54/1976] Github_medium Github_medium---o12505.json: running
+  ok after 0.42 min
+[55/1976] Github_medium Github_medium---o12562.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.00 min
+[56/1976] Github_medium Github_medium---o12603.json: already complete
+[57/1976] Github_medium Github_medium---o12605.json: already complete
+[58/1976] Github_medium Github_medium---o12610.json: already complete
+[59/1976] Github_medium Github_medium---o12618.json: already complete
+[60/1976] Github_medium Github_medium---o1262.json: already complete
+[61/1976] Github_medium Github_medium---o12623.json: already complete
+[62/1976] Github_medium Github_medium---o12625.json: already complete
+[63/1976] Github_medium Github_medium---o12641.json: running
+  ok after 0.25 min
+[64/1976] Github_medium Github_medium---o12971.json: running
+  ok after 0.50 min
+[65/1976] Github_medium Github_medium---o13.json: running
+  ok after 0.67 min
+[66/1976] Github_medium Github_medium---o13093.json: running
+  ok after 0.50 min
+[67/1976] Github_medium Github_medium---o13095.json: running
+  ok after 0.50 min
+[68/1976] Github_medium Github_medium---o13101.json: skipped no tests
+[69/1976] Github_medium Github_medium---o13110.json: running
+  ok after 0.50 min
+[70/1976] Github_medium Github_medium---o13131.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.01 min
+[71/1976] Github_medium Github_medium---o13135.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.03 min
+[72/1976] Github_medium Github_medium---o13136.json: already complete
+[73/1976] Github_medium Github_medium---o13137.json: skipped no tests
+[74/1976] Github_medium Github_medium---o13138.json: running
+  ok after 0.50 min
+[75/1976] Github_medium Github_medium---o13149.json: running
+  ok after 0.42 min
+[76/1976] Github_medium Github_medium---o13150.json: running
+  ok after 0.33 min
+[77/1976] Github_medium Github_medium---o13189.json: skipped no tests
+[78/1976] Github_medium Github_medium---o1329.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 2.00 min
+[79/1976] Github_medium Github_medium---o1332.json: running
+  ok after 0.33 min
+[80/1976] Github_medium Github_medium---o13349.json: running
+  ok after 0.58 min
+[81/1976] Github_medium Github_medium---o13402.json: running
+  ok after 0.50 min
+[82/1976] Github_medium Github_medium---o13404.json: running
+  ok after 0.58 min
+[83/1976] Github_medium Github_medium---o13655.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  ok after 2.42 min
+[84/1976] Github_medium Github_medium---o13672.json: running
+  ok after 0.50 min
+[85/1976] Github_medium Github_medium---o13692.json: running
+  ok after 0.75 min
+[86/1976] Github_medium Github_medium---o13694.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  ok after 4.17 min
+[87/1976] Github_medium Github_medium---o13695.json: running
+  ok after 0.58 min
+[88/1976] Github_medium Github_medium---o13945.json: running
+  ok after 0.50 min
+[89/1976] Github_medium Github_medium---o13952.json: running
+  ok after 0.83 min
+[90/1976] Github_medium Github_medium---o14076.json: running
+  ok after 0.50 min
+[91/1976] Github_medium Github_medium---o14405.json: running
+  ok after 0.33 min
+[92/1976] Github_medium Github_medium---o14412.json: running
+  ok after 0.50 min
+[93/1976] Github_medium Github_medium---o14421.json: running
+  ok after 0.33 min
+[94/1976] Github_medium Github_medium---o14426.json: running
+  ok after 0.50 min
+[95/1976] Github_medium Github_medium---o14457.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[96/1976] Github_medium Github_medium---o14458.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.83 min
+[97/1976] Github_medium Github_medium---o14459.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[98/1976] Github_medium Github_medium---o14466.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.08 min
+[99/1976] Github_medium Github_medium---o14473.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[100/1976] Github_medium Github_medium---o14474.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.67 min
+[101/1976] Github_medium Github_medium---o14475.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[102/1976] Github_medium Github_medium---o14478.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.17 min
+[103/1976] Github_medium Github_medium---o14497.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.25 min
+[104/1976] Github_medium Github_medium---o14512.json: running
+  ok after 1.00 min
+[105/1976] Github_medium Github_medium---o14633.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  ok after 4.83 min
+[106/1976] Github_medium Github_medium---o14742.json: running
+  ok after 0.33 min
+[107/1976] Github_medium Github_medium---o14744.json: running
+  ok after 0.58 min
+[108/1976] Github_medium Github_medium---o1505.json: skipped no tests
+[109/1976] Github_medium Github_medium---o15102.json: running
+  ok after 0.42 min
+[110/1976] Github_medium Github_medium---o15131.json: running
+  ok after 0.42 min
+[111/1976] Github_medium Github_medium---o15172.json: skipped no tests
+[112/1976] Github_medium Github_medium---o15178.json: running
+  ok after 0.67 min
+[113/1976] Github_medium Github_medium---o15201.json: running
+  ok after 0.58 min
+[114/1976] Github_medium Github_medium---o15203.json: running
+  ok after 0.67 min
+[115/1976] Github_medium Github_medium---o15210.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.42 min
+[116/1976] Github_medium Github_medium---o15221.json: running
+  ok after 0.33 min
+[117/1976] Github_medium Github_medium---o1529.json: running
+  ok after 0.42 min
+[118/1976] Github_medium Github_medium---o15292.json: running
+  ok after 0.50 min
+[119/1976] Github_medium Github_medium---o15330.json: running
+  ok after 0.67 min
+[120/1976] Github_medium Github_medium---o15711.json: skipped no tests
+[121/1976] Github_medium Github_medium---o15725.json: running
+  still running after 1.00 min stage=compile_grammar
+  ok after 1.75 min
+[122/1976] Github_medium Github_medium---o15735.json: running
+  ok after 0.50 min
+[123/1976] Github_medium Github_medium---o16047.json: running
+  ok after 0.42 min
+[124/1976] Github_medium Github_medium---o16067.json: running
+  ok after 0.58 min
+[125/1976] Github_medium Github_medium---o16373.json: running
+  ok after 0.33 min
+[126/1976] Github_medium Github_medium---o16736.json: running
+  ok after 0.75 min
+[127/1976] Github_medium Github_medium---o16744.json: skipped no tests
+[128/1976] Github_medium Github_medium---o16791.json: skipped no tests
+[129/1976] Github_medium Github_medium---o1707.json: skipped no tests
+[130/1976] Github_medium Github_medium---o17121.json: running
+  ok after 0.58 min
+[131/1976] Github_medium Github_medium---o17122.json: running
+  ok after 0.50 min
+[132/1976] Github_medium Github_medium---o17127.json: running
+  still running after 1.00 min stage=compile_grammar
+  still running after 2.00 min stage=compile_grammar
+  still running after 3.00 min stage=compile_grammar
+  still running after 4.00 min stage=compile_grammar
+  still running after 5.00 min stage=compile_grammar
+  still running after 6.00 min stage=compile_grammar
+  still running after 7.00 min stage=compile_grammar
+  still running after 8.00 min stage=compile_grammar
+  still running after 9.00 min stage=compile_grammar
+  timeout_compile_grammar after 10.00 min
+Traceback (most recent call last):
+  File "/home/berrais/stage/jsonschemabench/extension_jsonschemabench/scripts/run_dataset_with_timeouts.py", line 701, in <module>
+    main()
+    ~~~~^^
+  File "/home/berrais/stage/jsonschemabench/extension_jsonschemabench/scripts/run_dataset_with_timeouts.py", line 650, in main
+    mark_timeout_profile_rows(out_path.with_name("timing_profile.csv"), schema_path, args.framework, elapsed)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/berrais/stage/jsonschemabench/extension_jsonschemabench/scripts/run_dataset_with_timeouts.py", line 324, in mark_timeout_profile_rows
+    tmp_path.replace(profile_path)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/pathlib/_local.py", line 782, in replace
+    os.replace(self, target)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/berrais/stage/jsonschemabench/extension_jsonschemabench/results/per_dataset_runs/outlines/Github_medium/.timing_profile.csv.timeout.tmp' -> '/home/berrais/stage/jsonschemabench/extension_jsonschemabench/results/per_dataset_runs/outlines/Github_medium/timing_profile.csv'
