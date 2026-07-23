@@ -1,0 +1,1 @@
+target,model_name,split,dataset,schema_id,test_id,test_index,expected_validity,failure_type,true_class,predicted_class,error_type,y_true,y_pred,predicted_probability,threshold,margin_to_threshold,wrong_confidence

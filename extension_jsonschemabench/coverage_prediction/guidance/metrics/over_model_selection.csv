@@ -1,0 +1,16 @@
+model,selection_split,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+logistic_regression_c0.3,validation,validation,all,0.29,1160,732,428,0.680172,0.685891,0.909836,0.782149,0.751945,0.850989,0.59861
+logistic_regression_c1,validation,validation,all,0.29,1160,732,428,0.67931,0.685567,0.90847,0.781434,0.751246,0.850205,0.597927
+logistic_regression_c3,validation,validation,all,0.29,1160,732,428,0.67931,0.685567,0.90847,0.781434,0.751176,0.850098,0.597927
+random_forest_leaf1_sqrt,validation,validation,all,0.3,1160,732,428,0.689655,0.696617,0.900273,0.785459,0.766251,0.857557,0.614856
+random_forest_leaf2_sqrt,validation,validation,all,0.33,1160,732,428,0.687069,0.691192,0.911202,0.786093,0.768093,0.861215,0.60747
+random_forest_leaf5_sqrt,validation,validation,all,0.38,1160,732,428,0.683621,0.687179,0.915301,0.785003,0.760779,0.853891,0.601342
+random_forest_leaf2_0.7,validation,validation,all,0.3,1160,732,428,0.692241,0.698413,0.901639,0.78712,0.769359,0.85905,0.617876
+hist_gradient_boosting_lr0.03_l2_0,validation,validation,all,0.3,1160,732,428,0.686207,0.694093,0.898907,0.783333,0.766433,0.858224,0.610669
+hist_gradient_boosting_lr0.03_l2_0.05,validation,validation,all,0.3,1160,732,428,0.686207,0.691667,0.907104,0.78487,0.768639,0.859393,0.607758
+hist_gradient_boosting_lr0.06_l2_0.01,validation,validation,all,0.3,1160,732,428,0.687069,0.694826,0.898907,0.7838,0.76613,0.858239,0.611837
+hist_gradient_boosting_lr0.08_leaf15,validation,validation,all,0.3,1160,732,428,0.686207,0.690476,0.911202,0.78563,0.768366,0.859609,0.606302
+lightgbm_lr0.03_leaves15,validation,validation,all,0.3,1160,732,428,0.685345,0.690155,0.909836,0.784915,0.766617,0.857434,0.605619
+lightgbm_lr0.03_leaves31,validation,validation,all,0.3,1160,732,428,0.688793,0.695882,0.900273,0.784991,0.766499,0.856532,0.613688
+lightgbm_lr0.05_leaves31,validation,validation,all,0.3,1160,732,428,0.688793,0.695882,0.900273,0.784991,0.76693,0.85697,0.613688
+lightgbm_lr0.05_leaves63,validation,validation,all,0.3,1160,732,428,0.691379,0.698093,0.900273,0.786396,0.764655,0.854502,0.617193

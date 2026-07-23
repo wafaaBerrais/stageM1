@@ -1,0 +1,2044 @@
+
+===== Github_ultra---o12343.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1160586
+engine:init_done us=1013159
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o12343.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o12343.json
+  compile_grammar:start schema=Github_ultra---o12343.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o12343.json compile_grammar_us=5581
+  test:start schema=Github_ultra---o12343.json test_index=0
+    prepared test=0 reset_matcher_us=14 test_json_dumps_us=69 tokenize_us=3236 tokens=1424
+  test:end schema=Github_ultra---o12343.json test_index=0 actual_result=failed validation_loop_us=26409 compute_mask_us=24407 commit_token_us=1049 tokens_checked=420/1424
+  test:start schema=Github_ultra---o12343.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=55 tokenize_us=1370 tokens=925
+  test:end schema=Github_ultra---o12343.json test_index=1 actual_result=failed validation_loop_us=11708 compute_mask_us=10732 commit_token_us=426 tokens_checked=244/925
+  test:start schema=Github_ultra---o12343.json test_index=2
+    prepared test=2 reset_matcher_us=9 test_json_dumps_us=43 tokenize_us=1161 tokens=825
+  test:end schema=Github_ultra---o12343.json test_index=2 actual_result=passed validation_loop_us=10212 compute_mask_us=9420 commit_token_us=373 tokens_checked=216/825
+  test:start schema=Github_ultra---o12343.json test_index=3
+    prepared test=3 reset_matcher_us=8 test_json_dumps_us=49 tokenize_us=1308 tokens=891
+  test:end schema=Github_ultra---o12343.json test_index=3 actual_result=passed validation_loop_us=1613 compute_mask_us=1471 commit_token_us=66 tokens_checked=37/891
+schema:end path=maskbench/data/Github_ultra---o12343.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o12344.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1163102
+engine:init_done us=1012969
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 8 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o12344.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o12344.json
+  compile_grammar:start schema=Github_ultra---o12344.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o12344.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o12344.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o12652.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1150068
+engine:init_done us=1014486
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 20 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o12652.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o12652.json
+  compile_grammar:start schema=Github_ultra---o12652.json selected_tests=3
+  compile_grammar:error schema=Github_ultra---o12652.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o12652.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o13020.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1155110
+engine:init_done us=1022479
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 26 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o13020.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o13020.json
+  compile_grammar:start schema=Github_ultra---o13020.json selected_tests=7
+  compile_grammar:error schema=Github_ultra---o13020.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o13020.json written=7
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o15627.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153138
+engine:init_done us=1008874
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 40 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o15627.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o15627.json
+  compile_grammar:start schema=Github_ultra---o15627.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o15627.json compile_grammar_us=17625
+  test:start schema=Github_ultra---o15627.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=136 tokenize_us=5534 tokens=2989
+  test:end schema=Github_ultra---o15627.json test_index=0 actual_result=failed validation_loop_us=35591 compute_mask_us=32896 commit_token_us=1627 tokens_checked=501/2989
+  test:start schema=Github_ultra---o15627.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=133 tokenize_us=4105 tokens=2890
+  test:end schema=Github_ultra---o15627.json test_index=1 actual_result=failed validation_loop_us=27449 compute_mask_us=25517 commit_token_us=934 tokens_checked=466/2890
+  test:start schema=Github_ultra---o15627.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=145 tokenize_us=4227 tokens=2882
+  test:end schema=Github_ultra---o15627.json test_index=2 actual_result=passed validation_loop_us=29731 compute_mask_us=27594 commit_token_us=1156 tokens_checked=477/2882
+schema:end path=maskbench/data/Github_ultra---o15627.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o16062.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1168236
+engine:init_done us=1018132
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 46 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o16062.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o16062.json
+  compile_grammar:start schema=Github_ultra---o16062.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o16062.json compile_grammar_us=14272
+  test:start schema=Github_ultra---o16062.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=115 tokenize_us=4728 tokens=2345
+  test:end schema=Github_ultra---o16062.json test_index=0 actual_result=failed validation_loop_us=5411 compute_mask_us=4759 commit_token_us=345 tokens_checked=123/2345
+  test:start schema=Github_ultra---o16062.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=115 tokenize_us=3301 tokens=2329
+  test:end schema=Github_ultra---o16062.json test_index=1 actual_result=failed validation_loop_us=3752 compute_mask_us=3206 commit_token_us=276 tokens_checked=123/2329
+  test:start schema=Github_ultra---o16062.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=113 tokenize_us=3260 tokens=2327
+  test:end schema=Github_ultra---o16062.json test_index=2 actual_result=passed validation_loop_us=3738 compute_mask_us=3198 commit_token_us=273 tokens_checked=123/2327
+  test:start schema=Github_ultra---o16062.json test_index=3
+    prepared test=3 reset_matcher_us=10 test_json_dumps_us=114 tokenize_us=3207 tokens=2321
+  test:end schema=Github_ultra---o16062.json test_index=3 actual_result=passed validation_loop_us=1864 compute_mask_us=1566 commit_token_us=167 tokens_checked=68/2321
+schema:end path=maskbench/data/Github_ultra---o16062.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o17072.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1176901
+engine:init_done us=1012322
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 54 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o17072.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o17072.json
+  compile_grammar:start schema=Github_ultra---o17072.json selected_tests=9
+  compile_grammar:error schema=Github_ultra---o17072.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o17072.json written=9
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o17462.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1152900
+engine:init_done us=1017522
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 72 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o17462.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o17462.json
+  compile_grammar:start schema=Github_ultra---o17462.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o17462.json compile_grammar_us=4711
+  test:start schema=Github_ultra---o17462.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=41 tokenize_us=2330 tokens=1161
+  test:end schema=Github_ultra---o17462.json test_index=0 actual_result=failed validation_loop_us=915 compute_mask_us=812 commit_token_us=29 tokens_checked=5/1161
+  test:start schema=Github_ultra---o17462.json test_index=1
+    prepared test=1 reset_matcher_us=10 test_json_dumps_us=45 tokenize_us=1280 tokens=1151
+  test:end schema=Github_ultra---o17462.json test_index=1 actual_result=failed validation_loop_us=250 compute_mask_us=181 commit_token_us=17 tokens_checked=5/1151
+  test:start schema=Github_ultra---o17462.json test_index=2
+    prepared test=2 reset_matcher_us=7 test_json_dumps_us=41 tokenize_us=1206 tokens=1148
+  test:end schema=Github_ultra---o17462.json test_index=2 actual_result=passed validation_loop_us=234 compute_mask_us=172 commit_token_us=17 tokens_checked=5/1148
+  test:start schema=Github_ultra---o17462.json test_index=3
+    prepared test=3 reset_matcher_us=6 test_json_dumps_us=42 tokenize_us=1161 tokens=1151
+  test:end schema=Github_ultra---o17462.json test_index=3 actual_result=passed validation_loop_us=227 compute_mask_us=167 commit_token_us=17 tokens_checked=5/1151
+  test:start schema=Github_ultra---o17462.json test_index=4
+    prepared test=4 reset_matcher_us=6 test_json_dumps_us=40 tokenize_us=1143 tokens=1151
+  test:end schema=Github_ultra---o17462.json test_index=4 actual_result=passed validation_loop_us=234 compute_mask_us=171 commit_token_us=17 tokens_checked=5/1151
+schema:end path=maskbench/data/Github_ultra---o17462.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o18637.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157817
+engine:init_done us=1008173
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 82 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o18637.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o18637.json
+  compile_grammar:start schema=Github_ultra---o18637.json selected_tests=2
+  compile_grammar:error schema=Github_ultra---o18637.json error=ValueError('Unknown format: google-datetime')
+schema:end path=maskbench/data/Github_ultra---o18637.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o19343.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1155535
+engine:init_done us=1003924
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 86 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o19343.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o19343.json
+  compile_grammar:start schema=Github_ultra---o19343.json selected_tests=5
+  compile_grammar:error schema=Github_ultra---o19343.json error=ValueError('Unknown format: color')
+schema:end path=maskbench/data/Github_ultra---o19343.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o21135.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1168424
+engine:init_done us=1001684
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 96 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o21135.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o21135.json
+  compile_grammar:start schema=Github_ultra---o21135.json selected_tests=7
+  compile_grammar:error schema=Github_ultra---o21135.json error=ValueError('lookarounds not supported yet; End in regex "($|(^(?:\\\\S+\\\\s+){0,19}\\\\S+$)).*"')
+schema:end path=maskbench/data/Github_ultra---o21135.json written=7
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o21136.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1156849
+engine:init_done us=1012074
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 110 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o21136.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o21136.json
+  compile_grammar:start schema=Github_ultra---o21136.json selected_tests=7
+  compile_grammar:error schema=Github_ultra---o21136.json error=ValueError('lookarounds not supported yet; End in regex "($|(^(?:\\\\S+\\\\s+){0,19}\\\\S+$)).*"')
+schema:end path=maskbench/data/Github_ultra---o21136.json written=7
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o21137.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159408
+engine:init_done us=1011356
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 124 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o21137.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o21137.json
+  compile_grammar:start schema=Github_ultra---o21137.json selected_tests=5
+  compile_grammar:error schema=Github_ultra---o21137.json error=ValueError('lookarounds not supported yet; End in regex "($|(^(?:\\\\S+\\\\s+){0,19}\\\\S+$)).*"')
+schema:end path=maskbench/data/Github_ultra---o21137.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o21308.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1164464
+engine:init_done us=1020620
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 134 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o21308.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o21308.json
+  compile_grammar:start schema=Github_ultra---o21308.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o21308.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o21308.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o21840.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1172211
+engine:init_done us=998631
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 142 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o21840.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o21840.json
+  compile_grammar:start schema=Github_ultra---o21840.json selected_tests=7
+  compile_grammar:error schema=Github_ultra---o21840.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o21840.json written=7
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o2312.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157333
+engine:init_done us=1011448
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 156 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o2312.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o2312.json
+  compile_grammar:start schema=Github_ultra---o2312.json selected_tests=6
+  compile_grammar:end schema=Github_ultra---o2312.json compile_grammar_us=6564
+  test:start schema=Github_ultra---o2312.json test_index=0
+    prepared test=0 reset_matcher_us=14 test_json_dumps_us=16 tokenize_us=787 tokens=93
+  test:end schema=Github_ultra---o2312.json test_index=0 actual_result=passed validation_loop_us=7537 compute_mask_us=6748 commit_token_us=599 tokens_checked=93/93
+  test:start schema=Github_ultra---o2312.json test_index=1
+    prepared test=1 reset_matcher_us=12 test_json_dumps_us=17 tokenize_us=226 tokens=95
+  test:end schema=Github_ultra---o2312.json test_index=1 actual_result=passed validation_loop_us=2711 compute_mask_us=2341 commit_token_us=281 tokens_checked=48/95
+  test:start schema=Github_ultra---o2312.json test_index=2
+    prepared test=2 reset_matcher_us=8 test_json_dumps_us=13 tokenize_us=193 tokens=93
+  test:end schema=Github_ultra---o2312.json test_index=2 actual_result=passed validation_loop_us=2714 compute_mask_us=2333 commit_token_us=282 tokens_checked=48/93
+  test:start schema=Github_ultra---o2312.json test_index=3
+    prepared test=3 reset_matcher_us=8 test_json_dumps_us=14 tokenize_us=203 tokens=101
+  test:end schema=Github_ultra---o2312.json test_index=3 actual_result=passed validation_loop_us=362 compute_mask_us=319 commit_token_us=24 tokens_checked=8/101
+  test:start schema=Github_ultra---o2312.json test_index=4
+    prepared test=4 reset_matcher_us=7 test_json_dumps_us=13 tokenize_us=183 tokens=89
+  test:end schema=Github_ultra---o2312.json test_index=4 actual_result=passed validation_loop_us=3749 compute_mask_us=3146 commit_token_us=455 tokens_checked=76/89
+  test:start schema=Github_ultra---o2312.json test_index=5
+    prepared test=5 reset_matcher_us=9 test_json_dumps_us=14 tokenize_us=217 tokens=105
+  test:end schema=Github_ultra---o2312.json test_index=5 actual_result=passed validation_loop_us=323 compute_mask_us=281 commit_token_us=24 tokens_checked=8/105
+schema:end path=maskbench/data/Github_ultra---o2312.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o25423.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1178798
+engine:init_done us=1006793
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 168 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o25423.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o25423.json
+  compile_grammar:start schema=Github_ultra---o25423.json selected_tests=9
+  compile_grammar:end schema=Github_ultra---o25423.json compile_grammar_us=6795
+  test:start schema=Github_ultra---o25423.json test_index=0
+    prepared test=0 reset_matcher_us=13 test_json_dumps_us=30 tokenize_us=1244 tokens=376
+  test:end schema=Github_ultra---o25423.json test_index=0 actual_result=failed validation_loop_us=733 compute_mask_us=595 commit_token_us=43 tokens_checked=10/376
+  test:start schema=Github_ultra---o25423.json test_index=1
+    prepared test=1 reset_matcher_us=10 test_json_dumps_us=28 tokenize_us=574 tokens=373
+  test:end schema=Github_ultra---o25423.json test_index=1 actual_result=passed validation_loop_us=369 compute_mask_us=271 commit_token_us=30 tokens_checked=10/373
+  test:start schema=Github_ultra---o25423.json test_index=2
+    prepared test=2 reset_matcher_us=8 test_json_dumps_us=26 tokenize_us=498 tokens=333
+  test:end schema=Github_ultra---o25423.json test_index=2 actual_result=passed validation_loop_us=357 compute_mask_us=264 commit_token_us=32 tokens_checked=10/333
+  test:start schema=Github_ultra---o25423.json test_index=3
+    prepared test=3 reset_matcher_us=8 test_json_dumps_us=26 tokenize_us=523 tokens=369
+  test:end schema=Github_ultra---o25423.json test_index=3 actual_result=passed validation_loop_us=352 compute_mask_us=261 commit_token_us=30 tokens_checked=10/369
+  test:start schema=Github_ultra---o25423.json test_index=4
+    prepared test=4 reset_matcher_us=8 test_json_dumps_us=27 tokenize_us=533 tokens=376
+  test:end schema=Github_ultra---o25423.json test_index=4 actual_result=passed validation_loop_us=348 compute_mask_us=256 commit_token_us=30 tokens_checked=10/376
+  test:start schema=Github_ultra---o25423.json test_index=5
+    prepared test=5 reset_matcher_us=7 test_json_dumps_us=14 tokenize_us=194 tokens=102
+  test:end schema=Github_ultra---o25423.json test_index=5 actual_result=passed validation_loop_us=355 compute_mask_us=264 commit_token_us=30 tokens_checked=10/102
+  test:start schema=Github_ultra---o25423.json test_index=6
+    prepared test=6 reset_matcher_us=7 test_json_dumps_us=14 tokenize_us=201 tokens=113
+  test:end schema=Github_ultra---o25423.json test_index=6 actual_result=passed validation_loop_us=349 compute_mask_us=255 commit_token_us=31 tokens_checked=10/113
+  test:start schema=Github_ultra---o25423.json test_index=7
+    prepared test=7 reset_matcher_us=7 test_json_dumps_us=27 tokenize_us=526 tokens=374
+  test:end schema=Github_ultra---o25423.json test_index=7 actual_result=passed validation_loop_us=350 compute_mask_us=257 commit_token_us=30 tokens_checked=10/374
+  test:start schema=Github_ultra---o25423.json test_index=8
+    prepared test=8 reset_matcher_us=7 test_json_dumps_us=25 tokenize_us=520 tokens=363
+  test:end schema=Github_ultra---o25423.json test_index=8 actual_result=passed validation_loop_us=347 compute_mask_us=254 commit_token_us=29 tokens_checked=10/363
+schema:end path=maskbench/data/Github_ultra---o25423.json written=9
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o26314.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159764
+engine:init_done us=1015056
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 186 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o26314.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o26314.json
+  compile_grammar:start schema=Github_ultra---o26314.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o26314.json compile_grammar_us=1402
+  test:start schema=Github_ultra---o26314.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=56 tokenize_us=2175 tokens=833
+  test:end schema=Github_ultra---o26314.json test_index=0 actual_result=failed validation_loop_us=6023 compute_mask_us=5538 commit_token_us=231 tokens_checked=82/833
+  test:start schema=Github_ultra---o26314.json test_index=1
+    prepared test=1 reset_matcher_us=12 test_json_dumps_us=53 tokenize_us=1286 tokens=850
+  test:end schema=Github_ultra---o26314.json test_index=1 actual_result=failed validation_loop_us=4606 compute_mask_us=4248 commit_token_us=131 tokens_checked=79/850
+schema:end path=maskbench/data/Github_ultra---o26314.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o33032.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1161641
+engine:init_done us=1005863
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 190 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o33032.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o33032.json
+  compile_grammar:start schema=Github_ultra---o33032.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o33032.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o33032.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o34345.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1155288
+engine:init_done us=1029785
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 198 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o34345.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o34345.json
+  compile_grammar:start schema=Github_ultra---o34345.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o34345.json compile_grammar_us=8633
+  test:start schema=Github_ultra---o34345.json test_index=0
+    prepared test=0 reset_matcher_us=14 test_json_dumps_us=73 tokenize_us=2932 tokens=1360
+  test:end schema=Github_ultra---o34345.json test_index=0 actual_result=failed validation_loop_us=9205 compute_mask_us=8188 commit_token_us=541 tokens_checked=223/1360
+  test:start schema=Github_ultra---o34345.json test_index=1
+    prepared test=1 reset_matcher_us=15 test_json_dumps_us=77 tokenize_us=2017 tokens=1359
+  test:end schema=Github_ultra---o34345.json test_index=1 actual_result=failed validation_loop_us=7420 compute_mask_us=6513 commit_token_us=457 tokens_checked=222/1359
+  test:start schema=Github_ultra---o34345.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=73 tokenize_us=1861 tokens=1336
+  test:end schema=Github_ultra---o34345.json test_index=2 actual_result=passed validation_loop_us=7290 compute_mask_us=6411 commit_token_us=426 tokens_checked=222/1336
+  test:start schema=Github_ultra---o34345.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=31 tokenize_us=518 tokens=325
+  test:end schema=Github_ultra---o34345.json test_index=3 actual_result=passed validation_loop_us=1684 compute_mask_us=1427 commit_token_us=139 tokens_checked=64/325
+  test:start schema=Github_ultra---o34345.json test_index=4
+    prepared test=4 reset_matcher_us=9 test_json_dumps_us=57 tokenize_us=1438 tokens=1032
+  test:end schema=Github_ultra---o34345.json test_index=4 actual_result=passed validation_loop_us=1687 compute_mask_us=1429 commit_token_us=139 tokens_checked=64/1032
+schema:end path=maskbench/data/Github_ultra---o34345.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o358.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1154192
+engine:init_done us=1004427
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 208 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o358.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o358.json
+  compile_grammar:start schema=Github_ultra---o358.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o358.json compile_grammar_us=9647
+  test:start schema=Github_ultra---o358.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=15 tokenize_us=833 tokens=86
+  test:end schema=Github_ultra---o358.json test_index=0 actual_result=failed validation_loop_us=13840 compute_mask_us=13599 commit_token_us=99 tokens_checked=20/86
+  test:start schema=Github_ultra---o358.json test_index=1
+    prepared test=1 reset_matcher_us=12 test_json_dumps_us=14 tokenize_us=264 tokens=84
+  test:end schema=Github_ultra---o358.json test_index=1 actual_result=failed validation_loop_us=7873 compute_mask_us=7675 commit_token_us=71 tokens_checked=20/84
+  test:start schema=Github_ultra---o358.json test_index=2
+    prepared test=2 reset_matcher_us=8 test_json_dumps_us=13 tokenize_us=226 tokens=93
+  test:end schema=Github_ultra---o358.json test_index=2 actual_result=passed validation_loop_us=7863 compute_mask_us=7668 commit_token_us=72 tokens_checked=20/93
+  test:start schema=Github_ultra---o358.json test_index=3
+    prepared test=3 reset_matcher_us=8 test_json_dumps_us=13 tokenize_us=208 tokens=92
+  test:end schema=Github_ultra---o358.json test_index=3 actual_result=passed validation_loop_us=7817 compute_mask_us=7629 commit_token_us=66 tokens_checked=20/92
+  test:start schema=Github_ultra---o358.json test_index=4
+    prepared test=4 reset_matcher_us=8 test_json_dumps_us=12 tokenize_us=132 tokens=42
+  test:end schema=Github_ultra---o358.json test_index=4 actual_result=passed validation_loop_us=7806 compute_mask_us=7618 commit_token_us=66 tokens_checked=20/42
+schema:end path=maskbench/data/Github_ultra---o358.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o359.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1177611
+engine:init_done us=1022115
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 218 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o359.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o359.json
+  compile_grammar:start schema=Github_ultra---o359.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o359.json compile_grammar_us=19959
+  test:start schema=Github_ultra---o359.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=32 tokenize_us=1329 tokens=383
+  test:end schema=Github_ultra---o359.json test_index=0 actual_result=failed validation_loop_us=9982 compute_mask_us=9584 commit_token_us=275 tokens_checked=57/383
+  test:start schema=Github_ultra---o359.json test_index=1
+    prepared test=1 reset_matcher_us=12 test_json_dumps_us=32 tokenize_us=614 tokens=320
+  test:end schema=Github_ultra---o359.json test_index=1 actual_result=passed validation_loop_us=5174 compute_mask_us=4925 commit_token_us=141 tokens_checked=57/320
+  test:start schema=Github_ultra---o359.json test_index=2
+    prepared test=2 reset_matcher_us=10 test_json_dumps_us=29 tokenize_us=597 tokens=383
+  test:end schema=Github_ultra---o359.json test_index=2 actual_result=passed validation_loop_us=5012 compute_mask_us=4762 commit_token_us=140 tokens_checked=57/383
+  test:start schema=Github_ultra---o359.json test_index=3
+    prepared test=3 reset_matcher_us=9 test_json_dumps_us=29 tokenize_us=600 tokens=399
+  test:end schema=Github_ultra---o359.json test_index=3 actual_result=passed validation_loop_us=5119 compute_mask_us=4874 commit_token_us=137 tokens_checked=57/399
+  test:start schema=Github_ultra---o359.json test_index=4
+    prepared test=4 reset_matcher_us=9 test_json_dumps_us=19 tokenize_us=334 tokens=195
+  test:end schema=Github_ultra---o359.json test_index=4 actual_result=passed validation_loop_us=8632 compute_mask_us=8211 commit_token_us=228 tokens_checked=98/195
+schema:end path=maskbench/data/Github_ultra---o359.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o360.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1149330
+engine:init_done us=1006483
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 228 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o360.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o360.json
+  compile_grammar:start schema=Github_ultra---o360.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o360.json compile_grammar_us=9218
+  test:start schema=Github_ultra---o360.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=21 tokenize_us=944 tokens=167
+  test:end schema=Github_ultra---o360.json test_index=0 actual_result=passed validation_loop_us=25770 compute_mask_us=24943 commit_token_us=496 tokens_checked=167/167
+  test:start schema=Github_ultra---o360.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=38 tokenize_us=776 tokens=408
+  test:end schema=Github_ultra---o360.json test_index=1 actual_result=failed validation_loop_us=50285 compute_mask_us=49226 commit_token_us=536 tokens_checked=230/408
+  test:start schema=Github_ultra---o360.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=37 tokenize_us=686 tokens=424
+  test:end schema=Github_ultra---o360.json test_index=2 actual_result=passed validation_loop_us=48549 compute_mask_us=47565 commit_token_us=497 tokens_checked=230/424
+  test:start schema=Github_ultra---o360.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=53 tokenize_us=2123 tokens=1599
+  test:end schema=Github_ultra---o360.json test_index=3 actual_result=passed validation_loop_us=106657 compute_mask_us=106310 commit_token_us=194 tokens_checked=60/1599
+  test:start schema=Github_ultra---o360.json test_index=4
+    prepared test=4 reset_matcher_us=12 test_json_dumps_us=34 tokenize_us=775 tokens=412
+  test:end schema=Github_ultra---o360.json test_index=4 actual_result=passed validation_loop_us=9093 compute_mask_us=8693 commit_token_us=222 tokens_checked=90/412
+schema:end path=maskbench/data/Github_ultra---o360.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o38670.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1154309
+engine:init_done us=1000319
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 238 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o38670.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o38670.json
+  compile_grammar:start schema=Github_ultra---o38670.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o38670.json error=ValueError('Unknown format: color')
+schema:end path=maskbench/data/Github_ultra---o38670.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o39230.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1158583
+engine:init_done us=1012151
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 246 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o39230.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o39230.json
+  compile_grammar:start schema=Github_ultra---o39230.json selected_tests=5
+  compile_grammar:error schema=Github_ultra---o39230.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o39230.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o39532.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1162653
+engine:init_done us=1008685
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 256 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o39532.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o39532.json
+  compile_grammar:start schema=Github_ultra---o39532.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o39532.json compile_grammar_us=9056
+  test:start schema=Github_ultra---o39532.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=27 tokenize_us=1081 tokens=270
+  test:end schema=Github_ultra---o39532.json test_index=0 actual_result=passed validation_loop_us=54666 compute_mask_us=51725 commit_token_us=2401 tokens_checked=270/270
+  test:start schema=Github_ultra---o39532.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=37 tokenize_us=738 tokens=350
+  test:end schema=Github_ultra---o39532.json test_index=1 actual_result=failed validation_loop_us=48467 compute_mask_us=45240 commit_token_us=2532 tokens_checked=249/350
+  test:start schema=Github_ultra---o39532.json test_index=2
+    prepared test=2 reset_matcher_us=14 test_json_dumps_us=34 tokenize_us=602 tokens=349
+  test:end schema=Github_ultra---o39532.json test_index=2 actual_result=passed validation_loop_us=45087 compute_mask_us=42253 commit_token_us=2166 tokens_checked=249/349
+  test:start schema=Github_ultra---o39532.json test_index=3
+    prepared test=3 reset_matcher_us=13 test_json_dumps_us=34 tokenize_us=583 tokens=350
+  test:end schema=Github_ultra---o39532.json test_index=3 actual_result=passed validation_loop_us=7171 compute_mask_us=7098 commit_token_us=39 tokens_checked=17/350
+  test:start schema=Github_ultra---o39532.json test_index=4
+    prepared test=4 reset_matcher_us=9 test_json_dumps_us=30 tokenize_us=559 tokens=345
+  test:end schema=Github_ultra---o39532.json test_index=4 actual_result=passed validation_loop_us=7036 compute_mask_us=6959 commit_token_us=42 tokens_checked=17/345
+schema:end path=maskbench/data/Github_ultra---o39532.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o40388.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153841
+engine:init_done us=1010296
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 266 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o40388.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o40388.json
+  compile_grammar:start schema=Github_ultra---o40388.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o40388.json compile_grammar_us=4027
+  test:start schema=Github_ultra---o40388.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=48 tokenize_us=2412 tokens=1097
+  test:end schema=Github_ultra---o40388.json test_index=0 actual_result=failed validation_loop_us=1913 compute_mask_us=1672 commit_token_us=85 tokens_checked=27/1097
+  test:start schema=Github_ultra---o40388.json test_index=1
+    prepared test=1 reset_matcher_us=11 test_json_dumps_us=44 tokenize_us=1400 tokens=1100
+  test:end schema=Github_ultra---o40388.json test_index=1 actual_result=passed validation_loop_us=90 compute_mask_us=75 commit_token_us=8 tokens_checked=2/1100
+schema:end path=maskbench/data/Github_ultra---o40388.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o41081.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1156041
+engine:init_done us=1011483
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 270 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o41081.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o41081.json
+  compile_grammar:start schema=Github_ultra---o41081.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o41081.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o41081.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o41389.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1150970
+engine:init_done us=1006940
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 282 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o41389.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o41389.json
+  compile_grammar:start schema=Github_ultra---o41389.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o41389.json compile_grammar_us=4054
+  test:start schema=Github_ultra---o41389.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=36 tokenize_us=1880 tokens=564
+  test:end schema=Github_ultra---o41389.json test_index=0 actual_result=failed validation_loop_us=4275 compute_mask_us=3715 commit_token_us=312 tokens_checked=97/564
+  test:start schema=Github_ultra---o41389.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=32 tokenize_us=747 tokens=562
+  test:end schema=Github_ultra---o41389.json test_index=1 actual_result=passed validation_loop_us=91 compute_mask_us=76 commit_token_us=7 tokens_checked=2/562
+schema:end path=maskbench/data/Github_ultra---o41389.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o42127.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1193734
+engine:init_done us=1021272
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 286 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o42127.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o42127.json
+  compile_grammar:start schema=Github_ultra---o42127.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o42127.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o42127.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o44225.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1161200
+engine:init_done us=1011693
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 298 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o44225.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o44225.json
+  compile_grammar:start schema=Github_ultra---o44225.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o44225.json compile_grammar_us=12656
+  test:start schema=Github_ultra---o44225.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=42 tokenize_us=1715 tokens=739
+  test:end schema=Github_ultra---o44225.json test_index=0 actual_result=failed validation_loop_us=1148 compute_mask_us=918 commit_token_us=99 tokens_checked=4/739
+  test:start schema=Github_ultra---o44225.json test_index=1
+    prepared test=1 reset_matcher_us=10 test_json_dumps_us=82 tokenize_us=2876 tokens=2048
+  test:end schema=Github_ultra---o44225.json test_index=1 actual_result=failed validation_loop_us=416 compute_mask_us=302 commit_token_us=15 tokens_checked=4/2048
+  test:start schema=Github_ultra---o44225.json test_index=2
+    prepared test=2 reset_matcher_us=9 test_json_dumps_us=75 tokenize_us=2737 tokens=2013
+  test:end schema=Github_ultra---o44225.json test_index=2 actual_result=passed validation_loop_us=409 compute_mask_us=298 commit_token_us=17 tokens_checked=4/2013
+  test:start schema=Github_ultra---o44225.json test_index=3
+    prepared test=3 reset_matcher_us=9 test_json_dumps_us=13 tokenize_us=212 tokens=99
+  test:end schema=Github_ultra---o44225.json test_index=3 actual_result=passed validation_loop_us=377 compute_mask_us=272 commit_token_us=13 tokens_checked=4/99
+  test:start schema=Github_ultra---o44225.json test_index=4
+    prepared test=4 reset_matcher_us=8 test_json_dumps_us=62 tokenize_us=1828 tokens=1299
+  test:end schema=Github_ultra---o44225.json test_index=4 actual_result=passed validation_loop_us=386 compute_mask_us=279 commit_token_us=14 tokens_checked=4/1299
+schema:end path=maskbench/data/Github_ultra---o44225.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o46322.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1162886
+engine:init_done us=1006176
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 308 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o46322.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o46322.json
+  compile_grammar:start schema=Github_ultra---o46322.json selected_tests=6
+  compile_grammar:end schema=Github_ultra---o46322.json compile_grammar_us=9059
+  test:start schema=Github_ultra---o46322.json test_index=0
+    prepared test=0 reset_matcher_us=17 test_json_dumps_us=101 tokenize_us=4726 tokens=2875
+  test:end schema=Github_ultra---o46322.json test_index=0 actual_result=failed validation_loop_us=28503 compute_mask_us=23506 commit_token_us=4740 tokens_checked=95/2875
+  test:start schema=Github_ultra---o46322.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=94 tokenize_us=3390 tokens=2860
+  test:end schema=Github_ultra---o46322.json test_index=1 actual_result=failed validation_loop_us=20267 compute_mask_us=15670 commit_token_us=4369 tokens_checked=93/2860
+  test:start schema=Github_ultra---o46322.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=92 tokenize_us=3285 tokens=2831
+  test:end schema=Github_ultra---o46322.json test_index=2 actual_result=passed validation_loop_us=20200 compute_mask_us=15598 commit_token_us=4375 tokens_checked=93/2831
+  test:start schema=Github_ultra---o46322.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=17 tokenize_us=231 tokens=105
+  test:end schema=Github_ultra---o46322.json test_index=3 actual_result=passed validation_loop_us=2274 compute_mask_us=1914 commit_token_us=334 tokens_checked=11/105
+  test:start schema=Github_ultra---o46322.json test_index=4
+    prepared test=4 reset_matcher_us=9 test_json_dumps_us=41 tokenize_us=1087 tokens=937
+  test:end schema=Github_ultra---o46322.json test_index=4 actual_result=passed validation_loop_us=20170 compute_mask_us=15562 commit_token_us=4386 tokens_checked=93/937
+  test:start schema=Github_ultra---o46322.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=24 tokenize_us=478 tokens=360
+  test:end schema=Github_ultra---o46322.json test_index=5 actual_result=passed validation_loop_us=20120 compute_mask_us=15518 commit_token_us=4396 tokens_checked=93/360
+schema:end path=maskbench/data/Github_ultra---o46322.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o46393.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1152046
+engine:init_done us=1021897
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 320 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o46393.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o46393.json
+  compile_grammar:start schema=Github_ultra---o46393.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o46393.json compile_grammar_us=30719
+  test:start schema=Github_ultra---o46393.json test_index=0
+    prepared test=0 reset_matcher_us=17 test_json_dumps_us=85 tokenize_us=3002 tokens=1579
+  test:end schema=Github_ultra---o46393.json test_index=0 actual_result=failed validation_loop_us=1836 compute_mask_us=1568 commit_token_us=131 tokens_checked=12/1579
+  test:start schema=Github_ultra---o46393.json test_index=1
+    prepared test=1 reset_matcher_us=12 test_json_dumps_us=83 tokenize_us=1981 tokens=1579
+  test:end schema=Github_ultra---o46393.json test_index=1 actual_result=failed validation_loop_us=766 compute_mask_us=618 commit_token_us=43 tokens_checked=12/1579
+  test:start schema=Github_ultra---o46393.json test_index=2
+    prepared test=2 reset_matcher_us=9 test_json_dumps_us=79 tokenize_us=1929 tokens=1578
+  test:end schema=Github_ultra---o46393.json test_index=2 actual_result=passed validation_loop_us=767 compute_mask_us=624 commit_token_us=43 tokens_checked=12/1578
+  test:start schema=Github_ultra---o46393.json test_index=3
+    prepared test=3 reset_matcher_us=9 test_json_dumps_us=81 tokenize_us=1911 tokens=1579
+  test:end schema=Github_ultra---o46393.json test_index=3 actual_result=passed validation_loop_us=753 compute_mask_us=610 commit_token_us=43 tokens_checked=12/1579
+  test:start schema=Github_ultra---o46393.json test_index=4
+    prepared test=4 reset_matcher_us=9 test_json_dumps_us=93 tokenize_us=2174 tokens=1775
+  test:end schema=Github_ultra---o46393.json test_index=4 actual_result=passed validation_loop_us=759 compute_mask_us=615 commit_token_us=43 tokens_checked=12/1775
+schema:end path=maskbench/data/Github_ultra---o46393.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o4826.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1165060
+engine:init_done us=1014220
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 330 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o4826.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o4826.json
+  compile_grammar:start schema=Github_ultra---o4826.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o4826.json compile_grammar_us=11356
+  test:start schema=Github_ultra---o4826.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=63 tokenize_us=2467 tokens=1193
+  test:end schema=Github_ultra---o4826.json test_index=0 actual_result=failed validation_loop_us=27833 compute_mask_us=25499 commit_token_us=1476 tokens_checked=377/1193
+  test:start schema=Github_ultra---o4826.json test_index=1
+    prepared test=1 reset_matcher_us=29 test_json_dumps_us=73 tokenize_us=1797 tokens=1191
+  test:end schema=Github_ultra---o4826.json test_index=1 actual_result=passed validation_loop_us=17721 compute_mask_us=16062 commit_token_us=847 tokens_checked=377/1191
+  test:start schema=Github_ultra---o4826.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=78 tokenize_us=1895 tokens=1331
+  test:end schema=Github_ultra---o4826.json test_index=2 actual_result=passed validation_loop_us=1722 compute_mask_us=1604 commit_token_us=88 tokens_checked=12/1331
+  test:start schema=Github_ultra---o4826.json test_index=3
+    prepared test=3 reset_matcher_us=10 test_json_dumps_us=62 tokenize_us=1715 tokens=1202
+  test:end schema=Github_ultra---o4826.json test_index=3 actual_result=passed validation_loop_us=884 compute_mask_us=817 commit_token_us=42 tokens_checked=12/1202
+schema:end path=maskbench/data/Github_ultra---o4826.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o48403.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153231
+engine:init_done us=1018857
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 338 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o48403.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o48403.json
+  compile_grammar:start schema=Github_ultra---o48403.json selected_tests=3
+  compile_grammar:error schema=Github_ultra---o48403.json error=ValueError('Unknown format: color')
+schema:end path=maskbench/data/Github_ultra---o48403.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o48781.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1161204
+engine:init_done us=1019298
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 344 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o48781.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o48781.json
+  compile_grammar:start schema=Github_ultra---o48781.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o48781.json error=ValueError('Unknown format: color')
+schema:end path=maskbench/data/Github_ultra---o48781.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o53885.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1171393
+engine:init_done us=1028872
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 352 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o53885.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o53885.json
+  compile_grammar:start schema=Github_ultra---o53885.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o53885.json compile_grammar_us=8980
+  test:start schema=Github_ultra---o53885.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=82 tokenize_us=3377 tokens=1601
+  test:end schema=Github_ultra---o53885.json test_index=0 actual_result=failed validation_loop_us=2216 compute_mask_us=1923 commit_token_us=144 tokens_checked=50/1601
+  test:start schema=Github_ultra---o53885.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=85 tokenize_us=2218 tokens=1601
+  test:end schema=Github_ultra---o53885.json test_index=1 actual_result=failed validation_loop_us=1443 compute_mask_us=1195 commit_token_us=114 tokens_checked=50/1601
+  test:start schema=Github_ultra---o53885.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=82 tokenize_us=2157 tokens=1578
+  test:end schema=Github_ultra---o53885.json test_index=2 actual_result=passed validation_loop_us=1445 compute_mask_us=1201 commit_token_us=119 tokens_checked=50/1578
+  test:start schema=Github_ultra---o53885.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=81 tokenize_us=2135 tokens=1562
+  test:end schema=Github_ultra---o53885.json test_index=3 actual_result=passed validation_loop_us=1424 compute_mask_us=1185 commit_token_us=107 tokens_checked=50/1562
+  test:start schema=Github_ultra---o53885.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=82 tokenize_us=2182 tokens=1597
+  test:end schema=Github_ultra---o53885.json test_index=4 actual_result=passed validation_loop_us=1462 compute_mask_us=1212 commit_token_us=117 tokens_checked=50/1597
+schema:end path=maskbench/data/Github_ultra---o53885.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o56134.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1174289
+engine:init_done us=1013898
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 362 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o56134.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o56134.json
+  compile_grammar:start schema=Github_ultra---o56134.json selected_tests=3
+  compile_grammar:error schema=Github_ultra---o56134.json error=ValueError('Unknown format: url')
+schema:end path=maskbench/data/Github_ultra---o56134.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o57878.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1173335
+engine:init_done us=1018975
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 368 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o57878.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o57878.json
+  compile_grammar:start schema=Github_ultra---o57878.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o57878.json compile_grammar_us=7133
+  test:start schema=Github_ultra---o57878.json test_index=0
+    prepared test=0 reset_matcher_us=15 test_json_dumps_us=64 tokenize_us=2843 tokens=1476
+  test:end schema=Github_ultra---o57878.json test_index=0 actual_result=failed validation_loop_us=33152 compute_mask_us=29829 commit_token_us=2724 tokens_checked=254/1476
+  test:start schema=Github_ultra---o57878.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=68 tokenize_us=2093 tokens=1396
+  test:end schema=Github_ultra---o57878.json test_index=1 actual_result=passed validation_loop_us=24651 compute_mask_us=22621 commit_token_us=1472 tokens_checked=254/1396
+  test:start schema=Github_ultra---o57878.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=56 tokenize_us=1730 tokens=1139
+  test:end schema=Github_ultra---o57878.json test_index=2 actual_result=passed validation_loop_us=24579 compute_mask_us=22569 commit_token_us=1471 tokens_checked=254/1139
+schema:end path=maskbench/data/Github_ultra---o57878.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o58767.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157270
+engine:init_done us=1019750
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 374 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o58767.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o58767.json
+  compile_grammar:start schema=Github_ultra---o58767.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o58767.json compile_grammar_us=8941
+  test:start schema=Github_ultra---o58767.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=85 tokenize_us=3402 tokens=1632
+  test:end schema=Github_ultra---o58767.json test_index=0 actual_result=failed validation_loop_us=2226 compute_mask_us=1927 commit_token_us=149 tokens_checked=50/1632
+  test:start schema=Github_ultra---o58767.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=86 tokenize_us=2314 tokens=1620
+  test:end schema=Github_ultra---o58767.json test_index=1 actual_result=failed validation_loop_us=1446 compute_mask_us=1189 commit_token_us=115 tokens_checked=50/1620
+  test:start schema=Github_ultra---o58767.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=82 tokenize_us=2233 tokens=1597
+  test:end schema=Github_ultra---o58767.json test_index=2 actual_result=passed validation_loop_us=1444 compute_mask_us=1194 commit_token_us=115 tokens_checked=50/1597
+  test:start schema=Github_ultra---o58767.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=89 tokenize_us=2234 tokens=1615
+  test:end schema=Github_ultra---o58767.json test_index=3 actual_result=passed validation_loop_us=1407 compute_mask_us=1166 commit_token_us=113 tokens_checked=50/1615
+  test:start schema=Github_ultra---o58767.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=78 tokenize_us=2097 tokens=1504
+  test:end schema=Github_ultra---o58767.json test_index=4 actual_result=passed validation_loop_us=1422 compute_mask_us=1176 commit_token_us=113 tokens_checked=50/1504
+schema:end path=maskbench/data/Github_ultra---o58767.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o58926.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1150790
+engine:init_done us=1008381
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 384 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o58926.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o58926.json
+  compile_grammar:start schema=Github_ultra---o58926.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o58926.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o58926.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o60252.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1161984
+engine:init_done us=1014362
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 392 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o60252.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o60252.json
+  compile_grammar:start schema=Github_ultra---o60252.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o60252.json compile_grammar_us=2919
+  test:start schema=Github_ultra---o60252.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=20 tokenize_us=925 tokens=156
+  test:end schema=Github_ultra---o60252.json test_index=0 actual_result=failed validation_loop_us=11439 compute_mask_us=9670 commit_token_us=615 tokens_checked=133/156
+  test:start schema=Github_ultra---o60252.json test_index=1
+    prepared test=1 reset_matcher_us=22 test_json_dumps_us=18 tokenize_us=324 tokens=152
+  test:end schema=Github_ultra---o60252.json test_index=1 actual_result=passed validation_loop_us=435 compute_mask_us=389 commit_token_us=26 tokens_checked=8/152
+schema:end path=maskbench/data/Github_ultra---o60252.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o60790.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1152683
+engine:init_done us=1010359
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 396 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o60790.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o60790.json
+  compile_grammar:start schema=Github_ultra---o60790.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o60790.json compile_grammar_us=6622
+  test:start schema=Github_ultra---o60790.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=63 tokenize_us=2624 tokens=1291
+  test:end schema=Github_ultra---o60790.json test_index=0 actual_result=failed validation_loop_us=5028 compute_mask_us=4509 commit_token_us=267 tokens_checked=103/1291
+  test:start schema=Github_ultra---o60790.json test_index=1
+    prepared test=1 reset_matcher_us=15 test_json_dumps_us=64 tokenize_us=1832 tokens=1288
+  test:end schema=Github_ultra---o60790.json test_index=1 actual_result=failed validation_loop_us=4042 compute_mask_us=3603 commit_token_us=205 tokens_checked=102/1288
+  test:start schema=Github_ultra---o60790.json test_index=2
+    prepared test=2 reset_matcher_us=13 test_json_dumps_us=32 tokenize_us=560 tokens=379
+  test:end schema=Github_ultra---o60790.json test_index=2 actual_result=passed validation_loop_us=986 compute_mask_us=867 commit_token_us=66 tokens_checked=26/379
+  test:start schema=Github_ultra---o60790.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=63 tokenize_us=1763 tokens=1285
+  test:end schema=Github_ultra---o60790.json test_index=3 actual_result=passed validation_loop_us=3874 compute_mask_us=3447 commit_token_us=206 tokens_checked=99/1285
+schema:end path=maskbench/data/Github_ultra---o60790.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o61647.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1160862
+engine:init_done us=1009634
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 404 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o61647.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o61647.json
+  compile_grammar:start schema=Github_ultra---o61647.json selected_tests=8
+  compile_grammar:end schema=Github_ultra---o61647.json compile_grammar_us=6535
+  test:start schema=Github_ultra---o61647.json test_index=0
+    prepared test=0 reset_matcher_us=16 test_json_dumps_us=40 tokenize_us=1775 tokens=757
+  test:end schema=Github_ultra---o61647.json test_index=0 actual_result=failed validation_loop_us=11263 compute_mask_us=10309 commit_token_us=558 tokens_checked=175/757
+  test:start schema=Github_ultra---o61647.json test_index=1
+    prepared test=1 reset_matcher_us=16 test_json_dumps_us=46 tokenize_us=1031 tokens=759
+  test:end schema=Github_ultra---o61647.json test_index=1 actual_result=passed validation_loop_us=11909 compute_mask_us=10259 commit_token_us=1242 tokens_checked=155/759
+  test:start schema=Github_ultra---o61647.json test_index=2
+    prepared test=2 reset_matcher_us=13 test_json_dumps_us=45 tokenize_us=1021 tokens=759
+  test:end schema=Github_ultra---o61647.json test_index=2 actual_result=passed validation_loop_us=9030 compute_mask_us=8291 commit_token_us=370 tokens_checked=155/759
+  test:start schema=Github_ultra---o61647.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=43 tokenize_us=978 tokens=767
+  test:end schema=Github_ultra---o61647.json test_index=3 actual_result=passed validation_loop_us=9009 compute_mask_us=8303 commit_token_us=340 tokens_checked=155/767
+  test:start schema=Github_ultra---o61647.json test_index=4
+    prepared test=4 reset_matcher_us=13 test_json_dumps_us=43 tokenize_us=945 tokens=744
+  test:end schema=Github_ultra---o61647.json test_index=4 actual_result=passed validation_loop_us=9039 compute_mask_us=8309 commit_token_us=359 tokens_checked=155/744
+  test:start schema=Github_ultra---o61647.json test_index=5
+    prepared test=5 reset_matcher_us=13 test_json_dumps_us=44 tokenize_us=956 tokens=760
+  test:end schema=Github_ultra---o61647.json test_index=5 actual_result=failed validation_loop_us=9018 compute_mask_us=8290 commit_token_us=352 tokens_checked=155/760
+  test:start schema=Github_ultra---o61647.json test_index=6
+    prepared test=6 reset_matcher_us=13 test_json_dumps_us=41 tokenize_us=935 tokens=739
+  test:end schema=Github_ultra---o61647.json test_index=6 actual_result=passed validation_loop_us=9035 compute_mask_us=8291 commit_token_us=368 tokens_checked=155/739
+  test:start schema=Github_ultra---o61647.json test_index=7
+    prepared test=7 reset_matcher_us=13 test_json_dumps_us=42 tokenize_us=970 tokens=768
+  test:end schema=Github_ultra---o61647.json test_index=7 actual_result=passed validation_loop_us=9010 compute_mask_us=8293 commit_token_us=353 tokens_checked=155/768
+schema:end path=maskbench/data/Github_ultra---o61647.json written=8
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o62058.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1158841
+engine:init_done us=1021958
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 420 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o62058.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o62058.json
+  compile_grammar:start schema=Github_ultra---o62058.json selected_tests=6
+  compile_grammar:end schema=Github_ultra---o62058.json compile_grammar_us=10916
+  test:start schema=Github_ultra---o62058.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=89 tokenize_us=3497 tokens=1640
+  test:end schema=Github_ultra---o62058.json test_index=0 actual_result=failed validation_loop_us=2406 compute_mask_us=2063 commit_token_us=163 tokens_checked=36/1640
+  test:start schema=Github_ultra---o62058.json test_index=1
+    prepared test=1 reset_matcher_us=15 test_json_dumps_us=88 tokenize_us=2411 tokens=1644
+  test:end schema=Github_ultra---o62058.json test_index=1 actual_result=failed validation_loop_us=1298 compute_mask_us=1080 commit_token_us=91 tokens_checked=36/1644
+  test:start schema=Github_ultra---o62058.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=86 tokenize_us=2445 tokens=1715
+  test:end schema=Github_ultra---o62058.json test_index=2 actual_result=passed validation_loop_us=1286 compute_mask_us=1071 commit_token_us=94 tokens_checked=36/1715
+  test:start schema=Github_ultra---o62058.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=83 tokenize_us=2289 tokens=1651
+  test:end schema=Github_ultra---o62058.json test_index=3 actual_result=passed validation_loop_us=114 compute_mask_us=99 commit_token_us=9 tokens_checked=2/1651
+  test:start schema=Github_ultra---o62058.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=95 tokenize_us=3049 tokens=2051
+  test:end schema=Github_ultra---o62058.json test_index=4 actual_result=passed validation_loop_us=126 compute_mask_us=110 commit_token_us=9 tokens_checked=2/2051
+  test:start schema=Github_ultra---o62058.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=82 tokenize_us=2364 tokens=1685
+  test:end schema=Github_ultra---o62058.json test_index=5 actual_result=passed validation_loop_us=119 compute_mask_us=105 commit_token_us=8 tokens_checked=2/1685
+schema:end path=maskbench/data/Github_ultra---o62058.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o62059.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157573
+engine:init_done us=1014736
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 432 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o62059.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o62059.json
+  compile_grammar:start schema=Github_ultra---o62059.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o62059.json compile_grammar_us=10605
+  test:start schema=Github_ultra---o62059.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=89 tokenize_us=3676 tokens=1738
+  test:end schema=Github_ultra---o62059.json test_index=0 actual_result=failed validation_loop_us=2850 compute_mask_us=2473 commit_token_us=183 tokens_checked=43/1738
+  test:start schema=Github_ultra---o62059.json test_index=1
+    prepared test=1 reset_matcher_us=15 test_json_dumps_us=92 tokenize_us=2667 tokens=1792
+  test:end schema=Github_ultra---o62059.json test_index=1 actual_result=passed validation_loop_us=1552 compute_mask_us=1306 commit_token_us=108 tokens_checked=43/1792
+  test:start schema=Github_ultra---o62059.json test_index=2
+    prepared test=2 reset_matcher_us=13 test_json_dumps_us=90 tokenize_us=2555 tokens=1734
+  test:end schema=Github_ultra---o62059.json test_index=2 actual_result=passed validation_loop_us=1536 compute_mask_us=1288 commit_token_us=110 tokens_checked=43/1734
+  test:start schema=Github_ultra---o62059.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=78 tokenize_us=2101 tokens=1524
+  test:end schema=Github_ultra---o62059.json test_index=3 actual_result=passed validation_loop_us=1507 compute_mask_us=1267 commit_token_us=105 tokens_checked=43/1524
+  test:start schema=Github_ultra---o62059.json test_index=4
+    prepared test=4 reset_matcher_us=12 test_json_dumps_us=98 tokenize_us=3015 tokens=2061
+  test:end schema=Github_ultra---o62059.json test_index=4 actual_result=passed validation_loop_us=1527 compute_mask_us=1282 commit_token_us=108 tokens_checked=43/2061
+schema:end path=maskbench/data/Github_ultra---o62059.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6343.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1155284
+engine:init_done us=1005859
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 442 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6343.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6343.json
+  compile_grammar:start schema=Github_ultra---o6343.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6343.json compile_grammar_us=14554
+  test:start schema=Github_ultra---o6343.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=21 tokenize_us=876 tokens=130
+  test:end schema=Github_ultra---o6343.json test_index=0 actual_result=failed validation_loop_us=742 compute_mask_us=526 commit_token_us=27 tokens_checked=5/130
+  test:start schema=Github_ultra---o6343.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=30 tokenize_us=568 tokens=291
+  test:end schema=Github_ultra---o6343.json test_index=1 actual_result=failed validation_loop_us=286 compute_mask_us=170 commit_token_us=17 tokens_checked=5/291
+  test:start schema=Github_ultra---o6343.json test_index=2
+    prepared test=2 reset_matcher_us=10 test_json_dumps_us=29 tokenize_us=461 tokens=303
+  test:end schema=Github_ultra---o6343.json test_index=2 actual_result=passed validation_loop_us=266 compute_mask_us=162 commit_token_us=17 tokens_checked=5/303
+  test:start schema=Github_ultra---o6343.json test_index=3
+    prepared test=3 reset_matcher_us=10 test_json_dumps_us=27 tokenize_us=479 tokens=322
+  test:end schema=Github_ultra---o6343.json test_index=3 actual_result=passed validation_loop_us=268 compute_mask_us=163 commit_token_us=17 tokens_checked=5/322
+  test:start schema=Github_ultra---o6343.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=27 tokenize_us=431 tokens=278
+  test:end schema=Github_ultra---o6343.json test_index=4 actual_result=passed validation_loop_us=281 compute_mask_us=175 commit_token_us=18 tokens_checked=5/278
+schema:end path=maskbench/data/Github_ultra---o6343.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6350.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1167403
+engine:init_done us=1014190
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 452 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6350.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6350.json
+  compile_grammar:start schema=Github_ultra---o6350.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6350.json compile_grammar_us=12613
+  test:start schema=Github_ultra---o6350.json test_index=0
+    prepared test=0 reset_matcher_us=17 test_json_dumps_us=33 tokenize_us=1090 tokens=268
+  test:end schema=Github_ultra---o6350.json test_index=0 actual_result=failed validation_loop_us=736 compute_mask_us=484 commit_token_us=27 tokens_checked=5/268
+  test:start schema=Github_ultra---o6350.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=23 tokenize_us=375 tokens=212
+  test:end schema=Github_ultra---o6350.json test_index=1 actual_result=failed validation_loop_us=277 compute_mask_us=162 commit_token_us=17 tokens_checked=5/212
+  test:start schema=Github_ultra---o6350.json test_index=2
+    prepared test=2 reset_matcher_us=10 test_json_dumps_us=14 tokenize_us=168 tokens=77
+  test:end schema=Github_ultra---o6350.json test_index=2 actual_result=passed validation_loop_us=260 compute_mask_us=155 commit_token_us=17 tokens_checked=5/77
+  test:start schema=Github_ultra---o6350.json test_index=3
+    prepared test=3 reset_matcher_us=10 test_json_dumps_us=23 tokenize_us=343 tokens=219
+  test:end schema=Github_ultra---o6350.json test_index=3 actual_result=passed validation_loop_us=260 compute_mask_us=156 commit_token_us=17 tokens_checked=5/219
+  test:start schema=Github_ultra---o6350.json test_index=4
+    prepared test=4 reset_matcher_us=19 test_json_dumps_us=22 tokenize_us=317 tokens=201
+  test:end schema=Github_ultra---o6350.json test_index=4 actual_result=passed validation_loop_us=262 compute_mask_us=158 commit_token_us=18 tokens_checked=5/201
+schema:end path=maskbench/data/Github_ultra---o6350.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6351.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1156215
+engine:init_done us=1018248
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 462 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6351.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6351.json
+  compile_grammar:start schema=Github_ultra---o6351.json selected_tests=9
+  compile_grammar:end schema=Github_ultra---o6351.json compile_grammar_us=12372
+  test:start schema=Github_ultra---o6351.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=18 tokenize_us=788 tokens=90
+  test:end schema=Github_ultra---o6351.json test_index=0 actual_result=failed validation_loop_us=753 compute_mask_us=479 commit_token_us=28 tokens_checked=5/90
+  test:start schema=Github_ultra---o6351.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=16 tokenize_us=231 tokens=98
+  test:end schema=Github_ultra---o6351.json test_index=1 actual_result=passed validation_loop_us=273 compute_mask_us=157 commit_token_us=18 tokens_checked=5/98
+  test:start schema=Github_ultra---o6351.json test_index=2
+    prepared test=2 reset_matcher_us=10 test_json_dumps_us=15 tokenize_us=207 tokens=100
+  test:end schema=Github_ultra---o6351.json test_index=2 actual_result=passed validation_loop_us=261 compute_mask_us=155 commit_token_us=17 tokens_checked=5/100
+  test:start schema=Github_ultra---o6351.json test_index=3
+    prepared test=3 reset_matcher_us=10 test_json_dumps_us=28 tokenize_us=518 tokens=284
+  test:end schema=Github_ultra---o6351.json test_index=3 actual_result=passed validation_loop_us=285 compute_mask_us=164 commit_token_us=16 tokens_checked=5/284
+  test:start schema=Github_ultra---o6351.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=15 tokenize_us=187 tokens=96
+  test:end schema=Github_ultra---o6351.json test_index=4 actual_result=passed validation_loop_us=264 compute_mask_us=159 commit_token_us=17 tokens_checked=5/96
+  test:start schema=Github_ultra---o6351.json test_index=5
+    prepared test=5 reset_matcher_us=10 test_json_dumps_us=23 tokenize_us=368 tokens=227
+  test:end schema=Github_ultra---o6351.json test_index=5 actual_result=failed validation_loop_us=262 compute_mask_us=158 commit_token_us=16 tokens_checked=5/227
+  test:start schema=Github_ultra---o6351.json test_index=6
+    prepared test=6 reset_matcher_us=10 test_json_dumps_us=26 tokenize_us=427 tokens=280
+  test:end schema=Github_ultra---o6351.json test_index=6 actual_result=passed validation_loop_us=260 compute_mask_us=156 commit_token_us=17 tokens_checked=5/280
+  test:start schema=Github_ultra---o6351.json test_index=7
+    prepared test=7 reset_matcher_us=11 test_json_dumps_us=26 tokenize_us=431 tokens=291
+  test:end schema=Github_ultra---o6351.json test_index=7 actual_result=passed validation_loop_us=264 compute_mask_us=158 commit_token_us=16 tokens_checked=5/291
+  test:start schema=Github_ultra---o6351.json test_index=8
+    prepared test=8 reset_matcher_us=10 test_json_dumps_us=23 tokenize_us=341 tokens=217
+  test:end schema=Github_ultra---o6351.json test_index=8 actual_result=passed validation_loop_us=260 compute_mask_us=157 commit_token_us=17 tokens_checked=5/217
+schema:end path=maskbench/data/Github_ultra---o6351.json written=9
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6352.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1174161
+engine:init_done us=1015729
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 480 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6352.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6352.json
+  compile_grammar:start schema=Github_ultra---o6352.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6352.json compile_grammar_us=13250
+  test:start schema=Github_ultra---o6352.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=19 tokenize_us=791 tokens=96
+  test:end schema=Github_ultra---o6352.json test_index=0 actual_result=failed validation_loop_us=743 compute_mask_us=480 commit_token_us=28 tokens_checked=5/96
+  test:start schema=Github_ultra---o6352.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=34 tokenize_us=647 tokens=351
+  test:end schema=Github_ultra---o6352.json test_index=1 actual_result=failed validation_loop_us=288 compute_mask_us=171 commit_token_us=17 tokens_checked=5/351
+  test:start schema=Github_ultra---o6352.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=32 tokenize_us=581 tokens=374
+  test:end schema=Github_ultra---o6352.json test_index=2 actual_result=passed validation_loop_us=274 compute_mask_us=168 commit_token_us=18 tokens_checked=5/374
+  test:start schema=Github_ultra---o6352.json test_index=3
+    prepared test=3 reset_matcher_us=10 test_json_dumps_us=32 tokenize_us=556 tokens=364
+  test:end schema=Github_ultra---o6352.json test_index=3 actual_result=passed validation_loop_us=275 compute_mask_us=168 commit_token_us=18 tokens_checked=5/364
+  test:start schema=Github_ultra---o6352.json test_index=4
+    prepared test=4 reset_matcher_us=10 test_json_dumps_us=28 tokenize_us=497 tokens=307
+  test:end schema=Github_ultra---o6352.json test_index=4 actual_result=passed validation_loop_us=275 compute_mask_us=167 commit_token_us=17 tokens_checked=5/307
+schema:end path=maskbench/data/Github_ultra---o6352.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6353.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157991
+engine:init_done us=999869
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 490 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6353.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6353.json
+  compile_grammar:start schema=Github_ultra---o6353.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o6353.json compile_grammar_us=13342
+  test:start schema=Github_ultra---o6353.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=18 tokenize_us=878 tokens=78
+  test:end schema=Github_ultra---o6353.json test_index=0 actual_result=failed validation_loop_us=741 compute_mask_us=514 commit_token_us=27 tokens_checked=5/78
+  test:start schema=Github_ultra---o6353.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=17 tokenize_us=267 tokens=117
+  test:end schema=Github_ultra---o6353.json test_index=1 actual_result=passed validation_loop_us=279 compute_mask_us=164 commit_token_us=17 tokens_checked=5/117
+  test:start schema=Github_ultra---o6353.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=14 tokenize_us=188 tokens=86
+  test:end schema=Github_ultra---o6353.json test_index=2 actual_result=passed validation_loop_us=262 compute_mask_us=158 commit_token_us=17 tokens_checked=5/86
+  test:start schema=Github_ultra---o6353.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=14 tokenize_us=164 tokens=78
+  test:end schema=Github_ultra---o6353.json test_index=3 actual_result=passed validation_loop_us=265 compute_mask_us=162 commit_token_us=17 tokens_checked=5/78
+schema:end path=maskbench/data/Github_ultra---o6353.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6354.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159637
+engine:init_done us=1005267
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 498 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6354.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6354.json
+  compile_grammar:start schema=Github_ultra---o6354.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6354.json compile_grammar_us=13386
+  test:start schema=Github_ultra---o6354.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=20 tokenize_us=795 tokens=98
+  test:end schema=Github_ultra---o6354.json test_index=0 actual_result=failed validation_loop_us=757 compute_mask_us=534 commit_token_us=27 tokens_checked=5/98
+  test:start schema=Github_ultra---o6354.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=37 tokenize_us=703 tokens=390
+  test:end schema=Github_ultra---o6354.json test_index=1 actual_result=failed validation_loop_us=285 compute_mask_us=169 commit_token_us=17 tokens_checked=5/390
+  test:start schema=Github_ultra---o6354.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=28 tokenize_us=477 tokens=297
+  test:end schema=Github_ultra---o6354.json test_index=2 actual_result=passed validation_loop_us=265 compute_mask_us=160 commit_token_us=16 tokens_checked=5/297
+  test:start schema=Github_ultra---o6354.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=34 tokenize_us=607 tokens=404
+  test:end schema=Github_ultra---o6354.json test_index=3 actual_result=passed validation_loop_us=268 compute_mask_us=162 commit_token_us=16 tokens_checked=5/404
+  test:start schema=Github_ultra---o6354.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=40 tokenize_us=752 tokens=523
+  test:end schema=Github_ultra---o6354.json test_index=4 actual_result=passed validation_loop_us=273 compute_mask_us=166 commit_token_us=17 tokens_checked=5/523
+schema:end path=maskbench/data/Github_ultra---o6354.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6356.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159022
+engine:init_done us=1005995
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 508 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6356.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6356.json
+  compile_grammar:start schema=Github_ultra---o6356.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o6356.json compile_grammar_us=14194
+  test:start schema=Github_ultra---o6356.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=18 tokenize_us=822 tokens=98
+  test:end schema=Github_ultra---o6356.json test_index=0 actual_result=failed validation_loop_us=743 compute_mask_us=522 commit_token_us=27 tokens_checked=5/98
+  test:start schema=Github_ultra---o6356.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=19 tokenize_us=287 tokens=134
+  test:end schema=Github_ultra---o6356.json test_index=1 actual_result=passed validation_loop_us=283 compute_mask_us=168 commit_token_us=18 tokens_checked=5/134
+  test:start schema=Github_ultra---o6356.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=15 tokenize_us=192 tokens=98
+  test:end schema=Github_ultra---o6356.json test_index=2 actual_result=passed validation_loop_us=271 compute_mask_us=165 commit_token_us=17 tokens_checked=5/98
+schema:end path=maskbench/data/Github_ultra---o6356.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6357.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153640
+engine:init_done us=1008671
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 514 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6357.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6357.json
+  compile_grammar:start schema=Github_ultra---o6357.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o6357.json compile_grammar_us=14229
+  test:start schema=Github_ultra---o6357.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=31 tokenize_us=1086 tokens=288
+  test:end schema=Github_ultra---o6357.json test_index=0 actual_result=failed validation_loop_us=752 compute_mask_us=538 commit_token_us=28 tokens_checked=5/288
+  test:start schema=Github_ultra---o6357.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=30 tokenize_us=537 tokens=312
+  test:end schema=Github_ultra---o6357.json test_index=1 actual_result=passed validation_loop_us=287 compute_mask_us=172 commit_token_us=16 tokens_checked=5/312
+  test:start schema=Github_ultra---o6357.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=30 tokenize_us=539 tokens=348
+  test:end schema=Github_ultra---o6357.json test_index=2 actual_result=passed validation_loop_us=279 compute_mask_us=175 commit_token_us=16 tokens_checked=5/348
+  test:start schema=Github_ultra---o6357.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=27 tokenize_us=485 tokens=299
+  test:end schema=Github_ultra---o6357.json test_index=3 actual_result=passed validation_loop_us=271 compute_mask_us=168 commit_token_us=18 tokens_checked=5/299
+schema:end path=maskbench/data/Github_ultra---o6357.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6361.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1168924
+engine:init_done us=1015853
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 522 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6361.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6361.json
+  compile_grammar:start schema=Github_ultra---o6361.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o6361.json compile_grammar_us=11412
+  test:start schema=Github_ultra---o6361.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=28 tokenize_us=1114 tokens=229
+  test:end schema=Github_ultra---o6361.json test_index=0 actual_result=failed validation_loop_us=764 compute_mask_us=508 commit_token_us=27 tokens_checked=5/229
+  test:start schema=Github_ultra---o6361.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=27 tokenize_us=430 tokens=253
+  test:end schema=Github_ultra---o6361.json test_index=1 actual_result=passed validation_loop_us=285 compute_mask_us=166 commit_token_us=18 tokens_checked=5/253
+  test:start schema=Github_ultra---o6361.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=24 tokenize_us=368 tokens=237
+  test:end schema=Github_ultra---o6361.json test_index=2 actual_result=passed validation_loop_us=266 compute_mask_us=157 commit_token_us=16 tokens_checked=5/237
+  test:start schema=Github_ultra---o6361.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=22 tokenize_us=379 tokens=244
+  test:end schema=Github_ultra---o6361.json test_index=3 actual_result=passed validation_loop_us=266 compute_mask_us=158 commit_token_us=17 tokens_checked=5/244
+schema:end path=maskbench/data/Github_ultra---o6361.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6362.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1156159
+engine:init_done us=1012880
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 530 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6362.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6362.json
+  compile_grammar:start schema=Github_ultra---o6362.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6362.json compile_grammar_us=11901
+  test:start schema=Github_ultra---o6362.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=33 tokenize_us=1187 tokens=311
+  test:end schema=Github_ultra---o6362.json test_index=0 actual_result=failed validation_loop_us=810 compute_mask_us=542 commit_token_us=30 tokens_checked=5/311
+  test:start schema=Github_ultra---o6362.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=26 tokenize_us=388 tokens=229
+  test:end schema=Github_ultra---o6362.json test_index=1 actual_result=failed validation_loop_us=282 compute_mask_us=165 commit_token_us=18 tokens_checked=5/229
+  test:start schema=Github_ultra---o6362.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=27 tokenize_us=431 tokens=273
+  test:end schema=Github_ultra---o6362.json test_index=2 actual_result=passed validation_loop_us=275 compute_mask_us=164 commit_token_us=18 tokens_checked=5/273
+  test:start schema=Github_ultra---o6362.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=23 tokenize_us=372 tokens=254
+  test:end schema=Github_ultra---o6362.json test_index=3 actual_result=passed validation_loop_us=270 compute_mask_us=161 commit_token_us=18 tokens_checked=5/254
+  test:start schema=Github_ultra---o6362.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=23 tokenize_us=352 tokens=233
+  test:end schema=Github_ultra---o6362.json test_index=4 actual_result=passed validation_loop_us=272 compute_mask_us=161 commit_token_us=18 tokens_checked=5/233
+schema:end path=maskbench/data/Github_ultra---o6362.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6363.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1151225
+engine:init_done us=1020621
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 540 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6363.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6363.json
+  compile_grammar:start schema=Github_ultra---o6363.json selected_tests=6
+  compile_grammar:end schema=Github_ultra---o6363.json compile_grammar_us=12362
+  test:start schema=Github_ultra---o6363.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=18 tokenize_us=932 tokens=93
+  test:end schema=Github_ultra---o6363.json test_index=0 actual_result=failed validation_loop_us=796 compute_mask_us=533 commit_token_us=29 tokens_checked=5/93
+  test:start schema=Github_ultra---o6363.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=15 tokenize_us=238 tokens=101
+  test:end schema=Github_ultra---o6363.json test_index=1 actual_result=passed validation_loop_us=297 compute_mask_us=175 commit_token_us=18 tokens_checked=5/101
+  test:start schema=Github_ultra---o6363.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=22 tokenize_us=384 tokens=214
+  test:end schema=Github_ultra---o6363.json test_index=2 actual_result=passed validation_loop_us=273 compute_mask_us=164 commit_token_us=17 tokens_checked=5/214
+  test:start schema=Github_ultra---o6363.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=26 tokenize_us=445 tokens=276
+  test:end schema=Github_ultra---o6363.json test_index=3 actual_result=failed validation_loop_us=273 compute_mask_us=165 commit_token_us=17 tokens_checked=5/276
+  test:start schema=Github_ultra---o6363.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=28 tokenize_us=414 tokens=284
+  test:end schema=Github_ultra---o6363.json test_index=4 actual_result=passed validation_loop_us=275 compute_mask_us=165 commit_token_us=18 tokens_checked=5/284
+  test:start schema=Github_ultra---o6363.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=25 tokenize_us=382 tokens=267
+  test:end schema=Github_ultra---o6363.json test_index=5 actual_result=passed validation_loop_us=270 compute_mask_us=161 commit_token_us=18 tokens_checked=5/267
+schema:end path=maskbench/data/Github_ultra---o6363.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6364.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1160730
+engine:init_done us=1013563
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 552 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6364.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6364.json
+  compile_grammar:start schema=Github_ultra---o6364.json selected_tests=8
+  compile_grammar:end schema=Github_ultra---o6364.json compile_grammar_us=12555
+  test:start schema=Github_ultra---o6364.json test_index=0
+    prepared test=0 reset_matcher_us=18 test_json_dumps_us=22 tokenize_us=870 tokens=135
+  test:end schema=Github_ultra---o6364.json test_index=0 actual_result=failed validation_loop_us=724 compute_mask_us=468 commit_token_us=27 tokens_checked=5/135
+  test:start schema=Github_ultra---o6364.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=20 tokenize_us=289 tokens=143
+  test:end schema=Github_ultra---o6364.json test_index=1 actual_result=passed validation_loop_us=274 compute_mask_us=160 commit_token_us=16 tokens_checked=5/143
+  test:start schema=Github_ultra---o6364.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=25 tokenize_us=298 tokens=168
+  test:end schema=Github_ultra---o6364.json test_index=2 actual_result=passed validation_loop_us=262 compute_mask_us=156 commit_token_us=18 tokens_checked=5/168
+  test:start schema=Github_ultra---o6364.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=20 tokenize_us=315 tokens=184
+  test:end schema=Github_ultra---o6364.json test_index=3 actual_result=passed validation_loop_us=261 compute_mask_us=156 commit_token_us=17 tokens_checked=5/184
+  test:start schema=Github_ultra---o6364.json test_index=4
+    prepared test=4 reset_matcher_us=12 test_json_dumps_us=16 tokenize_us=194 tokens=87
+  test:end schema=Github_ultra---o6364.json test_index=4 actual_result=failed validation_loop_us=262 compute_mask_us=156 commit_token_us=17 tokens_checked=5/87
+  test:start schema=Github_ultra---o6364.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=15 tokenize_us=196 tokens=100
+  test:end schema=Github_ultra---o6364.json test_index=5 actual_result=passed validation_loop_us=259 compute_mask_us=155 commit_token_us=16 tokens_checked=5/100
+  test:start schema=Github_ultra---o6364.json test_index=6
+    prepared test=6 reset_matcher_us=11 test_json_dumps_us=14 tokenize_us=190 tokens=95
+  test:end schema=Github_ultra---o6364.json test_index=6 actual_result=passed validation_loop_us=259 compute_mask_us=156 commit_token_us=16 tokens_checked=5/95
+  test:start schema=Github_ultra---o6364.json test_index=7
+    prepared test=7 reset_matcher_us=11 test_json_dumps_us=15 tokenize_us=196 tokens=105
+  test:end schema=Github_ultra---o6364.json test_index=7 actual_result=passed validation_loop_us=258 compute_mask_us=154 commit_token_us=17 tokens_checked=5/105
+schema:end path=maskbench/data/Github_ultra---o6364.json written=8
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6365.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1155853
+engine:init_done us=1011145
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 568 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6365.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6365.json
+  compile_grammar:start schema=Github_ultra---o6365.json selected_tests=8
+  compile_grammar:end schema=Github_ultra---o6365.json compile_grammar_us=11559
+  test:start schema=Github_ultra---o6365.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=19 tokenize_us=981 tokens=92
+  test:end schema=Github_ultra---o6365.json test_index=0 actual_result=failed validation_loop_us=761 compute_mask_us=503 commit_token_us=28 tokens_checked=5/92
+  test:start schema=Github_ultra---o6365.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=16 tokenize_us=229 tokens=100
+  test:end schema=Github_ultra---o6365.json test_index=1 actual_result=passed validation_loop_us=284 compute_mask_us=167 commit_token_us=16 tokens_checked=5/100
+  test:start schema=Github_ultra---o6365.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=30 tokenize_us=672 tokens=403
+  test:end schema=Github_ultra---o6365.json test_index=2 actual_result=passed validation_loop_us=271 compute_mask_us=165 commit_token_us=17 tokens_checked=5/403
+  test:start schema=Github_ultra---o6365.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=14 tokenize_us=171 tokens=77
+  test:end schema=Github_ultra---o6365.json test_index=3 actual_result=passed validation_loop_us=268 compute_mask_us=164 commit_token_us=16 tokens_checked=5/77
+  test:start schema=Github_ultra---o6365.json test_index=4
+    prepared test=4 reset_matcher_us=11 test_json_dumps_us=20 tokenize_us=303 tokens=181
+  test:end schema=Github_ultra---o6365.json test_index=4 actual_result=passed validation_loop_us=270 compute_mask_us=163 commit_token_us=17 tokens_checked=5/181
+  test:start schema=Github_ultra---o6365.json test_index=5
+    prepared test=5 reset_matcher_us=11 test_json_dumps_us=28 tokenize_us=502 tokens=312
+  test:end schema=Github_ultra---o6365.json test_index=5 actual_result=failed validation_loop_us=268 compute_mask_us=163 commit_token_us=16 tokens_checked=5/312
+  test:start schema=Github_ultra---o6365.json test_index=6
+    prepared test=6 reset_matcher_us=12 test_json_dumps_us=29 tokenize_us=490 tokens=339
+  test:end schema=Github_ultra---o6365.json test_index=6 actual_result=passed validation_loop_us=267 compute_mask_us=163 commit_token_us=15 tokens_checked=5/339
+  test:start schema=Github_ultra---o6365.json test_index=7
+    prepared test=7 reset_matcher_us=11 test_json_dumps_us=28 tokenize_us=478 tokens=324
+  test:end schema=Github_ultra---o6365.json test_index=7 actual_result=passed validation_loop_us=269 compute_mask_us=164 commit_token_us=17 tokens_checked=5/324
+schema:end path=maskbench/data/Github_ultra---o6365.json written=8
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6367.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1149535
+engine:init_done us=1011466
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 584 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6367.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6367.json
+  compile_grammar:start schema=Github_ultra---o6367.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6367.json compile_grammar_us=14316
+  test:start schema=Github_ultra---o6367.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=20 tokenize_us=825 tokens=105
+  test:end schema=Github_ultra---o6367.json test_index=0 actual_result=failed validation_loop_us=756 compute_mask_us=533 commit_token_us=26 tokens_checked=5/105
+  test:start schema=Github_ultra---o6367.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=33 tokenize_us=624 tokens=338
+  test:end schema=Github_ultra---o6367.json test_index=1 actual_result=failed validation_loop_us=290 compute_mask_us=173 commit_token_us=17 tokens_checked=5/338
+  test:start schema=Github_ultra---o6367.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=32 tokenize_us=551 tokens=355
+  test:end schema=Github_ultra---o6367.json test_index=2 actual_result=passed validation_loop_us=276 compute_mask_us=168 commit_token_us=20 tokens_checked=5/355
+  test:start schema=Github_ultra---o6367.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=32 tokenize_us=579 tokens=376
+  test:end schema=Github_ultra---o6367.json test_index=3 actual_result=passed validation_loop_us=272 compute_mask_us=166 commit_token_us=17 tokens_checked=5/376
+  test:start schema=Github_ultra---o6367.json test_index=4
+    prepared test=4 reset_matcher_us=12 test_json_dumps_us=26 tokenize_us=440 tokens=275
+  test:end schema=Github_ultra---o6367.json test_index=4 actual_result=passed validation_loop_us=275 compute_mask_us=169 commit_token_us=18 tokens_checked=5/275
+schema:end path=maskbench/data/Github_ultra---o6367.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6369.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1162333
+engine:init_done us=996839
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 594 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6369.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6369.json
+  compile_grammar:start schema=Github_ultra---o6369.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o6369.json compile_grammar_us=14595
+  test:start schema=Github_ultra---o6369.json test_index=0
+    prepared test=0 reset_matcher_us=19 test_json_dumps_us=35 tokenize_us=1166 tokens=354
+  test:end schema=Github_ultra---o6369.json test_index=0 actual_result=failed validation_loop_us=711 compute_mask_us=501 commit_token_us=25 tokens_checked=5/354
+  test:start schema=Github_ultra---o6369.json test_index=1
+    prepared test=1 reset_matcher_us=13 test_json_dumps_us=31 tokenize_us=551 tokens=342
+  test:end schema=Github_ultra---o6369.json test_index=1 actual_result=failed validation_loop_us=275 compute_mask_us=161 commit_token_us=16 tokens_checked=5/342
+  test:start schema=Github_ultra---o6369.json test_index=2
+    prepared test=2 reset_matcher_us=11 test_json_dumps_us=30 tokenize_us=519 tokens=347
+  test:end schema=Github_ultra---o6369.json test_index=2 actual_result=passed validation_loop_us=264 compute_mask_us=160 commit_token_us=17 tokens_checked=5/347
+  test:start schema=Github_ultra---o6369.json test_index=3
+    prepared test=3 reset_matcher_us=11 test_json_dumps_us=28 tokenize_us=471 tokens=329
+  test:end schema=Github_ultra---o6369.json test_index=3 actual_result=passed validation_loop_us=263 compute_mask_us=159 commit_token_us=16 tokens_checked=5/329
+schema:end path=maskbench/data/Github_ultra---o6369.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6371.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1177623
+engine:init_done us=1006705
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 602 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6371.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6371.json
+  compile_grammar:start schema=Github_ultra---o6371.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6371.json compile_grammar_us=14535
+  test:start schema=Github_ultra---o6371.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=20 tokenize_us=875 tokens=105
+  test:end schema=Github_ultra---o6371.json test_index=0 actual_result=failed validation_loop_us=726 compute_mask_us=504 commit_token_us=28 tokens_checked=5/105
+  test:start schema=Github_ultra---o6371.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=33 tokenize_us=654 tokens=363
+  test:end schema=Github_ultra---o6371.json test_index=1 actual_result=failed validation_loop_us=286 compute_mask_us=167 commit_token_us=17 tokens_checked=5/363
+  test:start schema=Github_ultra---o6371.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=32 tokenize_us=559 tokens=374
+  test:end schema=Github_ultra---o6371.json test_index=2 actual_result=passed validation_loop_us=269 compute_mask_us=162 commit_token_us=18 tokens_checked=5/374
+  test:start schema=Github_ultra---o6371.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=32 tokenize_us=553 tokens=375
+  test:end schema=Github_ultra---o6371.json test_index=3 actual_result=passed validation_loop_us=269 compute_mask_us=162 commit_token_us=18 tokens_checked=5/375
+  test:start schema=Github_ultra---o6371.json test_index=4
+    prepared test=4 reset_matcher_us=13 test_json_dumps_us=31 tokenize_us=558 tokens=373
+  test:end schema=Github_ultra---o6371.json test_index=4 actual_result=passed validation_loop_us=269 compute_mask_us=162 commit_token_us=18 tokens_checked=5/373
+schema:end path=maskbench/data/Github_ultra---o6371.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6373.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1156424
+engine:init_done us=1012842
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 612 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6373.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6373.json
+  compile_grammar:start schema=Github_ultra---o6373.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o6373.json compile_grammar_us=15255
+  test:start schema=Github_ultra---o6373.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=20 tokenize_us=836 tokens=98
+  test:end schema=Github_ultra---o6373.json test_index=0 actual_result=failed validation_loop_us=749 compute_mask_us=530 commit_token_us=28 tokens_checked=5/98
+  test:start schema=Github_ultra---o6373.json test_index=1
+    prepared test=1 reset_matcher_us=14 test_json_dumps_us=28 tokenize_us=500 tokens=267
+  test:end schema=Github_ultra---o6373.json test_index=1 actual_result=failed validation_loop_us=287 compute_mask_us=170 commit_token_us=18 tokens_checked=5/267
+  test:start schema=Github_ultra---o6373.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=27 tokenize_us=423 tokens=277
+  test:end schema=Github_ultra---o6373.json test_index=2 actual_result=passed validation_loop_us=275 compute_mask_us=169 commit_token_us=18 tokens_checked=5/277
+  test:start schema=Github_ultra---o6373.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=25 tokenize_us=408 tokens=274
+  test:end schema=Github_ultra---o6373.json test_index=3 actual_result=passed validation_loop_us=272 compute_mask_us=167 commit_token_us=17 tokens_checked=5/274
+  test:start schema=Github_ultra---o6373.json test_index=4
+    prepared test=4 reset_matcher_us=12 test_json_dumps_us=25 tokenize_us=450 tokens=286
+  test:end schema=Github_ultra---o6373.json test_index=4 actual_result=passed validation_loop_us=274 compute_mask_us=167 commit_token_us=17 tokens_checked=5/286
+schema:end path=maskbench/data/Github_ultra---o6373.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6374.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1162607
+engine:init_done us=1010299
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 622 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6374.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6374.json
+  compile_grammar:start schema=Github_ultra---o6374.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o6374.json compile_grammar_us=15785
+  test:start schema=Github_ultra---o6374.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=19 tokenize_us=825 tokens=98
+  test:end schema=Github_ultra---o6374.json test_index=0 actual_result=failed validation_loop_us=739 compute_mask_us=516 commit_token_us=27 tokens_checked=5/98
+  test:start schema=Github_ultra---o6374.json test_index=1
+    prepared test=1 reset_matcher_us=15 test_json_dumps_us=25 tokenize_us=457 tokens=217
+  test:end schema=Github_ultra---o6374.json test_index=1 actual_result=failed validation_loop_us=295 compute_mask_us=171 commit_token_us=17 tokens_checked=5/217
+  test:start schema=Github_ultra---o6374.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=24 tokenize_us=388 tokens=238
+  test:end schema=Github_ultra---o6374.json test_index=2 actual_result=passed validation_loop_us=270 compute_mask_us=163 commit_token_us=17 tokens_checked=5/238
+  test:start schema=Github_ultra---o6374.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=28 tokenize_us=512 tokens=305
+  test:end schema=Github_ultra---o6374.json test_index=3 actual_result=passed validation_loop_us=272 compute_mask_us=164 commit_token_us=19 tokens_checked=5/305
+schema:end path=maskbench/data/Github_ultra---o6374.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o6375.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153722
+engine:init_done us=1007785
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 630 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o6375.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o6375.json
+  compile_grammar:start schema=Github_ultra---o6375.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o6375.json compile_grammar_us=15543
+  test:start schema=Github_ultra---o6375.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=33 tokenize_us=1171 tokens=330
+  test:end schema=Github_ultra---o6375.json test_index=0 actual_result=failed validation_loop_us=719 compute_mask_us=505 commit_token_us=28 tokens_checked=5/330
+  test:start schema=Github_ultra---o6375.json test_index=1
+    prepared test=1 reset_matcher_us=15 test_json_dumps_us=26 tokenize_us=418 tokens=235
+  test:end schema=Github_ultra---o6375.json test_index=1 actual_result=failed validation_loop_us=280 compute_mask_us=164 commit_token_us=17 tokens_checked=5/235
+  test:start schema=Github_ultra---o6375.json test_index=2
+    prepared test=2 reset_matcher_us=12 test_json_dumps_us=27 tokenize_us=501 tokens=315
+  test:end schema=Github_ultra---o6375.json test_index=2 actual_result=passed validation_loop_us=269 compute_mask_us=162 commit_token_us=16 tokens_checked=5/315
+  test:start schema=Github_ultra---o6375.json test_index=3
+    prepared test=3 reset_matcher_us=12 test_json_dumps_us=25 tokenize_us=414 tokens=249
+  test:end schema=Github_ultra---o6375.json test_index=3 actual_result=passed validation_loop_us=266 compute_mask_us=162 commit_token_us=17 tokens_checked=5/249
+schema:end path=maskbench/data/Github_ultra---o6375.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65323.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1151888
+engine:init_done us=1013676
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 638 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65323.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65323.json
+  compile_grammar:start schema=Github_ultra---o65323.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o65323.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o65323.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65421.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1171975
+engine:init_done us=1012577
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 650 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65421.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65421.json
+  compile_grammar:start schema=Github_ultra---o65421.json selected_tests=8
+  compile_grammar:error schema=Github_ultra---o65421.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o65421.json written=8
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65424.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1154306
+engine:init_done us=1002864
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 666 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65424.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65424.json
+  compile_grammar:start schema=Github_ultra---o65424.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o65424.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o65424.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65431.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1162140
+engine:init_done us=1014427
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 678 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65431.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65431.json
+  compile_grammar:start schema=Github_ultra---o65431.json selected_tests=5
+  compile_grammar:error schema=Github_ultra---o65431.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o65431.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65671.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1154389
+engine:init_done us=1008378
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 688 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65671.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65671.json
+  compile_grammar:start schema=Github_ultra---o65671.json selected_tests=8
+  compile_grammar:error schema=Github_ultra---o65671.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o65671.json written=8
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65673.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1179426
+engine:init_done us=1005892
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 704 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65673.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65673.json
+  compile_grammar:start schema=Github_ultra---o65673.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o65673.json error=ValueError('Unimplemented keys: ["not"]')
+schema:end path=maskbench/data/Github_ultra---o65673.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o65891.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1145753
+engine:init_done us=1011967
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 716 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o65891.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o65891.json
+  compile_grammar:start schema=Github_ultra---o65891.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o65891.json compile_grammar_us=3677
+  test:start schema=Github_ultra---o65891.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=67 tokenize_us=2483 tokens=1190
+  test:end schema=Github_ultra---o65891.json test_index=0 actual_result=failed validation_loop_us=3564 compute_mask_us=3127 commit_token_us=221 tokens_checked=69/1190
+  test:start schema=Github_ultra---o65891.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=74 tokenize_us=1711 tokens=1181
+  test:end schema=Github_ultra---o65891.json test_index=1 actual_result=failed validation_loop_us=2232 compute_mask_us=1869 commit_token_us=179 tokens_checked=69/1181
+  test:start schema=Github_ultra---o65891.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=68 tokenize_us=1653 tokens=1180
+  test:end schema=Github_ultra---o65891.json test_index=2 actual_result=passed validation_loop_us=1218 compute_mask_us=1051 commit_token_us=94 tokens_checked=36/1180
+schema:end path=maskbench/data/Github_ultra---o65891.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o66714.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1180236
+engine:init_done us=1022417
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 722 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o66714.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o66714.json
+  compile_grammar:start schema=Github_ultra---o66714.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o66714.json compile_grammar_us=9482
+  test:start schema=Github_ultra---o66714.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=91 tokenize_us=3442 tokens=1766
+  test:end schema=Github_ultra---o66714.json test_index=0 actual_result=failed validation_loop_us=2206 compute_mask_us=1911 commit_token_us=146 tokens_checked=50/1766
+  test:start schema=Github_ultra---o66714.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=96 tokenize_us=2571 tokens=1784
+  test:end schema=Github_ultra---o66714.json test_index=1 actual_result=failed validation_loop_us=1453 compute_mask_us=1196 commit_token_us=114 tokens_checked=50/1784
+  test:start schema=Github_ultra---o66714.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=90 tokenize_us=2515 tokens=1761
+  test:end schema=Github_ultra---o66714.json test_index=2 actual_result=passed validation_loop_us=1467 compute_mask_us=1210 commit_token_us=116 tokens_checked=50/1761
+  test:start schema=Github_ultra---o66714.json test_index=3
+    prepared test=3 reset_matcher_us=17 test_json_dumps_us=90 tokenize_us=2524 tokens=1782
+  test:end schema=Github_ultra---o66714.json test_index=3 actual_result=passed validation_loop_us=1427 compute_mask_us=1183 commit_token_us=113 tokens_checked=50/1782
+  test:start schema=Github_ultra---o66714.json test_index=4
+    prepared test=4 reset_matcher_us=16 test_json_dumps_us=90 tokenize_us=2495 tokens=1775
+  test:end schema=Github_ultra---o66714.json test_index=4 actual_result=passed validation_loop_us=1439 compute_mask_us=1191 commit_token_us=117 tokens_checked=50/1775
+schema:end path=maskbench/data/Github_ultra---o66714.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o66715.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159579
+engine:init_done us=1012562
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 732 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o66715.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o66715.json
+  compile_grammar:start schema=Github_ultra---o66715.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o66715.json compile_grammar_us=9528
+  test:start schema=Github_ultra---o66715.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=93 tokenize_us=3521 tokens=1797
+  test:end schema=Github_ultra---o66715.json test_index=0 actual_result=failed validation_loop_us=2234 compute_mask_us=1927 commit_token_us=147 tokens_checked=50/1797
+  test:start schema=Github_ultra---o66715.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=94 tokenize_us=2615 tokens=1793
+  test:end schema=Github_ultra---o66715.json test_index=1 actual_result=failed validation_loop_us=1468 compute_mask_us=1211 commit_token_us=116 tokens_checked=50/1793
+  test:start schema=Github_ultra---o66715.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=90 tokenize_us=2523 tokens=1770
+  test:end schema=Github_ultra---o66715.json test_index=2 actual_result=passed validation_loop_us=1474 compute_mask_us=1219 commit_token_us=118 tokens_checked=50/1770
+  test:start schema=Github_ultra---o66715.json test_index=3
+    prepared test=3 reset_matcher_us=22 test_json_dumps_us=91 tokenize_us=2497 tokens=1779
+  test:end schema=Github_ultra---o66715.json test_index=3 actual_result=passed validation_loop_us=1455 compute_mask_us=1204 commit_token_us=119 tokens_checked=50/1779
+  test:start schema=Github_ultra---o66715.json test_index=4
+    prepared test=4 reset_matcher_us=17 test_json_dumps_us=80 tokenize_us=2517 tokens=1791
+  test:end schema=Github_ultra---o66715.json test_index=4 actual_result=passed validation_loop_us=328 compute_mask_us=277 commit_token_us=30 tokens_checked=9/1791
+schema:end path=maskbench/data/Github_ultra---o66715.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o68411.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1171253
+engine:init_done us=1023957
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 742 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o68411.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o68411.json
+  compile_grammar:start schema=Github_ultra---o68411.json selected_tests=12
+  compile_grammar:error schema=Github_ultra---o68411.json error=ValueError('Unimplemented keys: ["patternProperties"]')
+schema:end path=maskbench/data/Github_ultra---o68411.json written=12
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o68588.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1156416
+engine:init_done us=1015819
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 766 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o68588.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o68588.json
+  compile_grammar:start schema=Github_ultra---o68588.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o68588.json compile_grammar_us=6248
+  test:start schema=Github_ultra---o68588.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=86 tokenize_us=3358 tokens=1733
+  test:end schema=Github_ultra---o68588.json test_index=0 actual_result=failed validation_loop_us=4599 compute_mask_us=4241 commit_token_us=172 tokens_checked=54/1733
+  test:start schema=Github_ultra---o68588.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=86 tokenize_us=2657 tokens=1758
+  test:end schema=Github_ultra---o68588.json test_index=1 actual_result=failed validation_loop_us=3162 compute_mask_us=2886 commit_token_us=108 tokens_checked=45/1758
+schema:end path=maskbench/data/Github_ultra---o68588.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o69209.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1185739
+engine:init_done us=1022392
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 770 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o69209.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o69209.json
+  compile_grammar:start schema=Github_ultra---o69209.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o69209.json compile_grammar_us=11687
+  test:start schema=Github_ultra---o69209.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=42 tokenize_us=1594 tokens=647
+  test:end schema=Github_ultra---o69209.json test_index=0 actual_result=failed validation_loop_us=1400 compute_mask_us=1298 commit_token_us=64 tokens_checked=13/647
+  test:start schema=Github_ultra---o69209.json test_index=1
+    prepared test=1 reset_matcher_us=17 test_json_dumps_us=39 tokenize_us=890 tokens=627
+  test:end schema=Github_ultra---o69209.json test_index=1 actual_result=passed validation_loop_us=634 compute_mask_us=562 commit_token_us=41 tokens_checked=13/627
+  test:start schema=Github_ultra---o69209.json test_index=2
+    prepared test=2 reset_matcher_us=15 test_json_dumps_us=38 tokenize_us=869 tokens=638
+  test:end schema=Github_ultra---o69209.json test_index=2 actual_result=passed validation_loop_us=5690 compute_mask_us=5318 commit_token_us=195 tokens_checked=37/638
+schema:end path=maskbench/data/Github_ultra---o69209.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o69900.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1152729
+engine:init_done us=1011071
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 776 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o69900.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o69900.json
+  compile_grammar:start schema=Github_ultra---o69900.json selected_tests=8
+  compile_grammar:error schema=Github_ultra---o69900.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o69900.json written=8
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o69992.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1170505
+engine:init_done us=1010336
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 792 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o69992.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o69992.json
+  compile_grammar:start schema=Github_ultra---o69992.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o69992.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o69992.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o71471.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157955
+engine:init_done us=1012987
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 800 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o71471.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o71471.json
+  compile_grammar:start schema=Github_ultra---o71471.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o71471.json compile_grammar_us=5428
+  test:start schema=Github_ultra---o71471.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=57 tokenize_us=2441 tokens=1206
+  test:end schema=Github_ultra---o71471.json test_index=0 actual_result=failed validation_loop_us=5354 compute_mask_us=4680 commit_token_us=440 tokens_checked=67/1206
+  test:start schema=Github_ultra---o71471.json test_index=1
+    prepared test=1 reset_matcher_us=18 test_json_dumps_us=63 tokenize_us=1742 tokens=1230
+  test:end schema=Github_ultra---o71471.json test_index=1 actual_result=failed validation_loop_us=3672 compute_mask_us=3322 commit_token_us=144 tokens_checked=67/1230
+  test:start schema=Github_ultra---o71471.json test_index=2
+    prepared test=2 reset_matcher_us=17 test_json_dumps_us=58 tokenize_us=1711 tokens=1225
+  test:end schema=Github_ultra---o71471.json test_index=2 actual_result=passed validation_loop_us=3599 compute_mask_us=3260 commit_token_us=141 tokens_checked=67/1225
+schema:end path=maskbench/data/Github_ultra---o71471.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o7578.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1173326
+engine:init_done us=1006579
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 806 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o7578.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o7578.json
+  compile_grammar:start schema=Github_ultra---o7578.json selected_tests=5
+  compile_grammar:end schema=Github_ultra---o7578.json compile_grammar_us=13481
+  test:start schema=Github_ultra---o7578.json test_index=0
+    prepared test=0 reset_matcher_us=24 test_json_dumps_us=77 tokenize_us=3074 tokens=1686
+  test:end schema=Github_ultra---o7578.json test_index=0 actual_result=failed validation_loop_us=13165 compute_mask_us=11669 commit_token_us=1029 tokens_checked=191/1686
+  test:start schema=Github_ultra---o7578.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=73 tokenize_us=2449 tokens=1672
+  test:end schema=Github_ultra---o7578.json test_index=1 actual_result=failed validation_loop_us=8976 compute_mask_us=8155 commit_token_us=402 tokens_checked=189/1672
+  test:start schema=Github_ultra---o7578.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=74 tokenize_us=2329 tokens=1672
+  test:end schema=Github_ultra---o7578.json test_index=2 actual_result=passed validation_loop_us=676 compute_mask_us=568 commit_token_us=55 tokens_checked=24/1672
+  test:start schema=Github_ultra---o7578.json test_index=3
+    prepared test=3 reset_matcher_us=16 test_json_dumps_us=69 tokenize_us=2341 tokens=1665
+  test:end schema=Github_ultra---o7578.json test_index=3 actual_result=passed validation_loop_us=510 compute_mask_us=439 commit_token_us=41 tokens_checked=15/1665
+  test:start schema=Github_ultra---o7578.json test_index=4
+    prepared test=4 reset_matcher_us=16 test_json_dumps_us=67 tokenize_us=2301 tokens=1673
+  test:end schema=Github_ultra---o7578.json test_index=4 actual_result=passed validation_loop_us=598 compute_mask_us=505 commit_token_us=50 tokens_checked=21/1673
+schema:end path=maskbench/data/Github_ultra---o7578.json written=5
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o76156.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153371
+engine:init_done us=1014798
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 816 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o76156.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o76156.json
+  compile_grammar:start schema=Github_ultra---o76156.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o76156.json compile_grammar_us=2604
+  test:start schema=Github_ultra---o76156.json test_index=0
+    prepared test=0 reset_matcher_us=20 test_json_dumps_us=35 tokenize_us=1716 tokens=694
+  test:end schema=Github_ultra---o76156.json test_index=0 actual_result=failed validation_loop_us=26259 compute_mask_us=23773 commit_token_us=1414 tokens_checked=545/694
+  test:start schema=Github_ultra---o76156.json test_index=1
+    prepared test=1 reset_matcher_us=28 test_json_dumps_us=48 tokenize_us=1085 tokens=702
+  test:end schema=Github_ultra---o76156.json test_index=1 actual_result=passed validation_loop_us=4875 compute_mask_us=4380 commit_token_us=281 tokens_checked=121/702
+  test:start schema=Github_ultra---o76156.json test_index=2
+    prepared test=2 reset_matcher_us=18 test_json_dumps_us=39 tokenize_us=1012 tokens=682
+  test:end schema=Github_ultra---o76156.json test_index=2 actual_result=failed validation_loop_us=22559 compute_mask_us=20189 commit_token_us=1338 tokens_checked=536/682
+  test:start schema=Github_ultra---o76156.json test_index=3
+    prepared test=3 reset_matcher_us=24 test_json_dumps_us=45 tokenize_us=1028 tokens=701
+  test:end schema=Github_ultra---o76156.json test_index=3 actual_result=passed validation_loop_us=902 compute_mask_us=800 commit_token_us=58 tokens_checked=22/701
+schema:end path=maskbench/data/Github_ultra---o76156.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o78057.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159316
+engine:init_done us=1013497
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 824 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o78057.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o78057.json
+  compile_grammar:start schema=Github_ultra---o78057.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o78057.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o78057.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o78463.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1161466
+engine:init_done us=998656
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 836 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o78463.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o78463.json
+  compile_grammar:start schema=Github_ultra---o78463.json selected_tests=7
+  compile_grammar:error schema=Github_ultra---o78463.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o78463.json written=7
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o79009.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1151694
+engine:init_done us=1003041
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 850 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o79009.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o79009.json
+  compile_grammar:start schema=Github_ultra---o79009.json selected_tests=4
+  compile_grammar:error schema=Github_ultra---o79009.json error=ValueError("oneOf constraints are not supported. Enable 'coerce_one_of' option to approximate oneOf with anyOf")
+schema:end path=maskbench/data/Github_ultra---o79009.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o80208.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153395
+engine:init_done us=1013145
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 858 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o80208.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o80208.json
+  compile_grammar:start schema=Github_ultra---o80208.json selected_tests=1
+  compile_grammar:end schema=Github_ultra---o80208.json compile_grammar_us=5491
+  test:start schema=Github_ultra---o80208.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=98 tokenize_us=3830 tokens=1976
+  test:end schema=Github_ultra---o80208.json test_index=0 actual_result=failed validation_loop_us=563 compute_mask_us=467 commit_token_us=29 tokens_checked=5/1976
+schema:end path=maskbench/data/Github_ultra---o80208.json written=1
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o80235.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1193085
+engine:init_done us=1024725
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 860 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o80235.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o80235.json
+  compile_grammar:start schema=Github_ultra---o80235.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o80235.json compile_grammar_us=8038
+  test:start schema=Github_ultra---o80235.json test_index=0
+    prepared test=0 reset_matcher_us=21 test_json_dumps_us=209 tokenize_us=9726 tokens=5838
+  test:end schema=Github_ultra---o80235.json test_index=0 actual_result=failed validation_loop_us=2652 compute_mask_us=2374 commit_token_us=125 tokens_checked=42/5838
+  test:start schema=Github_ultra---o80235.json test_index=1
+    prepared test=1 reset_matcher_us=26 test_json_dumps_us=207 tokenize_us=8889 tokens=5856
+  test:end schema=Github_ultra---o80235.json test_index=1 actual_result=failed validation_loop_us=2007 compute_mask_us=1772 commit_token_us=99 tokens_checked=42/5856
+schema:end path=maskbench/data/Github_ultra---o80235.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o81125.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1157590
+engine:init_done us=1009094
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 864 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o81125.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o81125.json
+  compile_grammar:start schema=Github_ultra---o81125.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o81125.json compile_grammar_us=14207
+  test:start schema=Github_ultra---o81125.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=20 tokenize_us=846 tokens=114
+  test:end schema=Github_ultra---o81125.json test_index=0 actual_result=passed validation_loop_us=7254 compute_mask_us=6614 commit_token_us=411 tokens_checked=114/114
+  test:start schema=Github_ultra---o81125.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=18 tokenize_us=269 tokens=126
+  test:end schema=Github_ultra---o81125.json test_index=1 actual_result=passed validation_loop_us=5674 compute_mask_us=5158 commit_token_us=279 tokens_checked=126/126
+  test:start schema=Github_ultra---o81125.json test_index=2
+    prepared test=2 reset_matcher_us=19 test_json_dumps_us=17 tokenize_us=256 tokens=131
+  test:end schema=Github_ultra---o81125.json test_index=2 actual_result=passed validation_loop_us=806 compute_mask_us=697 commit_token_us=60 tokens_checked=23/131
+schema:end path=maskbench/data/Github_ultra---o81125.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o83390.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1154664
+engine:init_done us=1003472
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 870 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o83390.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o83390.json
+  compile_grammar:start schema=Github_ultra---o83390.json selected_tests=4
+  compile_grammar:end schema=Github_ultra---o83390.json compile_grammar_us=8644
+  test:start schema=Github_ultra---o83390.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=62 tokenize_us=2050 tokens=887
+  test:end schema=Github_ultra---o83390.json test_index=0 actual_result=failed validation_loop_us=12931 compute_mask_us=11394 commit_token_us=968 tokens_checked=256/887
+  test:start schema=Github_ultra---o83390.json test_index=1
+    prepared test=1 reset_matcher_us=24 test_json_dumps_us=66 tokenize_us=1283 tokens=883
+  test:end schema=Github_ultra---o83390.json test_index=1 actual_result=failed validation_loop_us=10202 compute_mask_us=9101 commit_token_us=555 tokens_checked=256/883
+  test:start schema=Github_ultra---o83390.json test_index=2
+    prepared test=2 reset_matcher_us=21 test_json_dumps_us=66 tokenize_us=1299 tokens=914
+  test:end schema=Github_ultra---o83390.json test_index=2 actual_result=passed validation_loop_us=10112 compute_mask_us=9033 commit_token_us=548 tokens_checked=252/914
+  test:start schema=Github_ultra---o83390.json test_index=3
+    prepared test=3 reset_matcher_us=21 test_json_dumps_us=63 tokenize_us=1224 tokens=880
+  test:end schema=Github_ultra---o83390.json test_index=3 actual_result=passed validation_loop_us=4387 compute_mask_us=3961 commit_token_us=235 tokens_checked=105/880
+schema:end path=maskbench/data/Github_ultra---o83390.json written=4
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o83854.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1153951
+engine:init_done us=1014973
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 878 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o83854.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o83854.json
+  compile_grammar:start schema=Github_ultra---o83854.json selected_tests=6
+  compile_grammar:error schema=Github_ultra---o83854.json error=ValueError('Unknown format: uri')
+schema:end path=maskbench/data/Github_ultra---o83854.json written=6
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o83932.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1197729
+engine:init_done us=1018794
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 890 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o83932.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o83932.json
+  compile_grammar:start schema=Github_ultra---o83932.json selected_tests=2
+  compile_grammar:error schema=Github_ultra---o83932.json error=ValueError('Unknown format: color')
+schema:end path=maskbench/data/Github_ultra---o83932.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o84269.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1191542
+engine:init_done us=1017553
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 894 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o84269.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o84269.json
+  compile_grammar:start schema=Github_ultra---o84269.json selected_tests=7
+  compile_grammar:end schema=Github_ultra---o84269.json compile_grammar_us=4153
+  test:start schema=Github_ultra---o84269.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=43 tokenize_us=2030 tokens=645
+  test:end schema=Github_ultra---o84269.json test_index=0 actual_result=passed validation_loop_us=98750 compute_mask_us=96030 commit_token_us=1505 tokens_checked=645/645
+  test:start schema=Github_ultra---o84269.json test_index=1
+    prepared test=1 reset_matcher_us=42 test_json_dumps_us=43 tokenize_us=749 tokens=450
+  test:end schema=Github_ultra---o84269.json test_index=1 actual_result=passed validation_loop_us=200 compute_mask_us=169 commit_token_us=17 tokens_checked=5/450
+  test:start schema=Github_ultra---o84269.json test_index=2
+    prepared test=2 reset_matcher_us=16 test_json_dumps_us=42 tokenize_us=1004 tokens=653
+  test:end schema=Github_ultra---o84269.json test_index=2 actual_result=passed validation_loop_us=95725 compute_mask_us=93112 commit_token_us=1391 tokens_checked=645/653
+  test:start schema=Github_ultra---o84269.json test_index=3
+    prepared test=3 reset_matcher_us=41 test_json_dumps_us=48 tokenize_us=1033 tokens=664
+  test:end schema=Github_ultra---o84269.json test_index=3 actual_result=passed validation_loop_us=12422 compute_mask_us=11986 commit_token_us=247 tokens_checked=102/664
+  test:start schema=Github_ultra---o84269.json test_index=4
+    prepared test=4 reset_matcher_us=21 test_json_dumps_us=43 tokenize_us=1030 tokens=662
+  test:end schema=Github_ultra---o84269.json test_index=4 actual_result=passed validation_loop_us=96685 compute_mask_us=93972 commit_token_us=1441 tokens_checked=662/662
+  test:start schema=Github_ultra---o84269.json test_index=5
+    prepared test=5 reset_matcher_us=40 test_json_dumps_us=44 tokenize_us=891 tokens=560
+  test:end schema=Github_ultra---o84269.json test_index=5 actual_result=passed validation_loop_us=7784 compute_mask_us=7547 commit_token_us=130 tokens_checked=52/560
+  test:start schema=Github_ultra---o84269.json test_index=6
+    prepared test=6 reset_matcher_us=18 test_json_dumps_us=42 tokenize_us=1040 tokens=671
+  test:end schema=Github_ultra---o84269.json test_index=6 actual_result=passed validation_loop_us=11189 compute_mask_us=10917 commit_token_us=146 tokens_checked=63/671
+schema:end path=maskbench/data/Github_ultra---o84269.json written=7
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o90698.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1155499
+engine:init_done us=1008551
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 908 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o90698.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o90698.json
+  compile_grammar:start schema=Github_ultra---o90698.json selected_tests=2
+  compile_grammar:end schema=Github_ultra---o90698.json compile_grammar_us=4761
+  test:start schema=Github_ultra---o90698.json test_index=0
+    prepared test=0 reset_matcher_us=22 test_json_dumps_us=69 tokenize_us=2177 tokens=1040
+  test:end schema=Github_ultra---o90698.json test_index=0 actual_result=failed validation_loop_us=293 compute_mask_us=193 commit_token_us=10 tokens_checked=1/1040
+  test:start schema=Github_ultra---o90698.json test_index=1
+    prepared test=1 reset_matcher_us=19 test_json_dumps_us=47 tokenize_us=1442 tokens=1021
+  test:end schema=Github_ultra---o90698.json test_index=1 actual_result=failed validation_loop_us=135 compute_mask_us=68 commit_token_us=7 tokens_checked=1/1021
+schema:end path=maskbench/data/Github_ultra---o90698.json written=2
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o9354.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1159082
+engine:init_done us=1022827
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 912 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o9354.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o9354.json
+  compile_grammar:start schema=Github_ultra---o9354.json selected_tests=3
+  compile_grammar:error schema=Github_ultra---o9354.json error=ValueError('Unknown format: topic')
+schema:end path=maskbench/data/Github_ultra---o9354.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721
+
+===== Github_ultra---o9981.json =====
+engine:get_engine framework=guidance engine=LLGuidance
+engine:tokenizer_loaded tokenizer=unsloth/Meta-Llama-3.1-8B-Instruct us=1148622
+engine:init_done us=999768
+Resuming from /tmp/jsonschemabench_guidance_results_clean_20260721/guidance/Github_ultra/per_test_results.jsonl with 918 existing result keys.
+Writing split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721.
+schema:start index=1/1 dataset=Github_ultra path=maskbench/data/Github_ultra---o9981.json
+[1/1] Github_ultra maskbench/data/Github_ultra---o9981.json
+  compile_grammar:start schema=Github_ultra---o9981.json selected_tests=3
+  compile_grammar:end schema=Github_ultra---o9981.json compile_grammar_us=12127
+  test:start schema=Github_ultra---o9981.json test_index=0
+    prepared test=0 reset_matcher_us=23 test_json_dumps_us=67 tokenize_us=3538 tokens=2064
+  test:end schema=Github_ultra---o9981.json test_index=0 actual_result=failed validation_loop_us=88825 compute_mask_us=84373 commit_token_us=3716 tokens_checked=135/2064
+  test:start schema=Github_ultra---o9981.json test_index=1
+    prepared test=1 reset_matcher_us=21 test_json_dumps_us=83 tokenize_us=3053 tokens=2145
+  test:end schema=Github_ultra---o9981.json test_index=1 actual_result=failed validation_loop_us=44788 compute_mask_us=43942 commit_token_us=512 tokens_checked=137/2145
+  test:start schema=Github_ultra---o9981.json test_index=2
+    prepared test=2 reset_matcher_us=20 test_json_dumps_us=18 tokenize_us=331 tokens=134
+  test:end schema=Github_ultra---o9981.json test_index=2 actual_result=passed validation_loop_us=1797 compute_mask_us=1665 commit_token_us=76 tokens_checked=28/134
+schema:end path=maskbench/data/Github_ultra---o9981.json written=3
+Wrote split outputs under /tmp/jsonschemabench_guidance_results_clean_20260721

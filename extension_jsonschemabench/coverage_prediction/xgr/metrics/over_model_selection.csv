@@ -1,0 +1,16 @@
+model,selection_split,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+logistic_regression_c0.3,validation,validation,all,0.64,1131,223,908,0.900088,0.757009,0.726457,0.741419,0.850415,0.740394,0.834594
+logistic_regression_c1,validation,validation,all,0.85,1131,223,908,0.905393,0.805263,0.686099,0.74092,0.849023,0.730628,0.822675
+logistic_regression_c3,validation,validation,all,0.6,1131,223,908,0.901857,0.756881,0.73991,0.748299,0.842884,0.711989,0.84077
+random_forest_leaf1_sqrt,validation,validation,all,0.5,1131,223,908,0.921309,0.848958,0.730942,0.785542,0.864557,0.782234,0.849502
+random_forest_leaf2_sqrt,validation,validation,all,0.67,1131,223,908,0.923961,0.882682,0.70852,0.78607,0.864416,0.782631,0.842696
+random_forest_leaf5_sqrt,validation,validation,all,0.51,1131,223,908,0.916004,0.807692,0.753363,0.779582,0.86534,0.77627,0.854655
+random_forest_leaf2_0.7,validation,validation,all,0.7,1131,223,908,0.920424,0.884393,0.686099,0.772727,0.858327,0.766463,0.832036
+hist_gradient_boosting_lr0.03_l2_0,validation,validation,all,0.74,1131,223,908,0.913351,0.84153,0.690583,0.758621,0.855566,0.759544,0.829322
+hist_gradient_boosting_lr0.03_l2_0.05,validation,validation,all,0.76,1131,223,908,0.915119,0.850829,0.690583,0.762376,0.845388,0.753044,0.830424
+hist_gradient_boosting_lr0.06_l2_0.01,validation,validation,all,0.72,1131,223,908,0.912467,0.836957,0.690583,0.756757,0.84438,0.754899,0.828772
+hist_gradient_boosting_lr0.08_leaf15,validation,validation,all,0.81,1131,223,908,0.918656,0.865922,0.695067,0.771144,0.855482,0.768272,0.834318
+lightgbm_lr0.03_leaves15,validation,validation,all,0.84,1131,223,908,0.918656,0.870056,0.690583,0.77,0.85244,0.75862,0.832626
+lightgbm_lr0.03_leaves31,validation,validation,all,0.76,1131,223,908,0.916888,0.860335,0.690583,0.766169,0.8476,0.759962,0.831525
+lightgbm_lr0.05_leaves31,validation,validation,all,0.88,1131,223,908,0.918656,0.887574,0.672646,0.765306,0.848173,0.76115,0.82586
+lightgbm_lr0.05_leaves63,validation,validation,all,0.6,1131,223,908,0.913351,0.817259,0.721973,0.766667,0.844188,0.758164,0.841163
