@@ -1,7 +1,0 @@
-Selected schema files: 1029
-Timeout per schema: 10.0 minutes
-Progress interval: 1.0 minutes
-Loaded 17439 completed test ids from 7 existing JSONL file(s).
-[1/1029] Github_hard Github_hard---o21334.json: running
-  still running after 1.00 min stage=compile_grammar
-  still running after 2.00 min stage=compile_grammar

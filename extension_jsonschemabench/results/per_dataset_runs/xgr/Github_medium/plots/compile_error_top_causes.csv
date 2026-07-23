@@ -1,5 +1,0 @@
-cause,schema_count,test_count
-numeric bound: non-integer maximum,7,63
-regex/string escape unsupported,1,6
-boolean false schema,1,4
-schema node is array,1,3
