@@ -1,0 +1,16 @@
+model,selection_split,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+logistic_regression_c0.3,validation,validation,all,0.64,244,28,216,0.946721,0.857143,0.642857,0.734694,0.917328,0.748608,0.814484
+logistic_regression_c1,validation,validation,all,0.65,244,28,216,0.946721,0.857143,0.642857,0.734694,0.917328,0.748608,0.814484
+logistic_regression_c3,validation,validation,all,0.65,244,28,216,0.946721,0.857143,0.642857,0.734694,0.916336,0.737867,0.814484
+random_forest_leaf1_sqrt,validation,validation,all,0.73,244,28,216,0.946721,1,0.535714,0.697674,0.924272,0.73764,0.767857
+random_forest_leaf2_sqrt,validation,validation,all,0.71,244,28,216,0.954918,1,0.607143,0.755556,0.935847,0.759035,0.803571
+random_forest_leaf5_sqrt,validation,validation,all,0.69,244,28,216,0.95082,1,0.571429,0.727273,0.927249,0.732681,0.785714
+random_forest_leaf2_0.7,validation,validation,all,0.73,244,28,216,0.946721,1,0.535714,0.697674,0.924272,0.73764,0.767857
+hist_gradient_boosting_lr0.03_l2_0,validation,validation,all,0.73,244,28,216,0.946721,1,0.535714,0.697674,0.924272,0.73764,0.767857
+hist_gradient_boosting_lr0.03_l2_0.05,validation,validation,all,0.73,244,28,216,0.946721,1,0.535714,0.697674,0.924107,0.737586,0.767857
+hist_gradient_boosting_lr0.06_l2_0.01,validation,validation,all,0.71,244,28,216,0.95082,0.944444,0.607143,0.73913,0.924272,0.73764,0.801257
+hist_gradient_boosting_lr0.08_leaf15,validation,validation,all,0.74,244,28,216,0.946721,1,0.535714,0.697674,0.924272,0.73764,0.767857
+lightgbm_lr0.03_leaves15,validation,validation,all,0.71,244,28,216,0.954918,1,0.607143,0.755556,0.924272,0.741502,0.803571
+lightgbm_lr0.03_leaves31,validation,validation,all,0.72,244,28,216,0.954918,1,0.607143,0.755556,0.924272,0.741502,0.803571
+lightgbm_lr0.05_leaves31,validation,validation,all,0.71,244,28,216,0.95082,0.944444,0.607143,0.73913,0.924272,0.741502,0.801257
+lightgbm_lr0.05_leaves63,validation,validation,all,0.71,244,28,216,0.95082,0.944444,0.607143,0.73913,0.924272,0.741502,0.801257

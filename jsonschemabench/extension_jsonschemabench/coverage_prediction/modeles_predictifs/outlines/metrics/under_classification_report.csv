@@ -1,0 +1,5 @@
+model,split,label,threshold,precision,recall,f1-score,support
+lightgbm_lr0.05_leaves31,test,0,0.87,0.967767,0.996051,0.981705,1266
+lightgbm_lr0.05_leaves31,test,1,0.87,0.962406,0.752941,0.844884,170
+lightgbm_lr0.05_leaves31,test,macro avg,0.87,0.965086,0.874496,0.913295,1436
+lightgbm_lr0.05_leaves31,test,weighted avg,0.87,0.967132,0.96727,0.965508,1436

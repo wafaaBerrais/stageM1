@@ -1,0 +1,61 @@
+|--- numeric_depth <= 1.50
+|   |--- regex_complex_keywords_same_node_count <= 0.50
+|   |   |--- object_required_subset_invalid_context_count <= 1.50
+|   |   |   |--- enum_total_values <= 76.00
+|   |   |   |   |--- object_required_subset_invalid_context_count <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- object_required_subset_invalid_context_count >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- enum_total_values >  76.00
+|   |   |   |   |--- class: 0
+|   |   |--- object_required_subset_invalid_context_count >  1.50
+|   |   |   |--- class: 1
+|   |--- regex_complex_keywords_same_node_count >  0.50
+|   |   |--- instance_string_max_length <= 34.50
+|   |   |   |--- object_additional_properties_case_no_extra_properties <= 0.50
+|   |   |   |   |--- string_pattern_has_anchor <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- string_pattern_has_anchor >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- object_additional_properties_case_no_extra_properties >  0.50
+|   |   |   |   |--- string_pattern_max_length <= 25.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- string_pattern_max_length >  25.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- instance_string_max_length >  34.50
+|   |   |   |--- string_validation_case_format_present <= 0.50
+|   |   |   |   |--- string_has_minLength <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- string_has_minLength >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- string_validation_case_format_present >  0.50
+|   |   |   |   |--- class: 0
+|--- numeric_depth >  1.50
+|   |--- object_additional_properties_case_no_extra_properties <= 0.50
+|   |   |--- numeric_property_required <= 0.50
+|   |   |   |--- class: 1
+|   |   |--- numeric_property_required >  0.50
+|   |   |   |--- enum_total_values <= 4.50
+|   |   |   |   |--- class: 0
+|   |   |   |--- enum_total_values >  4.50
+|   |   |   |   |--- class: 0
+|   |--- object_additional_properties_case_no_extra_properties >  0.50
+|   |   |--- numeric_boundary_case_inside_range <= 0.50
+|   |   |   |--- numeric_boundary_case_not_applicable <= 0.50
+|   |   |   |   |--- numeric_boundary_case_equal_min <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- numeric_boundary_case_equal_min >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- numeric_boundary_case_not_applicable >  0.50
+|   |   |   |   |--- instance_string_count <= 7.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- instance_string_count >  7.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- numeric_boundary_case_inside_range >  0.50
+|   |   |   |--- instance_max_abs_numeric_value <= 1005.50
+|   |   |   |   |--- instance_string_max_length <= 22.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- instance_string_max_length >  22.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- instance_max_abs_numeric_value >  1005.50
+|   |   |   |   |--- class: 0

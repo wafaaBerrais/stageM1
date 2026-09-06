@@ -1,0 +1,5 @@
+model,split,label,threshold,precision,recall,f1-score,support,framework,target,dataset
+lightgbm_lr0.05_leaves31,external_test,0,0.87,1,1,1,2853,outlines,under,Kubernetes
+lightgbm_lr0.05_leaves31,external_test,1,0.87,0,0,0,0,outlines,under,Kubernetes
+lightgbm_lr0.05_leaves31,external_test,macro avg,0.87,0.5,0.5,0.5,2853,outlines,under,Kubernetes
+lightgbm_lr0.05_leaves31,external_test,weighted avg,0.87,1,1,1,2853,outlines,under,Kubernetes

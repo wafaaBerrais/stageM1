@@ -1,0 +1,9 @@
+model,split,dataset,threshold,tn,fp,fn,tp
+random_forest_leaf2_0.7,train,all,0.32,2001,122,2,2319
+random_forest_leaf2_0.7,validation,all,0.32,278,198,43,428
+random_forest_leaf2_0.7,test,all,0.32,248,187,68,455
+random_forest_leaf2_0.7,test_by_dataset,Github_easy,0.32,180,73,49,48
+random_forest_leaf2_0.7,test_by_dataset,Github_hard,0.32,4,23,3,143
+random_forest_leaf2_0.7,test_by_dataset,Github_medium,0.32,17,85,15,242
+random_forest_leaf2_0.7,test_by_dataset,Github_trivial,0.32,47,5,1,9
+random_forest_leaf2_0.7,test_by_dataset,Github_ultra,0.32,0,1,0,13

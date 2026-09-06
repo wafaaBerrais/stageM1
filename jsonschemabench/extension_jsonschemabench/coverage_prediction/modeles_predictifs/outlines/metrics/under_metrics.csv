@@ -1,0 +1,8 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+lightgbm_lr0.05_leaves31,train,all,0.87,6841,873,5968,0.994153,0.990577,0.963345,0.976771,0.999866,0.999057,0.981002
+lightgbm_lr0.05_leaves31,validation,all,0.87,1510,199,1311,0.968874,0.952381,0.80402,0.871935,0.983403,0.938569,0.898959
+lightgbm_lr0.05_leaves31,test,all,0.87,1436,170,1266,0.96727,0.962406,0.752941,0.844884,0.985403,0.943081,0.874496
+lightgbm_lr0.05_leaves31,test_by_dataset,Github_easy,0.87,608,68,540,0.970395,0.931034,0.794118,0.857143,0.983851,0.934699,0.893355
+lightgbm_lr0.05_leaves31,test_by_dataset,Github_medium,0.87,710,97,613,0.961972,0.986111,0.731959,0.840237,0.987631,0.956533,0.865164
+lightgbm_lr0.05_leaves31,test_by_dataset,Github_trivial,0.87,101,4,97,0.990099,1,0.75,0.857143,1,1,0.875
+lightgbm_lr0.05_leaves31,test_by_dataset,Github_ultra,0.87,17,1,16,0.941176,0,0,0,0.625,0.142857,0.5

@@ -1,0 +1,2 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy,framework,target,model_path
+random_forest_leaf2_0.7,external_test,Kubernetes,0.58,1680,346,1334,0.841667,0.987805,0.234104,0.378505,0.843885,0.597467,0.616677,xgr,over,/home/berrais/stage/jsonschemabench/extension_jsonschemabench/coverage_prediction/modeles_predictifs/xgr/models/over_model.pkl

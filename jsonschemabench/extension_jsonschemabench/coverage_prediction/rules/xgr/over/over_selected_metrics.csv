@@ -1,0 +1,2 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy,tn,fp,fn,tp
+tree_depth5_leaf20,test,all,0.7,1151,204,947,0.923545,0.89726,0.642157,0.748571,0.880024,0.761925,0.813159,932,15,73,131

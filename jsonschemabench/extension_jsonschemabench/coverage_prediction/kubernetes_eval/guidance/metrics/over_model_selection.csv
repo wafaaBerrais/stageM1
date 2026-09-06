@@ -1,0 +1,16 @@
+model,selection_split,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+logistic_regression_c0.3,validation,validation,all,0.27,250,125,125,0.768,0.708075,0.912,0.797203,0.851328,0.848942,0.768
+logistic_regression_c1,validation,validation,all,0.28,250,125,125,0.764,0.717105,0.872,0.787004,0.844992,0.842274,0.764
+logistic_regression_c3,validation,validation,all,0.31,250,125,125,0.776,0.741259,0.848,0.791045,0.84224,0.838512,0.776
+random_forest_leaf1_sqrt,validation,validation,all,0.6,250,125,125,0.936,0.957983,0.912,0.934426,0.965824,0.96618,0.936
+random_forest_leaf2_sqrt,validation,validation,all,0.55,250,125,125,0.912,0.932773,0.888,0.909836,0.957376,0.957067,0.912
+random_forest_leaf5_sqrt,validation,validation,all,0.46,250,125,125,0.896,0.896,0.896,0.896,0.931648,0.924532,0.896
+random_forest_leaf2_0.7,validation,validation,all,0.44,250,125,125,0.92,0.92,0.92,0.92,0.960896,0.955751,0.92
+hist_gradient_boosting_lr0.03_l2_0,validation,validation,all,0.23,250,125,125,0.92,0.894737,0.952,0.922481,0.960576,0.948166,0.92
+hist_gradient_boosting_lr0.03_l2_0.05,validation,validation,all,0.18,250,125,125,0.924,0.889706,0.968,0.927203,0.962048,0.950453,0.924
+hist_gradient_boosting_lr0.06_l2_0.01,validation,validation,all,0.29,250,125,125,0.928,0.908397,0.952,0.929688,0.962816,0.95333,0.928
+hist_gradient_boosting_lr0.08_leaf15,validation,validation,all,0.38,250,125,125,0.94,0.916667,0.968,0.941634,0.9616,0.94629,0.94
+lightgbm_lr0.03_leaves15,validation,validation,all,0.32,250,125,125,0.932,0.915385,0.952,0.933333,0.964736,0.952517,0.932
+lightgbm_lr0.03_leaves31,validation,validation,all,0.11,250,125,125,0.932,0.902985,0.968,0.934363,0.965248,0.957255,0.932
+lightgbm_lr0.05_leaves31,validation,validation,all,0.16,250,125,125,0.924,0.901515,0.952,0.92607,0.968576,0.962041,0.924
+lightgbm_lr0.05_leaves63,validation,validation,all,0.72,250,125,125,0.936,0.957983,0.912,0.934426,0.967744,0.959058,0.936

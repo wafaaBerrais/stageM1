@@ -1,0 +1,2 @@
+model,selection_split,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+lightgbm_lr0.05_leaves31,validation,validation,all,0.87,1510,199,1311,0.968874,0.952381,0.80402,0.871935,0.983403,0.938569,0.898959

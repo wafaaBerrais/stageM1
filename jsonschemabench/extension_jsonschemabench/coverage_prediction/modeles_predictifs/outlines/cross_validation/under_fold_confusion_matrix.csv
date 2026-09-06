@@ -1,0 +1,6 @@
+framework,target,fold,model,split,dataset,threshold,tn,fp,fn,tp
+outlines,under,1,lightgbm_lr0.05_leaves31,fold_1,all,0.39,1658,51,46,203
+outlines,under,2,lightgbm_lr0.05_leaves31,fold_2,all,0.89,1690,19,54,195
+outlines,under,3,lightgbm_lr0.05_leaves31,fold_3,all,0.53,1672,36,52,196
+outlines,under,4,lightgbm_lr0.05_leaves31,fold_4,all,0.15,1631,79,39,208
+outlines,under,5,lightgbm_lr0.05_leaves31,fold_5,all,0.77,1697,12,62,187

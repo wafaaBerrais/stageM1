@@ -1,0 +1,2 @@
+model,split,dataset,threshold,tn,fp,fn,tp,framework,target,model_path
+random_forest_leaf2_0.7,external_test,Kubernetes,0.58,1333,1,265,81,xgr,over,/home/berrais/stage/jsonschemabench/extension_jsonschemabench/coverage_prediction/modeles_predictifs/xgr/models/over_model.pkl

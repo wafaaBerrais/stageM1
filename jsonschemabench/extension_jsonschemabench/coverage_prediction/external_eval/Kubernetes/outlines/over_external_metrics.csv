@@ -1,0 +1,2 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy,framework,target,model_path
+random_forest_leaf5_sqrt,external_test,Kubernetes,0.72,1632,207,1425,0.920343,1,0.371981,0.542254,0.829152,0.571496,0.68599,outlines,over,/home/berrais/stage/jsonschemabench/extension_jsonschemabench/coverage_prediction/modeles_predictifs/outlines/models/over_model.pkl

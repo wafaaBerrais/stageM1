@@ -1,0 +1,5 @@
+model,split,label,threshold,precision,recall,f1-score,support
+random_forest_leaf5_sqrt,test,0,0.72,0.955494,0.984241,0.969654,698
+random_forest_leaf5_sqrt,test,1,0.72,0.894231,0.744,0.812227,125
+random_forest_leaf5_sqrt,test,macro avg,0.72,0.924862,0.86412,0.890941,823
+random_forest_leaf5_sqrt,test,weighted avg,0.72,0.946189,0.947752,0.945744,823

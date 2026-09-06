@@ -1,0 +1,6 @@
+framework,target,fold,model,split,dataset,threshold,tn,fp,fn,tp
+xgr,over,1,random_forest_leaf2_0.7,fold_1,all,0.53,1176,37,94,191
+xgr,over,2,random_forest_leaf2_0.7,fold_2,all,0.92,1207,5,129,156
+xgr,over,3,random_forest_leaf2_0.7,fold_3,all,0.46,1170,43,75,210
+xgr,over,4,random_forest_leaf2_0.7,fold_4,all,0.61,1186,26,82,202
+xgr,over,5,random_forest_leaf2_0.7,fold_5,all,0.45,1172,39,72,213

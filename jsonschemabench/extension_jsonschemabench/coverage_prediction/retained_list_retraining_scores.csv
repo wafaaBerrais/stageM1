@@ -1,0 +1,6 @@
+framework,target,model,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+guidance,over,random_forest_leaf2_0.7,0.32,958,523,435,0.73382,0.708723,0.869981,0.781116,0.835503,0.862841,0.720048
+outlines,under,lightgbm_lr0.05_leaves31,0.87,1436,170,1266,0.96727,0.962406,0.752941,0.844884,0.985403,0.943081,0.874496
+outlines,over,random_forest_leaf5_sqrt,0.72,823,125,698,0.947752,0.894231,0.744,0.812227,0.899977,0.842879,0.86412
+xgr,under,random_forest_leaf2_sqrt,0.44,2089,312,1777,0.920057,0.71261,0.778846,0.744257,0.953533,0.831617,0.861849
+xgr,over,random_forest_leaf2_0.7,0.44,1146,222,924,0.903141,0.778894,0.698198,0.736342,0.931996,0.814236,0.82529

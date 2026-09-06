@@ -1,0 +1,5 @@
+model,split,label,threshold,precision,recall,f1-score,support,framework,target,dataset
+random_forest_leaf2_0.7,external_test,0,0.32,0.818598,0.646209,0.72226,831,guidance,over,Kubernetes
+random_forest_leaf2_0.7,external_test,1,0.32,0.706587,0.856106,0.774194,827,guidance,over,Kubernetes
+random_forest_leaf2_0.7,external_test,macro avg,0.32,0.762592,0.751158,0.748227,1658,guidance,over,Kubernetes
+random_forest_leaf2_0.7,external_test,weighted avg,0.32,0.762727,0.750905,0.748164,1658,guidance,over,Kubernetes

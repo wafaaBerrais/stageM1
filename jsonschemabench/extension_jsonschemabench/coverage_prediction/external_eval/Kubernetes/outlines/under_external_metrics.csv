@@ -1,0 +1,2 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy,framework,target,model_path
+lightgbm_lr0.05_leaves31,external_test,Kubernetes,0.87,2853,0,2853,1,0,0,0,,,,outlines,under,/home/berrais/stage/jsonschemabench/extension_jsonschemabench/coverage_prediction/modeles_predictifs/outlines/models/under_model.pkl

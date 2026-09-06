@@ -1,0 +1,7 @@
+framework,target,status,rows,positives,retained_features,selected_model
+guidance,under,single_class,15208,0,0,
+guidance,over,trained,6349,3315,117,random_forest_leaf2_0.7
+outlines,under,trained,9787,1242,146,lightgbm_lr0.05_leaves31
+outlines,over,trained,5267,831,65,random_forest_leaf5_sqrt
+xgr,under,trained,14046,2159,161,random_forest_leaf2_sqrt
+xgr,over,trained,7485,1424,117,random_forest_leaf2_0.7

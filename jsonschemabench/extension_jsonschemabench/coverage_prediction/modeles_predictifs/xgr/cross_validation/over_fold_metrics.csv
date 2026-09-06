@@ -1,0 +1,6 @@
+framework,target,fold,schema_groups_test,features,model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+xgr,over,1,949,139,random_forest_leaf2_0.7,fold_1,all,0.53,1498,285,1213,0.91255,0.837719,0.670175,0.744639,0.950829,0.866575,0.819836
+xgr,over,2,949,139,random_forest_leaf2_0.7,fold_2,all,0.92,1497,285,1212,0.910488,0.968944,0.547368,0.699552,0.939805,0.859115,0.771622
+xgr,over,3,949,139,random_forest_leaf2_0.7,fold_3,all,0.46,1498,285,1213,0.921228,0.83004,0.736842,0.780669,0.941446,0.838851,0.850696
+xgr,over,4,949,139,random_forest_leaf2_0.7,fold_4,all,0.61,1496,284,1212,0.927807,0.885965,0.711268,0.789062,0.957016,0.892173,0.844908
+xgr,over,5,949,139,random_forest_leaf2_0.7,fold_5,all,0.45,1496,285,1211,0.925802,0.845238,0.747368,0.793296,0.95111,0.885945,0.857582

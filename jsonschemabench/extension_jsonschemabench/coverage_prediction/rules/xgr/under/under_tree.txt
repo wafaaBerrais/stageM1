@@ -1,0 +1,76 @@
+|--- any_visited_type_mismatch <= 0.50
+|   |--- object_additional_properties_case_no_extra_properties <= 0.50
+|   |   |--- allOf_branch_count <= 1.50
+|   |   |   |--- additionalProperties_mode_true <= 0.50
+|   |   |   |   |--- instance_string_max_length <= 4.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- instance_string_max_length >  4.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- additionalProperties_mode_true >  0.50
+|   |   |   |   |--- object_required_count_max <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- object_required_count_max >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |--- allOf_branch_count >  1.50
+|   |   |   |--- allOf_ratio_avg <= 0.71
+|   |   |   |   |--- class: 1
+|   |   |   |--- allOf_ratio_avg >  0.71
+|   |   |   |   |--- class: 1
+|   |--- object_additional_properties_case_no_extra_properties >  0.50
+|   |   |--- string_pattern_violation_count <= 0.50
+|   |   |   |--- string_length_violation_count <= 0.50
+|   |   |   |   |--- enum_value_mismatch_count <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- enum_value_mismatch_count >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- string_length_violation_count >  0.50
+|   |   |   |   |--- string_pattern_avg_length <= 10.75
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- string_pattern_avg_length >  10.75
+|   |   |   |   |   |--- class: 1
+|   |   |--- string_pattern_violation_count >  0.50
+|   |   |   |--- string_pattern_avg_length <= 14.42
+|   |   |   |   |--- string_pattern_has_repetition <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- string_pattern_has_repetition >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- string_pattern_avg_length >  14.42
+|   |   |   |   |--- object_has_required_outside_properties <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- object_has_required_outside_properties >  0.50
+|   |   |   |   |   |--- class: 1
+|--- any_visited_type_mismatch >  0.50
+|   |--- combinator_have_required_count <= 0.50
+|   |   |--- additionalProperties_mode_true <= 0.50
+|   |   |   |--- logical_complex_keywords_same_node_count <= 0.50
+|   |   |   |   |--- enum_string_values_count <= 31.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- enum_string_values_count >  31.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- logical_complex_keywords_same_node_count >  0.50
+|   |   |   |   |--- combinator_depth_max <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- combinator_depth_max >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- additionalProperties_mode_true >  0.50
+|   |   |   |--- object_required_count_max <= 1.50
+|   |   |   |   |--- class: 1
+|   |   |   |--- object_required_count_max >  1.50
+|   |   |   |   |--- class: 0
+|   |--- combinator_have_required_count >  0.50
+|   |   |--- object_required_subset_invalid_context_count <= 1.50
+|   |   |   |--- additionalProperties_mode_mixed <= 0.50
+|   |   |   |   |--- array_invalid_items_count <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- array_invalid_items_count >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- additionalProperties_mode_mixed >  0.50
+|   |   |   |   |--- class: 1
+|   |   |--- object_required_subset_invalid_context_count >  1.50
+|   |   |   |--- combinator_same_type_count <= 3.50
+|   |   |   |   |--- object_complex_keywords_same_node_count <= 2.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- object_complex_keywords_same_node_count >  2.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- combinator_same_type_count >  3.50
+|   |   |   |   |--- class: 1

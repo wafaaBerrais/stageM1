@@ -1,0 +1,55 @@
+|--- object_additional_properties_case_extra_allowed_or_absent <= 0.50
+|   |--- patternProperties_pattern_count <= 0.50
+|   |   |--- object_context_count <= 7.50
+|   |   |   |--- string_pattern_has_alternation <= 0.50
+|   |   |   |   |--- instance_max_object_depth <= 1.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- instance_max_object_depth >  1.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- string_pattern_has_alternation >  0.50
+|   |   |   |   |--- schema_boolean_schema_count <= 3.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- schema_boolean_schema_count >  3.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- object_context_count >  7.50
+|   |   |   |--- schema_boolean_schema_count <= 8.50
+|   |   |   |   |--- object_depth_max <= 7.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- object_depth_max >  7.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- schema_boolean_schema_count >  8.50
+|   |   |   |   |--- instance_string_max_length <= 49.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- instance_string_max_length >  49.50
+|   |   |   |   |   |--- class: 1
+|   |--- patternProperties_pattern_count >  0.50
+|   |   |--- instance_matching_pattern_keys_count <= 0.50
+|   |   |   |--- instance_num_properties <= 6.50
+|   |   |   |   |--- class: 1
+|   |   |   |--- instance_num_properties >  6.50
+|   |   |   |   |--- class: 1
+|   |   |--- instance_matching_pattern_keys_count >  0.50
+|   |   |   |--- additionalProperties_mode_mixed <= 0.50
+|   |   |   |   |--- instance_matching_pattern_keys_count <= 2.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- instance_matching_pattern_keys_count >  2.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- additionalProperties_mode_mixed >  0.50
+|   |   |   |   |--- class: 1
+|--- object_additional_properties_case_extra_allowed_or_absent >  0.50
+|   |--- additionalProperties_mode_true <= 0.50
+|   |   |--- allOf_satisfied_branch_count <= 1.50
+|   |   |   |--- additionalProperties_mode_mixed <= 0.50
+|   |   |   |   |--- object_missing_required_count <= 0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- object_missing_required_count >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- additionalProperties_mode_mixed >  0.50
+|   |   |   |   |--- class: 1
+|   |   |--- allOf_satisfied_branch_count >  1.50
+|   |   |   |--- class: 0
+|   |--- additionalProperties_mode_true >  0.50
+|   |   |--- instance_numeric_value_count <= 0.50
+|   |   |   |--- class: 0
+|   |   |--- instance_numeric_value_count >  0.50
+|   |   |   |--- class: 1

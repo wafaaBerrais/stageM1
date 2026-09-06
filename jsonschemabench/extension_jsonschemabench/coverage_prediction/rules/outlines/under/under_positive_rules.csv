@@ -1,0 +1,2 @@
+target,leaf_id,predicted_class,positive_rate_train_leaf,positive_count_train_leaf_weighted,negative_count_train_leaf_weighted,weighted_support_train_leaf,n_conditions,test_support,test_positives,test_precision,test_recall_contribution,rule
+under,31,UNDER,0.983695,2408.91,39.9284,2448.84,5,97,88,0.907216,0.615385,numeric_depth > 1.5 AND object_additional_properties_case_no_extra_properties > 0.5 AND numeric_boundary_case_inside_range <= 0.5 AND numeric_boundary_case_not_applicable <= 0.5 AND numeric_boundary_case_equal_min <= 0.5

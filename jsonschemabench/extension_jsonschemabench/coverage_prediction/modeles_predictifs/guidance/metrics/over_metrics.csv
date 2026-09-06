@@ -1,0 +1,9 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+random_forest_leaf2_0.7,train,all,0.32,4444,2321,2123,0.972097,0.95002,0.999138,0.973961,0.999389,0.999444,0.970836
+random_forest_leaf2_0.7,validation,all,0.32,947,471,476,0.745512,0.683706,0.908705,0.78031,0.849823,0.850467,0.746369
+random_forest_leaf2_0.7,test,all,0.32,958,523,435,0.73382,0.708723,0.869981,0.781116,0.835503,0.862841,0.720048
+random_forest_leaf2_0.7,test_by_dataset,Github_easy,0.32,350,97,253,0.651429,0.396694,0.494845,0.440367,0.655882,0.476239,0.603154
+random_forest_leaf2_0.7,test_by_dataset,Github_hard,0.32,173,146,27,0.849711,0.861446,0.979452,0.916667,0.826484,0.957933,0.5638
+random_forest_leaf2_0.7,test_by_dataset,Github_medium,0.32,359,257,102,0.721448,0.740061,0.941634,0.828767,0.690604,0.844212,0.55415
+random_forest_leaf2_0.7,test_by_dataset,Github_trivial,0.32,62,10,52,0.903226,0.642857,0.9,0.75,0.976923,0.945455,0.901923
+random_forest_leaf2_0.7,test_by_dataset,Github_ultra,0.32,14,13,1,0.928571,0.928571,1,0.962963,1,1,0.5

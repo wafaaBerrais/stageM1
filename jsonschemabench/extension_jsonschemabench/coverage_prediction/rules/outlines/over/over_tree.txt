@@ -1,0 +1,40 @@
+|--- unmatched_keys_allowed_by_additionalProperties <= 0.50
+|   |--- combinator_same_type_ratio <= 0.42
+|   |   |--- has_patternProperties <= 0.50
+|   |   |   |--- instance_num_properties <= 0.50
+|   |   |   |   |--- additionalProperties_mode_false <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- additionalProperties_mode_false >  0.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- instance_num_properties >  0.50
+|   |   |   |   |--- additionalProperties_mode_mixed <= 0.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- additionalProperties_mode_mixed >  0.50
+|   |   |   |   |   |--- class: 0
+|   |   |--- has_patternProperties >  0.50
+|   |   |   |--- class: 1
+|   |--- combinator_same_type_ratio >  0.42
+|   |   |--- has_allOf <= 0.50
+|   |   |   |--- combinator_count <= 1.50
+|   |   |   |   |--- instance_num_properties <= 2.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |   |--- instance_num_properties >  2.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- combinator_count >  1.50
+|   |   |   |   |--- class: 1
+|   |   |--- has_allOf >  0.50
+|   |   |   |--- class: 1
+|--- unmatched_keys_allowed_by_additionalProperties >  0.50
+|   |--- branches_have_properties <= 0.50
+|   |   |--- instance_num_properties <= 8.50
+|   |   |   |--- instance_num_properties <= 4.50
+|   |   |   |   |--- unmatched_keys_allowed_by_additionalProperties <= 1.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- unmatched_keys_allowed_by_additionalProperties >  1.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- instance_num_properties >  4.50
+|   |   |   |   |--- class: 1
+|   |   |--- instance_num_properties >  8.50
+|   |   |   |--- class: 1
+|   |--- branches_have_properties >  0.50
+|   |   |--- class: 1

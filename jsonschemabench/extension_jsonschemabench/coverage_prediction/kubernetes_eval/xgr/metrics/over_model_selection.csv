@@ -1,0 +1,16 @@
+model,selection_split,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+logistic_regression_c0.3,validation,validation,all,0.88,248,55,193,0.959677,0.941176,0.872727,0.90566,0.98276,0.947924,0.928592
+logistic_regression_c1,validation,validation,all,0.93,248,55,193,0.959677,0.941176,0.872727,0.90566,0.983043,0.946909,0.928592
+logistic_regression_c3,validation,validation,all,0.93,248,55,193,0.955645,0.923077,0.872727,0.897196,0.981159,0.937578,0.926001
+random_forest_leaf1_sqrt,validation,validation,all,0.56,248,55,193,0.959677,0.868852,0.963636,0.913793,0.989684,0.962869,0.961093
+random_forest_leaf2_sqrt,validation,validation,all,0.65,248,55,193,0.955645,0.854839,0.963636,0.905983,0.988413,0.959112,0.958502
+random_forest_leaf5_sqrt,validation,validation,all,0.78,248,55,193,0.959677,0.924528,0.890909,0.907407,0.986811,0.948791,0.935092
+random_forest_leaf2_0.7,validation,validation,all,0.81,248,55,193,0.96371,0.910714,0.927273,0.918919,0.990297,0.967608,0.950683
+hist_gradient_boosting_lr0.03_l2_0,validation,validation,all,0.74,248,55,193,0.967742,0.898305,0.963636,0.929825,0.992558,0.973663,0.966274
+hist_gradient_boosting_lr0.03_l2_0.05,validation,validation,all,0.89,248,55,193,0.971774,0.928571,0.945455,0.936937,0.993406,0.977149,0.962365
+hist_gradient_boosting_lr0.06_l2_0.01,validation,validation,all,0.92,248,55,193,0.971774,0.928571,0.945455,0.936937,0.992275,0.972243,0.962365
+hist_gradient_boosting_lr0.08_leaf15,validation,validation,all,0.84,248,55,193,0.967742,0.912281,0.945455,0.928571,0.994159,0.980563,0.959774
+lightgbm_lr0.03_leaves15,validation,validation,all,0.88,248,55,193,0.967742,0.912281,0.945455,0.928571,0.992652,0.97515,0.959774
+lightgbm_lr0.03_leaves31,validation,validation,all,0.91,248,55,193,0.96371,0.896552,0.945455,0.920354,0.991616,0.971474,0.957183
+lightgbm_lr0.05_leaves31,validation,validation,all,0.79,248,55,193,0.96371,0.896552,0.945455,0.920354,0.990108,0.96522,0.957183
+lightgbm_lr0.05_leaves63,validation,validation,all,0.66,248,55,193,0.959677,0.868852,0.963636,0.913793,0.989543,0.962389,0.961093

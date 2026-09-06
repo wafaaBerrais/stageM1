@@ -1,0 +1,9 @@
+model,split,dataset,threshold,n,positives,negatives,accuracy,precision,recall,f1,roc_auc,pr_auc,balanced_accuracy
+random_forest_leaf2_0.7,train,all,0.44,5221,1004,4217,0.990423,0.952562,1,0.975705,0.999957,0.999817,0.994072
+random_forest_leaf2_0.7,validation,all,0.44,1118,198,920,0.92576,0.81768,0.747475,0.781003,0.933108,0.854377,0.855803
+random_forest_leaf2_0.7,test,all,0.44,1146,222,924,0.903141,0.778894,0.698198,0.736342,0.931996,0.814236,0.82529
+random_forest_leaf2_0.7,test_by_dataset,Github_easy,0.44,374,34,340,0.946524,0.705882,0.705882,0.705882,0.954974,0.757034,0.838235
+random_forest_leaf2_0.7,test_by_dataset,Github_hard,0.44,215,57,158,0.818605,0.666667,0.631579,0.648649,0.866755,0.697064,0.758827
+random_forest_leaf2_0.7,test_by_dataset,Github_medium,0.44,467,114,353,0.892934,0.847826,0.684211,0.757282,0.921761,0.856872,0.822275
+random_forest_leaf2_0.7,test_by_dataset,Github_trivial,0.44,69,10,59,0.971014,0.833333,1,0.909091,0.99322,0.962222,0.983051
+random_forest_leaf2_0.7,test_by_dataset,Github_ultra,0.44,21,7,14,1,1,1,1,1,1,1
